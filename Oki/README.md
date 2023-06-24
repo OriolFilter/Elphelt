@@ -22,6 +22,3 @@ The setup is easily reproducible from `SG.S > 214K` aka
 https://youtu.be/Ucn8tEuiIa8?t=1741
 
 + fuckton of damage
-
-
-https://youtu.be/Ucn8tEuiIa8?t=1741
