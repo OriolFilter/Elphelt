@@ -1,4 +1,16 @@
 
+Generally speaking I have issues with my pressure in general.
+
+Therefore, will try to make som 
+
+
+## Johnny
+
+Jesus frick don't do standing berry pull, abuse from shotgun cancel.
+
+
+
+---
 
 ### vs DPs
 
