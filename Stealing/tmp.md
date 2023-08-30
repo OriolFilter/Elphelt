@@ -39,3 +39,8 @@ Horashi - Zawei
 Last round
 
 2H > 2D > j.PKSHD > berry > ... ???%    
+
+
+### Kyouse
+
+https://clips.twitch.tv/SneakyHomelyArmadilloCorgiDerp-r2KMoU2Kb_FEd5x6
