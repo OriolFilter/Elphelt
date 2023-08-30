@@ -8,6 +8,9 @@ Attempting to optimize / standardize shit
 
 #### Shotgun
 
++ Ends in j.H Oki
++ 50% meter
+
 > 6P > Bridal > (66) 236H ~ [H] x3 > 2H > > 236P (> 5P ) > c.S > j.7H ~ j.4 (toss)
  
 You want to wait for the opponent to be fairly close to the ground.
@@ -17,3 +20,4 @@ You want to wait for the opponent to be fairly close to the ground.
 [On `Midweights` you need the opponent to be close to the ground, otherwise 2H might wiff](src/Corner/6P/Bridal/Shotgun/Corner_6P_Bridal_Midweights.mp4)
 
 [On `Lightweights` you need the opponent to be close to the ground, otherwise 2H might wiff](src/Corner/6P/Bridal/Shotgun/Corner_6P_Bridal_Lightweights.mp4)
+
