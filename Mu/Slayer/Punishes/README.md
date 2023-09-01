@@ -149,6 +149,6 @@ We can also replace `Bridal` for `Berry Pull`, this might be preferred to do in 
 - Needs to be **VERY** close to the corner.
 - Quite meme since it's quite tight and corner is required.
 
-> [SG.H]. [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H]x3 > 6H  
+> [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H]x3 > 6H  
 
 [Punish_Pilebunker_Corner_w_Shotgun_meme.mp4](src/Pilebunker/Punish_Pilebunker_Corner_w_Shotgun_meme.mp4)
