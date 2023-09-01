@@ -14,7 +14,7 @@ Only punishable on Shotgun stance __AND__ IB.
 
 On Block is `-1`, on IB `-5`, but .
 
-#### w. Shotgun IB
+##### w. Shotgun IB
 
 - While using Shotgun stance__AND__ IBing the attack.
 
