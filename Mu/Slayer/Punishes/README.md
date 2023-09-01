@@ -6,6 +6,44 @@ include_toc: true
 
 ## Punishes
 
+### 2H
+
+#### w.o Shotgun
+
+##### c.S / f.S
+
+We can use `f.S` as long Slayer 2H was not made at peak range.
+
+If close enough we can start the combo with c.S.
+
+Ibing Slayer's 2H will facilitate the timing of landing f.S.
+
+[Punish_2H.mp4](src/2H/Punish_2H.mp4)
+
+##### Throw
+
+If the opponent is close enough we can throw him into the corner or whenever we want.
+
+[Punish_2H_Throw.mp4](src/2H/Punish_2H_Throw.mp4)
+
+##### JBH
+
+If the opponent is close enough we can `Judge Better Half`.
+
+[Punish_2H_JBH.mp4](src/2H/Punish_2H_JBH.mp4)
+
+#### w. Shotgun
+
+If the opponent is close enough we can `SG.P > SG.H`.
+
+At all ranges we can `SG.H`.
+
+Ibing Slayer's `2H` will facilitate the timing of landing `SG.P` or `SG.H`.
+
+[Punish_2H_w_Shotgun.mp4](src/2H/Punish_2H_w_Shotgun.mp4)
+
+
+
 ### Mapa
 
 #### P Mappa
