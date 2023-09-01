@@ -26,11 +26,6 @@ If the opponent is close enough we can throw him into the corner or whenever we 
 
 [Punish_2H_Throw.mp4](src/2H/Punish_2H_Throw.mp4)
 
-##### JBH
-
-If the opponent is close enough we can `Judge Better Half`.
-
-[Punish_2H_JBH.mp4](src/2H/Punish_2H_JBH.mp4)
 
 #### w. Shotgun
 
@@ -43,6 +38,11 @@ Ibing Slayer's `2H` will facilitate the timing of landing `SG.P` or `SG.H`.
 [Punish_2H_w_Shotgun.mp4](src/2H/Punish_2H_w_Shotgun.mp4)
 
 
+#### JBH
+
+If the opponent is close enough we can `Judge Better Half`.
+
+[Punish_2H_JBH.mp4](src/2H/Punish_2H_JBH.mp4)
 
 ### Mapa
 
