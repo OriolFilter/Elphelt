@@ -102,8 +102,8 @@ Can't recommend using that.
 ##### w.o Shotgun
 
 - IBing will facilitate the timing, but it's not required, certainly facilitates everything.
-- Dash momentum and being point blank with slayer is required if `2S` will be used in the combo, as otherwise `2D` will wiff.
-
+- Dash momentum and being point-blank spacing with slayer is required if `2S` will be used in the combo, as otherwise `2D` will wiff, therefore, if not sure if the conditions are met, just skipp 2S altogether.
+- We can also throw for sideswap (or metered throw corner combo)
 
 The base route would be as: 
 > 66 > c.S > f.S > (2S >) 2D
@@ -120,7 +120,9 @@ RC:
 
 > 66 > c.S > f.S > 2D > RC > Stuff
  
+non-dash momentum or point blank spacing:
 
+> 66 > c.S > f.S > 2D > ender
 
 ###### Bridal
 
@@ -135,6 +137,14 @@ We can also replace `Bridal` for `Berry Pull`, this might be preferred to do in 
 > 66 > c.S > f.S > (2S >) 2D > Pull Berry
 
 [Punish_Pilebunker_Berry_Pull.mp4](src/Pilebunker/Punish_Pilebunker_Berry_Pull.mp4)
+
+###### Throw RC
+
+After the throw, the combo would be:
+
+> RC > 236K or 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > [SG.H] > 6H > 236P
+
+[Punish_Pilebunker_Throw_RC.mp4](src/Pilebunker/Punish_Pilebunker_Throw_RC.mp4)
 
 ##### w. Shotgun
 
@@ -152,3 +162,27 @@ We can also replace `Bridal` for `Berry Pull`, this might be preferred to do in 
 > [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H]x3 > 6H  
 
 [Punish_Pilebunker_Corner_w_Shotgun_meme.mp4](src/Pilebunker/Punish_Pilebunker_Corner_w_Shotgun_meme.mp4)
+
+## Labbing
+
+### Mappa and Pilebunker
+
+Set the recordings to the following:
+
+- P Mappa
+- K Mappa
+- Pilebunker
+
+The idea is to practice, not only the combo routes, but the move recognition.
+
+A reminder that [Pilebunker](#pilebunker) doesn't need to be IBd to be punished.
+
+[Labbing_Mappa_Pilebunker.mp4](src/Labbing/Labbing_Mappa_Pilebunker.mp4)
+
+#### Shortcuts to the punishes:
+
+- [Pilebunker](#pilebunker)
+- [P Mappa](#p-mappa)
+- [K Mappa](#k-mappa)
+
+### Safejump
