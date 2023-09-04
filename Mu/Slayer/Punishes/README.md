@@ -186,6 +186,8 @@ After IBing the second hit of `Crosswise Heel`, before inputting `c.S`, slightly
 
 As well, it's recommended that after IBing the second hit of `Crosswise Heel`, do a microwalk forward to facilitate `c.S` connecting. This slightly improves consistency.
 
+I am not able to consistently score a counterhit without IBing, which would allow for better routes on non-ib.
+[Sus_Slayer.mp4](src/Crosswise_Heel/Sus_Slayer.mp4)
 #### Far hit
 
 From a far hit there isn't much to cash in.
@@ -213,6 +215,9 @@ Generic c.S Antiair Counterhit BnB
 
 ##### Corner Close IB
 
+- Require proximity to the corner
+- Quite tight
+ 
 > CH c.S > 2H > 236H > [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H] > 6H
 
 [Punish_Crosswise_Hell_Close_Corner_IB.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Close_Corner_IB.mp4)
