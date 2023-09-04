@@ -4,6 +4,22 @@ include_toc: true
 ---
 
 
+## Generic routes
+
+### 6H Counterhit
+
+#### Midscreen
+
+no clue just do some bnb 
+
+#### Corner
+
+[Elphelt_Generic_6H_Counterhit_Corner.mp4](src/Generic_Routes/6H_CH/Elphelt_Generic_6H_Counterhit_Corner.mp4)
+
+#### Corner Slightly Spaced 
+
+[Elphelt_Generic_6H_Counterhit_Corner_Slightly_Spaced.mp4](src/Generic_Routes/6H_CH/Elphelt_Generic_6H_Counterhit_Corner_Slightly_Spaced.mp4)
+
 ## Punishes
 
 ### 2H
@@ -154,14 +170,83 @@ After the throw, the combo would be:
 
 #### w. Shotgun IB Corner
 
-- IB is required.
 - Very tight.
 - Needs to be **VERY** close to the corner.
-- Quite meme since it's quite tight and corner is required.
+- Quite meme since it's quite tight and corner proximity is required.
 
 > [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H]x3 > 6H  
 
 [Punish_Pilebunker_Corner_w_Shotgun_meme.mp4](src/Pilebunker/Punish_Pilebunker_Corner_w_Shotgun_meme.mp4)
+
+### Crosswise Heel
+
+Depending on the distance on which IBs `Crosswise Heel` it might allow for a better punish. Doesn't make much difference without IBing.
+
+After IBing the second hit of `Crosswise Heel`, before inputting `c.S`, slightly delay the move, otherwise f.S will be triggered.
+
+As well, it's recommended that after IBing the second hit of `Crosswise Heel`, do a microwalk forward to facilitate `c.S` connecting. This slightly improves consistency.
+
+#### Far hit
+
+From a far hit there isn't much to cash in.
+
+Go with some corner carry string and call it a day.
+
+We can still RC to extend the combo, or Genoverse.
+
+> f.S > 5H > Bridal
+
+[Punish_Crosswise_Hell_Far_Hit.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Far_Hit.mp4)
+
+
+#### Midscreen
+
+##### Close IB
+
+Generic c.S Antiair Counterhit BnB
+
+> CH c.S ~ 2H > 236P > c.S > j.S > jc > j.K > j.S > j.H ~ j.toss |> 6H > 236H > (walk in >) SG.S > 236H > j.KSHD | j.SPSHD > j.236P   
+
+[Punish_Crosswise_Hell_Midscreen_IB.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Midscreen_IB.mp4)
+
+#### Corner
+
+##### Corner Close IB
+
+> CH c.S > 2H > 236H > [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H] > 6H
+
+[Punish_Crosswise_Hell_Close_Corner_IB.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Close_Corner_IB.mp4)
+
+##### Corner w. Shotgun Close
+
+More or less a BnB routing.
+
+> CH SG.H > SG.S > Bridal > SG.H > c.S > j.K > j.S > j.H > j.D > j.236P
+
+[Punish_Crosswise_Hell_Corner_w_Shotgun.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Corner_w_Shotgun.mp4)
+
+##### Corner w. Shotgun Close Bridal Loops
+
+Same as above, changing the ender to Bridal loops.
+
+> CH SG.H > SG.S > Bridal > SG.H > c.S > 5H > Bridal > (2P >) > c.S > 5H > Bridal > (2P >) > c.S > 5H > Bridal   
+
+[Punish_Crosswise_Hell_Corner_w_Shotgun_Bridal_Loops.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Corner_w_Shotgun_Bridal_Loops.mp4)
+
+##### Corner w. Shotgun Close IB
+
+Same route as the [non IB one](#corner-w-shotgun-close), but IBing might facilitate having a better height for 5H knockdown.
+
+> CH SG.H > SG.S > Bridal > SG.H > c.S > j.K > j.S > j.H > j.D |> 5H > 236P
+
+[Punish_Crosswise_Hell_Corner_w_Shotgun_IB.mp4](src/Crosswise_Heel/Punish_Crosswise_Hell_Corner_w_Shotgun_IB.mp4)
+
+#### Outspaced
+
+Basically the move wiffs because you are too far away, this is your moment to shine
+
+For the corner route refer to the [Generic Routes, 6H Counterhit, Corner Slightly Spaced](#corner-slightly-spaced-)
+For the midscreen route refer to the [Generic Routes, 6H Counterhit, Midscreen](#midscreen)
 
 ## Labbing
 
