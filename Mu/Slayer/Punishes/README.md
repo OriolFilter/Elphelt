@@ -64,7 +64,7 @@ If the opponent is close enough we can `Judge Better Half`.
 
 #### P Mappa
 
-Only punishable on Shotgun stance __AND__ IB.
+Only punishable on Shotgun stance **AND** IB.
 
 On Block is `-1`, on IB `-5`, but .
 
