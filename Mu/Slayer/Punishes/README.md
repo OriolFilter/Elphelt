@@ -70,7 +70,7 @@ On Block is `-1`, on IB `-5`, but .
 
 ##### w. Shotgun IB
 
-- While using Shotgun stance__AND__ IBing the attack.
+- While using Shotgun stance **AND** IBing the attack.
 
 If we have IBd Mappa, we can stuff a `SG.P` **If we are close enough** to hit Slayers arm, then chain into `SG.H`, it's also quite tight.
 
@@ -94,7 +94,7 @@ Not punisheable at peak range as `5P` won't reach Slayer.
 
 ##### w. Shotgun IB
 
-- While using Shotgun stance__AND__ IBing the attack.
+- While using Shotgun stance **AND** IBing the attack.
 
 If we have IBd Mappa, we can stuff a `SG.P` **If we are close enough** to hit Slayers arm, then chain into `SG.H`.
 
