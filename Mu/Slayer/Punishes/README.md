@@ -14,11 +14,26 @@ no clue just do some bnb
 
 #### Corner
 
+236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
+
 [Elphelt_Generic_6H_Counterhit_Corner.mp4](src/Generic_Routes/6H_CH/Elphelt_Generic_6H_Counterhit_Corner.mp4)
 
 #### Corner Slightly Spaced 
 
+> CH 6H > 236H > charge shotgun > SG.S > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
+
 [Elphelt_Generic_6H_Counterhit_Corner_Slightly_Spaced.mp4](src/Generic_Routes/6H_CH/Elphelt_Generic_6H_Counterhit_Corner_Slightly_Spaced.mp4)
+
+## Corner Throw RC
+
+- Recycled a clip for [Pilebunker](#throw-rc).
+
+After the throw, the combo would be:
+
+> Throw > RC > 236K or 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
+
+[Punish_Pilebunker_Throw_RC.mp4](src/Pilebunker/Punish_Pilebunker_Throw_RC.mp4)
+
 
 ## Punishes
 
@@ -158,7 +173,7 @@ We can also replace `Bridal` for `Berry Pull`, this might be preferred to do in 
 
 After the throw, the combo would be:
 
-> RC > 236K or 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > [SG.H] > 6H > 236P
+> RC > 236K or 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
 [Punish_Pilebunker_Throw_RC.mp4](src/Pilebunker/Punish_Pilebunker_Throw_RC.mp4)
 
@@ -253,6 +268,108 @@ Basically the move wiffs because you are too far away, this is your moment to sh
 For the corner route refer to the [Generic Routes, 6H Counterhit, Corner Slightly Spaced](#corner-slightly-spaced-)
 For the midscreen route refer to the [Generic Routes, 6H Counterhit, Midscreen](#midscreen)
 
+### Dead on Time
+
+#### Midscreen
+
+##### w.o Shotgun c.S Antiair route
+
+##### w.o Shotgun 6H Antiair route
+
+##### w Shotgun c.S Antiair route
+
+##### w Shotgun 6H Antiair route
+
+##### w. Shotgun IB IAD route
+
+- Great amount of screen carry.
+
+- I think that without IB can be done, but it might affect the height.
+
+> CH [SG.H] ...
+
+[Punish_Dead_on_Time_Midscreen_w_Shotgun_IB.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Midscreen_w_Shotgun_IB.mp4)
+
+#### Corner
+
+##### c.S Antiair route
+
+Generic c.S antiair route.
+
+Other routing can apply.
+
+> CH c.S ~ 2H > 236P, c.S > j.c > j.S > j.c > j.K > j.S > j.H ~ j.toss |> 6H > 236H ~ SG.S > 236H > c.S > j.c > j.K > j.S > j.H > j.D > j.236P
+
+[Punish_Dead_on_Time_Corner_cS_antiair.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_cS_antiair.mp4)
+
+##### w. Shotgun into c.S antiair route
+
+- IBing will give a generous amount of time to remove the shotgun.
+
+We can remove the shotgun and continue with a `c.S` antiair route.
+
+> 236H > CH c.S ~ 2H > 236P, c.S > j.c > j.S > j.c > j.K > j.S > j.H ~ j.toss |> 6H > 236H ~ SG.S > 236H > c.S > j.c > j.K > j.S > j.H > j.D > j.236P
+
+[Punish_Dead_on_Time_Corner_w_Shotgun_cS_antiair.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_w_Shotgun_cS_antiair.mp4)
+
+##### 6H Antiair route
+
+todo
+
+#### Corner Sideswap
+
+##### w. Shotgun
+
+Doesn't deal much damage but gives you the corner pressure.
+
+> 236K > SG.S > Bridal 
+
+[Punish_Dead_on_Time_Corner_Sideswap_w_Shotgun.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_w_Shotgun.mp4)
+
+##### w.o Shotgun IB
+
+- Requires IB
+
+> 236K > SG.S > Bridal
+
+[Punish_Dead_on_Time_Corner_Sideswap_IB.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_IB.mp4)
+
+##### w.o Shotgun 6H
+
+- Quite tight ngl.
+- Don't think that IBing affect the routing.
+
+> CH 6H > 236K > charge shotgun > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
+
+[Punish_Dead_on_Time_Corner_Sideswap_6H_antiair.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_6H_antiair.mp4)
+
+##### w.o Shotgun 6H
+
+- Quite tight ngl.
+- Don't think that IBing affect the routing.
+- I can't make the 3rd SG.H cause wallsplat.
+
+It's based off [6H Counterhit Corner Slightly Spaced route](#corner-slightly-spaced-).
+
+> CH 6H > 236H > charge shotgun > SG.S > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H]x2 > 6H > 236P
+
+[Punish_Dead_on_Time_Corner_Sideswap_6H_antiair2.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_6H_antiair2.mp4)
+
+#### Tips
+
+##### How to IB EASILY
+
+Start by already be blocking it, otherwise you will hit by mister frame 0.
+
+Release `4` during the animation, and click `4` again when the animation finishes, basically when the camera is back to slayer. 
+
+[Tip_Dead_on_Time_IB_DIY.mp4](src/Dead_on_Time/Tip_Dead_on_Time_IB_DIY.mp4)
+
+**Frame on which "press" `4`:**
+
+![Tip_Dead_on_Time_IB_DIY_frame.jpg](src/Dead_on_Time/Tip_Dead_on_Time_IB_DIY_frame.jpg)
+
+
 ## Labbing
 
 ### Mappa and Pilebunker
@@ -275,4 +392,9 @@ A reminder that [Pilebunker](#pilebunker) doesn't need to be IBd to be punished.
 - [P Mappa](#p-mappa)
 - [K Mappa](#k-mappa)
 
-### Safejump
+
+## Placeholder
+
+Whatever ramblings I want to write to have arround while I do these things
+
+> 2P f.S 7j.c > j.D > j236P ~ toss when almost ground |> Shotgun stance 
