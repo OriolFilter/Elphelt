@@ -28,8 +28,11 @@ https://youtu.be/YywjMAHMmfM?t=2441
 
 
 
+https://youtu.be/be-DkMrX7xk?t=707
 
+https://youtu.be/be-DkMrX7xk?t=982
 
+https://youtu.be/be-DkMrX7xk?t=1041
 
 cat combo_breaker_2023
 Horashi - Zawei
@@ -41,6 +44,22 @@ Last round
 2H > 2D > j.PKSHD > berry > ... ???%    
 
 
+
+
+https://youtu.be/UsVeVb3orsM?t=1044
+
+https://youtu.be/fAQ89SkqLs0?t=360
+
+https://youtu.be/fAQ89SkqLs0?t=516
+
+
+
 ### Kyouse
 
 https://clips.twitch.tv/SneakyHomelyArmadilloCorgiDerp-r2KMoU2Kb_FEd5x6
+
+
+
+... > 2H > c.S > j8/7.D > j.236P > j.toss (when almost ground) 
+
+https://youtu.be/QmZ-7TxyQmI?t=5807

@@ -15,3 +15,9 @@ Jesus frick don't do standing berry pull, abuse from shotgun cancel.
 ### vs DPs
 
 5K > c.S > holdblock and pray for them to dp the air
+
+
+
+## Resets
+
+https://youtu.be/OCo__pJJenE?t=3695

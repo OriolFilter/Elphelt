@@ -109,5 +109,20 @@ lvl 3: -1, Burst Judge Better half, I think.
 
 I think that you just crouch and wait for the active frames to finish so you don't get in blockstun status, and Jam is not allowed to do any followup, since could crush you.
 
+# Anti parry propaganda
+
+https://youtu.be/QmZ-7TxyQmI?t=6308
+
+Shotgun spacing to avoid parry P
+
+## Pressure
+
+https://youtu.be/OCo__pJJenE?t=1780
 
 
+https://youtu.be/OCo__pJJenE?t=3639
+
+
+## Shenanigans
+
+https://youtu.be/OCo__pJJenE?t=3830
