@@ -104,9 +104,27 @@ S version:
 
 H version:
 
-### Shotgun
+### w Shotgun
 
 #### Point Blank Corner
+
+> charge shotgun > SG.S > [SG.H] > charge shotgun > [SG.H]*2 > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
+
+[Punish_Eisen_Sturm_H_w_Shotgun_PointBlank_Corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_PointBlank_Corner.mp4)
+
+### wo Shotgun
+
+#### Corner
+
+> c.S > j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
+
+[Punish_Eisen_Sturm_H_cS_j7H_oki.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_cS_j7H_oki.mp4)
+
+> c.S > j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
+
+[Punish_Eisen_Sturm_H_cS_j7H_oki_height_dependant.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_cS_j7H_oki_height_dependant.mp4)
+
+> c.S > j.S ~ jc j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
 
 ## Kaltes Gestöber Zweit
 
