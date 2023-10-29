@@ -2,6 +2,11 @@
 
 ## Anti (Ground) Azami bullshit
 
+### Sauce
+
+https://twitter.com/baiken_kei/status/974331062879903744
+
+
 | Move    | Startup | t.Active frames | Invul            |
 |:--------|:--------|:----------------|:-----------------|
 | Kuchi   | 12      | 6               | 1-11f Upper Body |
