@@ -1,3 +1,7 @@
+---
+gitea: none
+include_toc: true
+---
 
 
 ## Note
@@ -109,7 +113,7 @@ https://www.dustloop.com/w/GGXRD-R2/Leo_Whitefang#Eisen_Sturm
 
 The DP
 
-### S version:
+### S Eisen Sturm
 
 #### w Shotgun
 
@@ -166,13 +170,13 @@ You can set yourself in shotgun stance and charge a shot to proceed with the Sho
 
 [Punish_Eisen_Sturm_S_cS_midscreen.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_cS_midscreen.mp4)
 
-##### 2P Rejump
+###### 2P Rejump
 
 > j.K ~ j.S ~ j.H |> 2P > c.S > j.K > j.S > j.H > j.D > j.236P
 
 [Punish_Eisen_Sturm_S_2P_rejump_midscreen.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_2P_rejump_midscreen.mp4)
 
-### H version:
+### H Eisen Sturm
 
 #### w Shotgun
 
@@ -217,13 +221,17 @@ Even more funky than the previous SG.D route, as this one requires Leo to be hit
 
 [Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish_loops.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish_loops.mp4)
 
-###### c.S BnB
+###### c.S non CH antiair BnB
 
 A lot easier and more consistent at the expense of 30 of damage +/- (comparing with the SG.D route)
 
 > c.S > j.S > jc j.K ~ j.S ~ j.H ~ j.D ~ j.236P
 
 [Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_BnB.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_BnB.mp4)
+
+###### c.S non CH antiair
+
+Refer to the [Eisen Sturm S c.S non CH antiair routing](#cs-non-ch-antiair).
 
 ###### c.S 2P rejump
 
