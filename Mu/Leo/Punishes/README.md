@@ -4,7 +4,7 @@
 
 Leo goes to stance by holding 5H.
 
-While in "stance" **can't block**, but can use parry.
+While in "stance" **can't block**, but can use a parry.
 
 
 # Normals
@@ -109,7 +109,7 @@ https://www.dustloop.com/w/GGXRD-R2/Leo_Whitefang#Eisen_Sturm
 
 The DP
 
-## S version:
+### S version:
 
 #### w Shotgun
 
