@@ -81,6 +81,15 @@ Further than this distance, 5K will whiff.
 
 [5H_punish_2K_roundstart.mp4](src/Normals/5H/5H_punish_2K_roundstart.mp4)
 
+## 2D
+
+-5
+
+2P/c.S/5K/2K
+
+c.S requires IB
+
+2P > 5K > f.S > 2H > 2D > Bridal seems the most consistent one
 
 # Special Moves
 
@@ -100,20 +109,80 @@ https://www.dustloop.com/w/GGXRD-R2/Leo_Whitefang#Eisen_Sturm
 
 The DP
 
+## S version:
 
-S version:
+#### w Shotgun
 
-H version:
+##### Corner
 
-### w Shotgun
+After `IAD j.KS`, the `j.D` should be delayed "substantially".
 
-#### Point Blank Corner
+###### j.7H setup
+
+> [SG.H] > IAD j.K > j.S ~ j.D > 2H > 236P, 5P > c.S > j.7H
+
+[Punish_Eisen_Sturm_S_w_shotgun_j7H_oki_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_w_shotgun_j7H_oki_corner.mp4)
+
+###### j.D sour berry setup
+
+- Couldn't get the wallsplat consistently.
+
+> [SG.H] > IAD j.K > j.S ~ j.D > 2H > 236P > c.S > j.S > jc j.K ~ j.S ~ j.H ~ j.4Toss |> 6H > reposition yourself > [Charge Shotgun] > SG.S > Pull_Berry > [SG.H] > j.7D ~ j.Toss 
+
+[Punish_Eisen_Sturm_S_w_shotgun_wallsplat_jD_sourspot_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_w_shotgun_wallsplat_jD_sourspot_corner.mp4)
+
+###### Shotgun sour berry setup
+
+> [SG.H] > IAD j.K > j.S ~ j.D > 2H > 236P > c.S > j.S > jc j.K ~ j.S ~ j.H ~ j.4Toss |> 6H > reposition yourself > [Charge Shotgun] > SG.S > Pull_Berry > [SG.H] (no wallsplat)
+
+[Punish_Eisen_Sturm_S_w_shotgun_sourspot_shotgun_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_w_shotgun_sourspot_shotgun_corner.mp4)
+
+##### Midscreen
+
+Remove shotgun and do a c.S route ...
+
+#### wo Shotgun
+
+##### Corner
+
+###### Transition to shotgun route
+
+You can set yourself in shotgun stance and charge a shot to proceed with the Shotgun routes from above.
+
+[Punish_Eisen_Sturm_S_transition_to_shotgun_route_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_transition_to_shotgun_route_corner.mp4)
+
+###### j.7H oki
+
+> c.S > > j.S > jc j.K ~ j.S ~ j.H ~ j.D > 2H > 236P, 5P > c.S > j.7H
+
+
+[Punish_Eisen_Sturm_S_j7H_oki_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_j7H_oki_corner.mp4)
+
+##### Midscreen
+
+###### c.S non CH antiair
+
+> c.S > j.S > j.P > j.S > jc j.S > j.P > j.S > j.H ~ j.D > j.236P  
+
+[Punish_Eisen_Sturm_S_cS_midscreen.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_cS_midscreen.mp4)
+
+##### 2P Rejump
+
+> j.K ~ j.S ~ j.H |> 2P > c.S > j.K > j.S > j.H > j.D > j.236P
+
+[Punish_Eisen_Sturm_S_2P_rejump_midscreen.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_2P_rejump_midscreen.mp4)
+
+### H version:
+
+#### w Shotgun
+
+##### Point Blank Corner
 
 > charge shotgun > SG.S > [SG.H] > charge shotgun > [SG.H]*2 > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
 [Punish_Eisen_Sturm_H_w_Shotgun_PointBlank_Corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_PointBlank_Corner.mp4)
 
-#### Corner
+##### Corner
 
 - Just requires being slightly spaced from Leo, enough to not get crossed up basically.
 
@@ -124,9 +193,9 @@ Keys to success:
 
 Pull berry when Leo is reaching the top, it will autotime SG.H at the right height
 
-#### Midscreen
+##### Midscreen
 
-##### SG.D
+###### SG.D
 
 - Pull berry ASAP
 - delay throwing berry substantially.
@@ -138,7 +207,7 @@ Pull berry when Leo is reaching the top, it will autotime SG.H at the right heig
 
 [Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish.mp4)
 
-##### SG.D SG Loops
+###### SG.D SG Loops
 
 Same route from above, but this time doing `SG.S > Bridal, [SG.H]` instead of `SG.S > [SG.H] > IAD j.S` to proceed with shotgun loops in the corner.
 
@@ -148,7 +217,7 @@ Even more funky than the previous SG.D route, as this one requires Leo to be hit
 
 [Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish_loops.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish_loops.mp4)
 
-##### c.S BnB
+###### c.S BnB
 
 A lot easier and more consistent at the expense of 30 of damage +/- (comparing with the SG.D route)
 
@@ -156,7 +225,7 @@ A lot easier and more consistent at the expense of 30 of damage +/- (comparing w
 
 [Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_BnB.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_BnB.mp4)
 
-##### c.S 2P rejump
+###### c.S 2P rejump
 
 - Better oki and damage compared with the previous route.
 - Quite more finiky but w/e
@@ -165,9 +234,9 @@ A lot easier and more consistent at the expense of 30 of damage +/- (comparing w
 
 [Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_2p_rejump.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_2p_rejump.mp4)
 
-### wo Shotgun
+#### wo Shotgun
 
-#### Corner
+##### Corner
 
 > c.S > j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
 
@@ -179,7 +248,7 @@ A lot easier and more consistent at the expense of 30 of damage +/- (comparing w
 
 > c.S > j.S ~ jc j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
 
-#### Midscreen
+##### Midscreen
 
 Elphelt non counterhit c.S antiair BnB with berry pulled
 
