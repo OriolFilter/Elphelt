@@ -208,6 +208,7 @@ f.S/2S trades
 2D wins.
 
 delayed 2k wins, aka ~ 2k>f.S>etc
+
 delayed 2d wins, aka ~ 2D > bridal / shotgun / berry
 
 ### Leo's f.S
