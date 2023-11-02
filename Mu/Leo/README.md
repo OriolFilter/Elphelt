@@ -152,8 +152,9 @@ Doesn't punish backdash, but it's still a win since we get free space for our ne
 
 ##### Loses
 
-- 2S
-- DPs
+- 6P if Elp didn't chain a followup.
+- H DP.
+- Leo's S DP (trades), yet if Leo got hit standing instead of airborne, Leo scores advantage due the KD. If Elp delays the f.S 4-5 frames, she can get a CH.
 
 #### Elphelt's 2D
 
@@ -168,7 +169,7 @@ Used to cover instances that Elp f.S doesn't win.
 
 ##### Trades
 
-
+N/A
 
 ##### Loses
 
@@ -205,8 +206,6 @@ f.S/2S trades
 6P hits too late, can be blocked.
 
 2D wins.
-
-#### Favs?
 
 delayed 2k wins, aka ~ 2k>f.S>etc
 delayed 2d wins, aka ~ 2D > bridal / shotgun / berry
@@ -249,7 +248,7 @@ Reminder, Elp 6H murders you. Don't.
 
 2D gets a CH, slightly delayed (1/2 frames) 2D also gets a CH, further delay will whiff, still safe tho.
 
-f.S gets hit, no CH, can't get anything out of it due to distance. I dont like the idea of pulling shotgun against leo in neutral anyway.
+f.S wins, no CH, can't get anything out of it due to distance. I dont like the idea of pulling shotgun against leo in neutral anyway.
 
 ### Leo's 2S
 
@@ -280,14 +279,23 @@ f.S/2S wins.
 
 ### Leo's S DP
 
-fS/5H/Bridal loses.
+f.S, yet if Leo got hit standing instead of airborne, Leo scores advantage due the KD.
 
-2S Trades.
-6H Trades.
+If Elp delays the f.S 4-5 frames, she can win with an airborne CH.
 
 **2D Whiffs.**
 
+2S loses.
+
+
+6H Trades.
+
+5H/Bridal loses.
+
 Bridal also whiffs (does it even matter??).
+
+
+
 
 
 ### Leo's H DP
