@@ -57,7 +57,8 @@ N/A
 
 - 6P (whiffs, loses to Elp f.S)
 - 2H (clash, loses to Elp f.S)
-- H DP if Elp 2D isn't delayed for 1-2 frames (clash).
+- H DP (clash)
+- H DP (whiff, Elp 2D is delayed for 1-2 frames)
 - 2S (clash, loses to Elp f.S)
 - 2D (whiffs, still can be blocked, loses to Elp f.S)
 ### Leo's 6P
@@ -191,13 +192,13 @@ Loses to everything except 6H/6P/Bridal?.
 Loses to everything except 6H?/6P/Bridal?
 
 
-### TK Siegesparade
+### Leo's TK Siegesparade
 
 f.S/5H/6H/6P wins
 
 Other might whiff.
 
-### Backdash
+### Leo's Backdash
 
 Delayed 5H hits bd.
 
