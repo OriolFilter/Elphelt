@@ -1,5 +1,9 @@
 
 
+## Pending
+
+https://discord.com/channels/121387821977042945/121388126550753280/579590294786539520
+
 ## Anti (Ground) Azami bullshit
 
 ### Sauce

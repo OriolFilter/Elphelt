@@ -1,4 +1,37 @@
 
+### Corner
+
+5K allows for tickthrows
+
+5K~c.S
+
+5K runup 2P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------
 Generally speaking I have issues with my pressure in general.
 
 Therefore, will try to make som 
