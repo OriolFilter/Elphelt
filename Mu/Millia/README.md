@@ -8,7 +8,15 @@ As much as Millia players would like to complain about `f.S`, the real criminal 
 
 Remember to not put yourself in pin range.
 
-After Millia 5H beware of possible IAD, you can deal with it by running inside.
+According Xyzz, aim where she will be, not where she is! (Truly a mosquito character in disguise)
+
+Preemptive j.D good.
+
+6H covers huge space on the screen, BUT YOU CAN GET HIT OUT OF IT! So don't get pinned through it please!.
+
+After Millia `6H(1)` beware of possible IAD, you can deal with it by running inside.
+
+Usually IAD scams are from `2S` and `6H (1)`, meanwhile `5K` is rare, it's also possible.
 
 
 ## 2D Pickups
@@ -36,14 +44,12 @@ You mostly want to hit her feet.
 
 Both charged and uncharged shotgun can hit `Iron Savior` at a somewhat hateful distance.
 
-[Iron_Savior_SG.H.mp4](Contest%2FIron_Savior_SG.H.mp4)
+[Iron_Savior_SG.H.mp4](Contest/Iron_Savior_SG.H.mp4)
 
-[Iron_Savior_SG.H_Charged.mp4](Contest%2FIron_Savior_SG.H_Charged.mp4)
+[Iron_Savior_SG.H_Charged.mp4](Contest/Iron_Savior_SG.H_Charged.mp4)
 
 > **Tip:**\
 > Uncharged shotgun can be done while crouchingback so if very misstimed you block it.
-
-
 
 
 #### wo Shotgun
@@ -55,7 +61,13 @@ Both charged and uncharged shotgun can hit `Iron Savior` at a somewhat hateful d
 
 At a distance Elp can 6H and get a juicy counterhit.
 
-[Iron_Savior_6H.mp4](Contest%2FIron_Savior_6H.mp4)
+[Iron_Savior_6H.mp4](Contest/Iron_Savior_6H.mp4)
+
+#### Genoverse
+
+It can hit her, just beware of Millier RC since you would have lost 25% meter.
+
+[Iron_Savior_Genoverse.mp4](Contest/Iron_Savior_Genoverse.mp4)
 
 ### Punish
 
@@ -69,21 +81,30 @@ No need to IB (but encouraged), since it is very tight (mash 5H, hard).
 
 > 5H*5
 
+[Iron_Savior_5H.mp4](Punishes/Iron_Savior_5H.mp4)
+
 > Disclaimer:\
 > `5H > Genoverse` won't hit! (meaning at peak range)
 
-[Iron_Savior_5H.mp4](Punishes%2FIron_Savior_5H.mp4)
 
 
 ## Forward Roll > H
 
 ![](https://www.dustloop.com/wiki/images/thumb/f/f2/GGXRD_Millia_Digitalis.png/210px-GGXRD_Millia_Digitalis.png)
 
+### Punish
+
 When at a fair distance, you will need to IB it.
 
 > 5H*5
+> 5H>Bridal
+
+[Forward Roll _H_5Hx5.mp4](Punishes/Forward%20Roll%20_H_5Hx5.mp4)
+
+[Forward Roll _H_5H_Bridal.mp4](Punishes/Forward%20Roll%20_H_5H_Bridal.mp4)
 
 With 50% meter we unlock substantial damage/carry.
 
-> 5H > Genoverse > 66 j.K ~ j.S > j.H |> (2P >) c.S > j.SPSHD > j.236P
+> 5H > Genoverse > 66 > j.K ~ j.S > j.H |> (2P >) c.S > j.SPSHD > j.236P
  
+[Forward Roll _H_5H_Genoverse.mp4](Punishes/Forward%20Roll%20_H_5H_Genoverse.mp4)
