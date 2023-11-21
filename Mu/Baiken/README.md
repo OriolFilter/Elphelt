@@ -1,3 +1,7 @@
+---
+gitea: none
+include_toc: true
+---
 
 
 ## Pending
@@ -45,6 +49,7 @@ https://twitter.com/baiken_kei/status/974331062879903744
 - SG.P
 - SG.P > SG.P
 - SG.S
+ 
 #### Rokkon
 
 - 5P
