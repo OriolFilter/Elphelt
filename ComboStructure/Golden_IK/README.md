@@ -214,6 +214,10 @@ https://fireshare.fihome.xyz/w/4f2e3333977123b1e3626d4a2cc7ef8e
 
 ## SG.D > 236S RC > 5D6 IK
 
+5D6 setup
+
+https://fireshare.fihome.xyz/w/bd6bcc3c57fc8c6ee5a0925f86cc6c25
+
 # Shoot the berry > RC IK
 
 It's very simple.
