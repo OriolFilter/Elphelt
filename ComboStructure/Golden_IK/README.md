@@ -383,3 +383,9 @@ https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
 
 https://fireshare.fihome.xyz/w/a47a172fec70d618dc7a622e983251a2
 
+### Slayer DoT with berry setup
+
+1. IAD over them
+2. Cash in the gacha rolls
+
+https://fireshare.fihome.xyz/w/a73bf826e2c2172507a8ade9bfb00620
