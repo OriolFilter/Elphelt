@@ -10,7 +10,7 @@ include_toc: true
 > I'm not going to explore every possible combination.
 
 > Note:\
-> 2D/6P berry setups should be mostly routable on both starters.
+> 2D/6P berry setups should be mostly routable on both starters.\
 > IE: [2D Berry setup](#2d-berry-setup)
 
 # Simple
