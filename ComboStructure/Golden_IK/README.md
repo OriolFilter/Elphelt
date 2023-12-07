@@ -18,6 +18,10 @@ https://fireshare.fihome.xyz/w/5a059bf3bdb4272c1b5facac647990fc
 
 https://fireshare.fihome.xyz/w/6bbb0b11115005441a6faab647ef450b
 
+## Throw ft. Berry Setup IK
+
+https://fireshare.fihome.xyz/w/8e7be008754fe20ef6086aead67c6c88
+
 ## CH c.S > RC IK
 
 https://fireshare.fihome.xyz/w/621557e3504cbea4a09638a657eee756
@@ -49,6 +53,8 @@ https://fireshare.fihome.xyz/w/f1af97ce2b048e2b53c452d0057f20d0
 https://fireshare.fihome.xyz/w/92f512fd38a33febc096440a5e446e78
 
 ## 5H > RC 5D6 IK
+
+Setup to 5D6
 
 https://fireshare.fihome.xyz/w/00857c81dec735fa64b8c2a3feb093e3
 
@@ -84,25 +90,12 @@ https://fireshare.fihome.xyz/w/7a013abc49b8e267eb7f220336aa4a7d
 
 ## CH c.S antiair > RC IK
 
-https://fireshare.fihome.xyz/w/c7a5a4a575573f6379bca24d031d056b
+https://fireshare.fihome.xyz/w/5d3c3dcb7c58e39e7dec7beed20c95fa
 
 ## CH f.S antiair > RC IK
 
 https://fireshare.fihome.xyz/w/b5be8abc8ff6aa3b5ed685fad80b2df0
 
-## CH 5D antiair > RC IK
-
-https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
-
-## 236S > RC IK
-
-Not much of a mystery tbh.
-
-https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
-
-## 236S > RC 2H routing
-
-From a sniper shot we can RC and get a 
 
 ## CH Sniper
 
@@ -111,9 +104,6 @@ We can get shit from CH Sniper, I'm lazy and will be skipping that (for now)
 # General Routes
 
 ## SG.H loops > RC IK
-
-
-
 
 ## .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
 
@@ -175,13 +165,38 @@ On `lightweights` gotta increase the gravity slightly for the routing  [2H > pul
 
 https://fireshare.fihome.xyz/w/abec69652e02b2fff521f5d70648cedb
 
+# Other routes
+
+## Throw > RC SG.H Wallsplat
+
+https://fireshare.fihome.xyz/w/e2411b3c907ec02b55e0d0e48f83f89f
+
+# "Else"
+
+Stuff that exists, but I don't want to be in the middle of the doc.
+
+## CH 5D antiair > RC IK
+
+https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
+
+## 236S > RC IK
+
+Not much of a mystery tbh.
+
+https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
+
+## 236S > RC 2H routing
+
+From a sniper shot we can RC and get a
+
+
+
 
 # Genoverse setup
 
 - Shutouts to Saybel
 
 https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
-
 
 
 ## Character Specific
