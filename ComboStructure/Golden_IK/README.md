@@ -122,7 +122,7 @@ This is very easy to do and set up.
 https://fireshare.fihome.xyz/w/e057694cd3d3228b2f2c4297772c144b
 
 
-## Pull Berry > j.KSH jToss > j.(P)SH |> IK EXPLOSION IK
+## Pull Berry > stuff > j.H opponent into berry EXPLOSION |> IK
 
 The `j.P` is optional, mostly used as a "timer filler".
 
@@ -134,7 +134,7 @@ https://fireshare.fihome.xyz/w/8cfde3f8b803c082061581d3249404a3
 
 ## .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
 
-We can consider this a variation [from the above](#pull-berry--jksh-jtoss--jpsh--ik-explosion-ik), but this version requires the corner.
+We can consider this a variation [from the above](#pull-berry--stuff--jh-opponent-into-berry-explosion--ik), but this version requires the corner.
 
 This  combo is heavily affected by gravity, depending on the height of the opponent character requires further extensions to reach the desired gravity.
 
@@ -212,13 +212,7 @@ This allows us to pick up the combo after SG.D launcher, with stuff such as 2H.
 
 https://fireshare.fihome.xyz/w/4f2e3333977123b1e3626d4a2cc7ef8e
 
-## SG.D > 236S RC > 2H routing midscreen
-
-https://fireshare.fihome.xyz/w/0b19c871988c27b9da1d00c71dd710c4
-
-## SG.D > 236S RC > 2H routing midscreen 2
-
-https://fireshare.fihome.xyz/w/299f4e8ab89af4a682def427558db7bd
+## SG.D > 236S RC > 5D6 IK
 
 # Shoot the berry > RC IK
 
@@ -296,11 +290,15 @@ https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 
 # Air Berry Hitstun
 
-## CHc.S Antiair > Pull Berry > c.S > j.KSH j.Toss |> IK
+## CHc.S Antiair > Pull Berry > c.S > j.KSH j.Toss |> IK EXPLOSION IK
 
 - Opponent needs to be very low
 
 https://fireshare.fihome.xyz/w/35908c40b99ccba6b8c913260b92e8a9
+
+## SG.D > 236S RC >  > 2H > Pull > c.S > jS > j.KSH |> IK EXPLOSION IK
+
+https://fireshare.fihome.xyz/w/299f4e8ab89af4a682def427558db7bd
 
 # Ground Berry Hitstun
 
@@ -326,13 +324,19 @@ https://fireshare.fihome.xyz/w/96867dadc15c931f36b588ba87887be0
 
 https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
-# CH6H > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
+# Pull Berry > stuff > j.H opponent into berry EXPLOSION |> IK
+
+## CH6H > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
 
 https://fireshare.fihome.xyz/w/eea289dec1316693b47dbbd61c9b1040
 
-# CHc.S Antiair > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
+## CHc.S Antiair > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
 
 https://fireshare.fihome.xyz/w/a74ba47a3f3af0b9305f9d23a9951945
+
+## SG.D > 236S RC > 2H > Pull > c.S > jKSH jToss > j.PSH |> IK EXPLOSION IK
+
+https://fireshare.fihome.xyz/w/0b19c871988c27b9da1d00c71dd710c4
 
 # Other routes
 
