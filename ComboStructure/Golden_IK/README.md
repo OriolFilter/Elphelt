@@ -293,6 +293,12 @@ https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 
 # Air Berry Hitstun
 
+## CHc.S Antiair > Pull Berry > c.S > j.KSH j.Toss |> IK
+
+- Opponent needs to be very loow
+
+https://fireshare.fihome.xyz/w/35908c40b99ccba6b8c913260b92e8a9
+
 
 
 # Ground Berry Hitstun
@@ -303,7 +309,7 @@ SG.D has some easy setups for this in the corner.
 
 https://fireshare.fihome.xyz/w/69a45de104aee5a1c289acfa8ad023b5
 
-## pull berry > CH f.S > 2H > stuff > 2toss IK
+## Pull Berry > CH f.S > 2H > stuff > 2Toss IK
 
 https://fireshare.fihome.xyz/w/69a45de104aee5a1c289acfa8ad023b5
 
