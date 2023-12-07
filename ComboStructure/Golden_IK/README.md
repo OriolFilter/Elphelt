@@ -324,7 +324,7 @@ https://fireshare.fihome.xyz/w/96867dadc15c931f36b588ba87887be0
 
 ## 2D Berry setup > stuff > 5H > 2toss Millia
 
-- No clue on which characters works, does indeed work on Milli.
+- No clue on which characters works, does indeed work on Millia.
 
 https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
