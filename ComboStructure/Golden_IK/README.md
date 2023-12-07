@@ -126,7 +126,7 @@ https://fireshare.fihome.xyz/w/e057694cd3d3228b2f2c4297772c144b
 
 The `j.P` is optional, mostly used as a "timer filler".
 
-On routes where we do `Pull Berry > c.S  > stuff` j.P **must** be omitted.
+On routes where we do `Pull Berry > c.S  > stuff` j.P must be omitted unless the combo is fairly prorated.
 
 This combo has some variations but the TLDR is `pull berry > eventually toss > stuff > j.H opponent into the berry |> IK`
 
