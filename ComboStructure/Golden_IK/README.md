@@ -295,7 +295,7 @@ https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 
 ## CHc.S Antiair > Pull Berry > c.S > j.KSH j.Toss |> IK
 
-- Opponent needs to be very loow
+- Opponent needs to be very low
 
 https://fireshare.fihome.xyz/w/35908c40b99ccba6b8c913260b92e8a9
 
