@@ -9,6 +9,9 @@ include_toc: true
 > Note:\ 
 > I'm not going to explore every possible combination.
 
+> Note:\
+> 2D/6P berry setups should be mostly routable on both starters.
+> IE: [2D Berry setup](#2d-berry-setup)
 
 # Simple
 
@@ -108,7 +111,7 @@ https://fireshare.fihome.xyz/w/f356e4e22bce9a62d499279b2e6ef905
 
 ## CH Sniper
 
-We can get shit from CH Sniper, I'm lazy and will be skipping that (for now)
+We can get things from CH Sniper, I'm lazy and will be skipping that (for now)
 
 # General Routes
 
@@ -122,21 +125,35 @@ https://fireshare.fihome.xyz/w/e057694cd3d3228b2f2c4297772c144b
 
 This  combo is heavily affected by gravity, depending on the height of the opponent character requires further extensions to reach the desired gravity.
 
-- Requires a corner.
+- Requires a corner (eventually).
 
 https://fireshare.fihome.xyz/w/dd5da692e52d3599d11afb37e40418fb
 
 Other examples at:
 
-- [SG.D > 236S RC > 2H > pull > j.KS j.4Toss > j.SH |> IK (Heavyewieghts) Corner](#sgd--236s-rc--2h--pull--jks-j4toss--jsh--ik-heavyewieghts-corner)
-- [SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Midweights) Corner](#sgd--236s-rc--extend--2h--pull--jks-j4toss--jsh--ik-midweights-corner)
-- [SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Lightweights) Corner](#sgd--236s-rc--extend--2h--pull--jks-j4toss--jsh--ik-lightweights-corner)
+- [SG.D > 236S RC > 2H > pull > j.KS j.4Toss > j.SH |> IK (Heavyewieghts) Corner](#sgd--236s-rc--2h--pull--jks-j4toss--jsh--ik-heavyewieghts)
+- [SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Midweights) Corner](#sgd--236s-rc--extend--2h--pull--jks-j4toss--jsh--ik-midweights)
+- [SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Lightweights) Corner](#sgd--236s-rc--extend--2h--pull--jks-j4toss--jsh--ik-lightweights)
 
 ## Bridal  > RC IK
 
-- Opponent requires to be at a bit higher than Elphelt/bridal to allow for the RC >
+Due to the high ammount of hitstun from Bridal, and since also slightly increases the opponent height, we can use it to set up `RC IK` setups.
+
+Generally speaking it's easier to hit those on lightweights since they are easier to rise/keep afloat, meanwhile the fatsos will fall to the ground very fast in comparison, making them more annoying to combo into this when using non-short combos.
+
+- Opponent requires to be at a bit higher than Elphelt/bridal to allow for the RC > IK
+
+https://fireshare.fihome.xyz/w/e1cb83c261b017a09b994a1544a966ad
+
+- 2H can be used to increase the height frm the opponent and proced with the bridal.
+
+https://fireshare.fihome.xyz/w/6d2601553ea918ebd3784b2d6f3f91ac
 
 ## j.D PRC |> IK
+
+We can do `j.D > RC` at the startup of `j.D` and benefit from the projectile to combo into an IK.
+
+The lower to the ground, the better.
 
 https://fireshare.fihome.xyz/w/7e6f7ad81769ecae69e7c4219e09c524
 
@@ -156,6 +173,12 @@ We gotta keep into account that opponent height is very sensitive on this route,
 
 https://fireshare.fihome.xyz/w/1a6431bd4fb936c06254d9c3c36606df
 
+# Bridal
+
+## 2D Berry Setup
+
+https://fireshare.fihome.xyz/w/97748e06d26d1981068f736ce1ee9e1c
+
 # SG.D > 236S RC
 
 We can cancel SG.D into Sniper stance (236S), yet if we RC midway we get out of the shotgun stance.
@@ -174,25 +197,76 @@ https://fireshare.fihome.xyz/w/0b19c871988c27b9da1d00c71dd710c4
 
 https://fireshare.fihome.xyz/w/299f4e8ab89af4a682def427558db7bd
 
-## SG.D > 236S RC > 2H > pull > j.KS j.4Toss > j.SH |> IK (Heavyewieghts) Corner
+# Shoot the berry > RC IK
+
+It's very simple.
+
+We shoot the berry.
+
+Berry explodes.
+
+RC and cash in the rewards.
+
+Since the combo won't be very much scaled, lightweights might require some delay since they will be propelled into the sky.
+
+## SG.H > EXPLOSION RC IK Lightweights
+
+Requires lil delay to wait for the opponent to fall back into earth.
+
+https://fireshare.fihome.xyz/w/cee8aeedc80eeaa6387fbd872f3afb52
+
+## SG.H > EXPLOSION RC IK Heavyweights
+
+https://fireshare.fihome.xyz/w/6dad8d3dc26c24d1e5723de115cde219
+
+
+
+# .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
+
+## SG.D > 236S RC > 2H > pull > j.KS j.4Toss > j.SH |> IK (Heavyewieghts)
 
 On `heavyweights` we can route directly towards the [2H > pull > j.KS j.4Toss > j.SH |> IK](#-2h--pull--jks-j4toss--jsh--ik--corner) directly.
 
 https://fireshare.fihome.xyz/w/7a98f6a71557e8ef590b2df5647d5aae
 
-## SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Midweights)  Corner
+## SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Midweights)
 
 On `midweights` gotta increase the gravity slightly for the routing  [2H > pull > j.KS j.4Toss > j.SH |> IK](#-2h--pull--jks-j4toss--jsh--ik--corner) to work.
 
 https://fireshare.fihome.xyz/w/b1e500d37a4e6bddfd03fbe1c7788264
 
-## SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Lightweights) Corner
+## SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Lightweights)
 
 On `lightweights` gotta increase the gravity slightly for the routing  [2H > pull > j.KS j.4Toss > j.SH |> IK](#-2h--pull--jks-j4toss--jsh--ik--corner) to work.
 
 https://fireshare.fihome.xyz/w/abec69652e02b2fff521f5d70648cedb
 
-# Berry hitstun setups
+## 2D Berry setup > filler > 2H > pull > j.KS j.4Toss > j.SH |> IK Lightweights
+
+Fairly simple setup tbh
+
+https://fireshare.fihome.xyz/w/7f39b88d1d91dd3fce870c3b80591951
+
+## 2D Berry setup > filler > 2H > pull > j.KS j.4Toss > j.SH |> IK Midweights
+
+https://fireshare.fihome.xyz/w/b9b84302666ff818268bb09cd77bc779
+
+## 2D Berry setup > filler > 2H > pull > j.KS j.4Toss > j.SH |> IK Heavyweights
+
+Keep it simple stupid they said.
+
+Then got mad when Elphelt IKd them that easily.
+
+https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
+
+# Ground berry hitstun IK
+
+SG.D has some easy setups for this in the corner.
+
+
+
+
+
 
 
 
