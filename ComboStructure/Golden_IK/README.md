@@ -9,8 +9,10 @@ include_toc: true
 
 # Simple
 
-## SG.H > RC IK
 
+## 5D6
+
+https://fireshare.fihome.xyz/w/5a059bf3bdb4272c1b5facac647990fc
 
 ## Throw > RC IK
 
@@ -62,18 +64,35 @@ https://fireshare.fihome.xyz/w/73fd5e53a48134f8540573d5e539fb07
 
 https://fireshare.fihome.xyz/w/7a5c3572f0500f8b83351e0cc50d8fbe
 
-## NON wallsplat SG.H > RC IK
+## NON wallsplat SG.H > RC IK 1
 
 https://fireshare.fihome.xyz/w/8ce389523cb7809c27627e9a3d181bd9
 
+## NON wallsplat SG.H > RC IK 2
+
+https://fireshare.fihome.xyz/w/1dd4b88de8a154def2b14654150906c3
 
 ## NON wallsplat SG.H > RC 5D6 IK
 
 Setup to 5D6
 
+SG.H needs to be spaced so the opponent isn't sent flying.
+
+Can be used when confirming SG.H shots on corner pressure.
+
 https://fireshare.fihome.xyz/w/7a013abc49b8e267eb7f220336aa4a7d
 
+## CH c.S antiair > RC IK
 
+https://fireshare.fihome.xyz/w/c7a5a4a575573f6379bca24d031d056b
+
+## CH f.S antiair > RC IK
+
+https://fireshare.fihome.xyz/w/b5be8abc8ff6aa3b5ed685fad80b2df0
+
+## CH 5D antiair > RC IK
+
+https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
 
 ## 236S > RC IK
 
@@ -81,10 +100,13 @@ Not much of a mystery tbh.
 
 https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
 
-## 236S > 2H
+## 236S > RC 2H routing
 
+From a sniper shot we can RC and get a 
 
+## CH Sniper
 
+We can get shit from CH Sniper, I'm lazy and will be skipping that (for now)
 
 # General Routes
 
@@ -124,6 +146,7 @@ This allows us to pick up the combo after SG.D launcher, with stuff such as 2H.
 
 ## SG.D > 236S RC IK
 
+https://fireshare.fihome.xyz/w/4f2e3333977123b1e3626d4a2cc7ef8e
 
 ## SG.D > 236S RC > 2H routing midscreen
 
@@ -153,6 +176,12 @@ On `lightweights` gotta increase the gravity slightly for the routing  [2H > pul
 https://fireshare.fihome.xyz/w/abec69652e02b2fff521f5d70648cedb
 
 
+# Genoverse setup
+
+- Shutouts to Saybel
+
+https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
+
 
 
 ## Character Specific
@@ -163,8 +192,3 @@ https://fireshare.fihome.xyz/w/abec69652e02b2fff521f5d70648cedb
 
 https://fireshare.fihome.xyz/w/a47a172fec70d618dc7a622e983251a2
 
-## Genoverse setup
-
-- Shoutouts to Saybel
-
-https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
