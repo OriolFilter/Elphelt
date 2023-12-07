@@ -22,21 +22,33 @@ https://fireshare.fihome.xyz/w/621557e3504cbea4a09638a657eee756
 
 ## CH c.S > 5D6 IK
 
+Setup to 5D6
+
 https://fireshare.fihome.xyz/w/179c36fb74fa81664f0443887248fa55
+
+## 2S > RC 5D6 IK
+
+Setup to 5D6
+
+https://fireshare.fihome.xyz/w/f07bf1667c8dfea8bd4ca06c9008d20d
+
+## c.S > RC 5D6 IK
+
+Setup to 5D6
+
+https://fireshare.fihome.xyz/w/5446a5115bd4951b7cf5b96456e64a0d
 
 ## CH f.S > RC IK
 
 https://fireshare.fihome.xyz/w/f1af97ce2b048e2b53c452d0057f20d0
 
-## NON wallsplat SG.H > RC 5D6 IK
+## CH 5H > RC IK
 
-Setup to 5D6
+https://fireshare.fihome.xyz/w/92f512fd38a33febc096440a5e446e78
 
-https://fireshare.fihome.xyz/w/7a013abc49b8e267eb7f220336aa4a7d
+## 5H > RC 5D6 IK
 
-## NON wallsplat SG.H > RC IK
-
-https://fireshare.fihome.xyz/w/8ce389523cb7809c27627e9a3d181bd9
+https://fireshare.fihome.xyz/w/00857c81dec735fa64b8c2a3feb093e3
 
 ## CH 6H > 236P IK
 
@@ -49,6 +61,18 @@ https://fireshare.fihome.xyz/w/73fd5e53a48134f8540573d5e539fb07
 ## CH [SG.H] > wallsplat > IK
 
 https://fireshare.fihome.xyz/w/7a5c3572f0500f8b83351e0cc50d8fbe
+
+## NON wallsplat SG.H > RC IK
+
+https://fireshare.fihome.xyz/w/8ce389523cb7809c27627e9a3d181bd9
+
+
+## NON wallsplat SG.H > RC 5D6 IK
+
+Setup to 5D6
+
+https://fireshare.fihome.xyz/w/7a013abc49b8e267eb7f220336aa4a7d
+
 
 
 ## 236S > RC IK
@@ -63,6 +87,10 @@ https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
 
 
 # General Routes
+
+## SG.H loops > RC IK
+
+
 
 
 ## .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
