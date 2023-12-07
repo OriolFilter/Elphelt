@@ -11,7 +11,7 @@ include_toc: true
 
 > Note:\
 > 2D/6P berry setups should be mostly routable on both starters.\
-> IE: [2D Berry setup](#2d-berry-setup)
+> IE: [2D Berry setup](#2d-berry-setup--filler--2h--pull--jks-j4toss--jsh--ik-midweights)
 
 # Simple
 
@@ -137,17 +137,15 @@ Other examples at:
 
 ## Bridal  > RC IK
 
-Due to the high ammount of hitstun from Bridal, and since also slightly increases the opponent height, we can use it to set up `RC IK` setups.
+Due to the high amount of hitstun from Bridal, and since also slightly increases the opponent height, we can use it to set up `RC IK` setups.
 
 Generally speaking it's easier to hit those on lightweights since they are easier to rise/keep afloat, meanwhile the fatsos will fall to the ground very fast in comparison, making them more annoying to combo into this when using non-short combos.
 
-- Opponent requires to be at a bit higher than Elphelt/bridal to allow for the RC > IK
+When doing `2H > Bridal` lightweights are prone to tech out if they are too high, might consider replacing Bridal for `236H>SG.H RC IK`.
+
+- Opponent requires to be at a bit higher than Elphelt/bridal to allow for the RC > IK, otherwise will hit the ground.
 
 https://fireshare.fihome.xyz/w/e1cb83c261b017a09b994a1544a966ad
-
-- 2H can be used to increase the height frm the opponent and proced with the bridal.
-
-https://fireshare.fihome.xyz/w/6d2601553ea918ebd3784b2d6f3f91ac
 
 ## j.D PRC |> IK
 
@@ -161,7 +159,13 @@ https://fireshare.fihome.xyz/w/7e6f7ad81769ecae69e7c4219e09c524
 
 If we have a berry pulled out, and we happen to open up the opponent, if we extend the combo/pressure long enough to hit the opponent with the berry at lvl 4, we can set ourselves on IK mode and proceed to execute the needful.
 
-https://fireshare.fihome.xyz/w/69a45de104aee5a1c289acfa8ad023b5
+https://fireshare.fihome.xyz/w/cb52ae9ce7c1d0a1c5c8983c927ce688
+
+Wallsplat combos also allow for this.
+
+Usually it will be stuff `> 5H/6H/2S > 2toss`. The button of choice mostly depends on the spacing and opponent height, but if we take to route specifics, different characters will have different button choices based on their char hurtbox/whatever works.
+
+https://fireshare.fihome.xyz/w/c8a4e7790dcb47ce311fa69394cf05d1
 
 ## Air berry hitstun IK
 
@@ -175,7 +179,13 @@ https://fireshare.fihome.xyz/w/1a6431bd4fb936c06254d9c3c36606df
 
 # Bridal
 
-## 2D Berry Setup
+## stuff 2H > Bridal > RC IK
+
+2H can be used to increase the height frm the opponent and proceed with the bridal RC IK.
+
+https://fireshare.fihome.xyz/w/6d2601553ea918ebd3784b2d6f3f91ac
+
+## 2D Berry Setup > stuff > Bridal > RC IK
 
 https://fireshare.fihome.xyz/w/97748e06d26d1981068f736ce1ee9e1c
 
@@ -219,7 +229,19 @@ https://fireshare.fihome.xyz/w/cee8aeedc80eeaa6387fbd872f3afb52
 
 https://fireshare.fihome.xyz/w/6dad8d3dc26c24d1e5723de115cde219
 
+## 5H > EXPLOSION RC IK
 
+https://fireshare.fihome.xyz/w/4d7a6851c67c289e4594a399ced24626
+
+## jD > EXPLOSION IK
+
+https://fireshare.fihome.xyz/w/8834604fa087bfc5d754e4316a177825
+
+## jD > EXPLOSION RC IK
+
+- jD RRC/PRC |>RRC whatever
+
+https://fireshare.fihome.xyz/w/3aaefbe5608a3cee4fbfd20a12a0fcaa
 
 # .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
 
@@ -259,20 +281,39 @@ Then got mad when Elphelt IKd them that easily.
 
 https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 
-# Ground berry hitstun IK
+
+
+# Air Berry Hitstun
+
+
+
+# Ground Berry Hitstun
 
 SG.D has some easy setups for this in the corner.
 
+## pull berry > CH f.S IAD j.KSH |> c.S (> f.S) > 2toss IK 
 
+https://fireshare.fihome.xyz/w/69a45de104aee5a1c289acfa8ad023b5
 
+## pull berry > CH f.S > 2H > stuff > 2toss IK
 
+https://fireshare.fihome.xyz/w/69a45de104aee5a1c289acfa8ad023b5
 
+## CH [SG.H] > combo > 2toss IK
 
+Ignore the risc gauge, it's there only for damage purposes.
 
+https://fireshare.fihome.xyz/w/96867dadc15c931f36b588ba87887be0
+
+## 2D Berry setup > stuff > 5H > 2toss Millia
+
+- No clue on which characters works, does indeed work on Milli.
+
+https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
 # Other routes
 
-## Throw > RC SG.H Wallsplat
+## Throw > RC SG.H Wallsplat > 2H
 
 https://fireshare.fihome.xyz/w/e2411b3c907ec02b55e0d0e48f83f89f
 
@@ -292,7 +333,7 @@ https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
 
 ## 236S > RC 2H routing
 
-From a sniper shot we can RC and get a
+From a sniper shot we can RC and get a 2H combo pickup
 
 
 
