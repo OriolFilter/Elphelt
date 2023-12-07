@@ -6,7 +6,7 @@ include_toc: true
 > Note:\
 > Combos can be affected by height and stuff so mayb it will require certain variations, weather its extra buttons or delays to make them work. As well some routes might not work on certain heights. Deal with it and pick a different route. Cheers.
 
-> Note:\ 
+> Note:\
 > I'm not going to explore every possible combination.
 
 > Note:\
