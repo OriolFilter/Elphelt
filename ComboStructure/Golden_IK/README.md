@@ -121,7 +121,20 @@ This is very easy to do and set up.
 
 https://fireshare.fihome.xyz/w/e057694cd3d3228b2f2c4297772c144b
 
+
+## Pull Berry > j.KSH jToss > j.(P)SH |> IK EXPLOSION IK
+
+The `j.P` is optional, mostly used as a "timer filler".
+
+On routes where we do `Pull Berry > c.S  > stuff` j.P **must** be omitted.
+
+This combo has some variations but the TLDR is `pull berry > eventually toss > stuff > j.H opponent into the berry |> IK`
+
+https://fireshare.fihome.xyz/w/8cfde3f8b803c082061581d3249404a3
+
 ## .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
+
+We can consider this a variation [from the above](#pull-berry--jksh-jtoss--jpsh--ik-explosion-ik), but this version requires the corner.
 
 This  combo is heavily affected by gravity, depending on the height of the opponent character requires further extensions to reach the desired gravity.
 
@@ -176,14 +189,6 @@ Since the Berry timer continues while we are on the IK animation, berry will exp
 We gotta keep into account that opponent height is very sensitive on this route, therefore delays are crucial on this setup.
 
 https://fireshare.fihome.xyz/w/1a6431bd4fb936c06254d9c3c36606df
-
-## Pull Berry > j.KSH jToss > j.(P)SH |> IK EXPLOSION IK
-
-The `j.P` is optional, mostly used as a "timer filler"
-
-This combo has some variations but the TLDR is `pull berry > eventually toss > fill time > j.H opponent into the berry |> IK`
-
-https://fireshare.fihome.xyz/w/8cfde3f8b803c082061581d3249404a3
 
 # Bridal
 
@@ -289,8 +294,6 @@ Then got mad when Elphelt IKd them that easily.
 
 https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 
-
-
 # Air Berry Hitstun
 
 ## CHc.S Antiair > Pull Berry > c.S > j.KSH j.Toss |> IK
@@ -298,8 +301,6 @@ https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 - Opponent needs to be very low
 
 https://fireshare.fihome.xyz/w/35908c40b99ccba6b8c913260b92e8a9
-
-
 
 # Ground Berry Hitstun
 
