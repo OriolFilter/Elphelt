@@ -4,11 +4,13 @@ include_toc: true
 ---
 
 > Note:\
-> Combos can be affected by height and stuff so mayb it will require certain variations, weather its extra buttons or delays to make them work. As well some routes might not work on certain heights. Deal with it and pick a different route. Cheers. 
+> Combos can be affected by height and stuff so mayb it will require certain variations, weather its extra buttons or delays to make them work. As well some routes might not work on certain heights. Deal with it and pick a different route. Cheers.
+
+> Note:\ 
+> I'm not going to explore every possible combination.
 
 
 # Simple
-
 
 ## 5D6
 
@@ -112,6 +114,10 @@ We can get shit from CH Sniper, I'm lazy and will be skipping that (for now)
 
 ## SG.H loops > RC IK
 
+This is very easy to do and set up.
+
+https://fireshare.fihome.xyz/w/e057694cd3d3228b2f2c4297772c144b
+
 ## .. 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
 
 This  combo is heavily affected by gravity, depending on the height of the opponent character requires further extensions to reach the desired gravity.
@@ -119,7 +125,6 @@ This  combo is heavily affected by gravity, depending on the height of the oppon
 - Requires a corner.
 
 https://fireshare.fihome.xyz/w/dd5da692e52d3599d11afb37e40418fb
-
 
 Other examples at:
 
@@ -133,7 +138,23 @@ Other examples at:
 
 ## j.D PRC |> IK
 
+https://fireshare.fihome.xyz/w/7e6f7ad81769ecae69e7c4219e09c524
 
+## Ground berry hitstun IK
+
+If we have a berry pulled out, and we happen to open up the opponent, if we extend the combo/pressure long enough to hit the opponent with the berry at lvl 4, we can set ourselves on IK mode and proceed to execute the needful.
+
+https://fireshare.fihome.xyz/w/69a45de104aee5a1c289acfa8ad023b5
+
+## Air berry hitstun IK
+
+On this setup we use the hitstun from the berry to land and set ourselves on IK mode.
+
+Since the Berry timer continues while we are on the IK animation, berry will explode, meaning that will combo into the berry explosion, and the opponent will be launched.
+
+We gotta keep into account that opponent height is very sensitive on this route, therefore delays are crucial on this setup.
+
+https://fireshare.fihome.xyz/w/1a6431bd4fb936c06254d9c3c36606df
 
 # SG.D > 236S RC
 
@@ -165,12 +186,15 @@ On `midweights` gotta increase the gravity slightly for the routing  [2H > pull 
 
 https://fireshare.fihome.xyz/w/b1e500d37a4e6bddfd03fbe1c7788264
 
-
 ## SG.D > 236S RC > extend > 2H > pull > j.KS j.4Toss > j.SH |> IK (Lightweights) Corner
 
 On `lightweights` gotta increase the gravity slightly for the routing  [2H > pull > j.KS j.4Toss > j.SH |> IK](#-2h--pull--jks-j4toss--jsh--ik--corner) to work.
 
 https://fireshare.fihome.xyz/w/abec69652e02b2fff521f5d70648cedb
+
+# Berry hitstun setups
+
+
 
 # Other routes
 
