@@ -177,6 +177,14 @@ We gotta keep into account that opponent height is very sensitive on this route,
 
 https://fireshare.fihome.xyz/w/1a6431bd4fb936c06254d9c3c36606df
 
+## Pull Berry > j.KSH jToss > j.(P)SH |> IK EXPLOSION IK
+
+The `j.P` is optional, mostly used as a "timer filler"
+
+This combo has some variations but the TLDR is `pull berry > eventually toss > fill time > j.H opponent into the berry |> IK`
+
+https://fireshare.fihome.xyz/w/8cfde3f8b803c082061581d3249404a3
+
 # Bridal
 
 ## stuff 2H > Bridal > RC IK
@@ -311,6 +319,14 @@ https://fireshare.fihome.xyz/w/96867dadc15c931f36b588ba87887be0
 
 https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
+# CH6H > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
+
+https://fireshare.fihome.xyz/w/eea289dec1316693b47dbbd61c9b1040
+
+# CHc.S Antiair > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
+
+https://fireshare.fihome.xyz/w/a74ba47a3f3af0b9305f9d23a9951945
+
 # Other routes
 
 ## Throw > RC SG.H Wallsplat > 2H
@@ -335,8 +351,7 @@ https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
 
 From a sniper shot we can RC and get a 2H combo pickup
 
-
-
+https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
 # Genoverse setup
 
