@@ -2,11 +2,14 @@
 
 ## From Corner Bridal
 
-IAD j.236P > j.S
+
 
 ```mermaid
-graph TD
-Start --> End
+graph LR
+    A[IAD j.236P > j.S]
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
 ```
 
 
