@@ -368,11 +368,19 @@ From a sniper shot we can RC and get a 2H combo pickup
 
 https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
+## Some Yanagi setups
+
+
+
+https://twitter.com/yanagiJPN/status/1130075485889654789
+
 # Genoverse setup
 
 - Shutouts to Saybel
 
 https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
+
+
 
 
 ## Character Specific
