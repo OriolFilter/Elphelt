@@ -235,7 +235,7 @@ Since the combo won't be very much scaled, lightweights might require some delay
 
 ## SG.H > EXPLOSION RC IK Lightweights
 
-Requires lil delay to wait for the opponent to fall back into earth.
+Requires lil delay to wait for the opponent to fall back to earth.
 
 https://fireshare.fihome.xyz/w/cee8aeedc80eeaa6387fbd872f3afb52
 
