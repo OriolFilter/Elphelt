@@ -425,27 +425,6 @@ https://fireshare.fihome.xyz/w/f4a2f82af0f2cec341ff714b56b165ba
 
 
 
-# "Else"
-
-Stuff that exists, but I don't want to be in the middle of the doc.
-
-## CH 5D antiair > RC IK
-
-https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
-
-## CH f.S > IAD j.KSH |> c.S RC 66 5D6 IK 
-
-5D6 Setup
-
-It's important to do the run-up 5D.
-
-https://fireshare.fihome.xyz/w/29a1e60da0d1bd806c3779459a671e5c
-
-## Some Yanagi setups
-
-https://twitter.com/yanagiJPN/status/1130075485889654789
-
-
 # 236S Sniper setups
 
 We can get setups, both from CH and non CH hits.
@@ -523,21 +502,44 @@ https://fireshare.fihome.xyz/w/b184a68e357b6c8d1c0a4915573cab07
 
 https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
 
-## Related media
 
-### Saybel vid(s)
+# "Else"
+
+Stuff that exists, but I don't want to be in the middle of the doc.
+
+## CH 5D antiair > RC IK
+
+https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
+
+## CH f.S > IAD j.KSH |> c.S RC 66 5D6 IK
+
+5D6 Setup
+
+It's important to do the run-up 5D.
+
+https://fireshare.fihome.xyz/w/29a1e60da0d1bd806c3779459a671e5c
+
+## Some Yanagi setups
+
+https://twitter.com/yanagiJPN/status/1130075485889654789
+
+
+
+# Related media
+
+## Saybel vid(s)
 
 [Various IK routes (for combo doc)](https://youtu.be/4aSax7mwsAc)
 
 [Elphelt relaunch mixups and IK conversions](https://youtu.be/mRw6Aksv_J8)
 
-### Hardly vid(s)
+## Hardly vid(s)
 
 [Simple Elphelt sg.D IK setup](https://youtu.be/5kAzreMzWR4)
 
 [a brief demonstration of elphelts instant kill routes](https://youtu.be/8eONRwsjKHU)
 
-## Character Specific
+# Character Specific
 
 ### Sol Grand Viper
 
