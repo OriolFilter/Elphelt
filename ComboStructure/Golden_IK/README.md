@@ -15,6 +15,7 @@ include_toc: true
 
 > Note:\
 > Routes are (mostly) grouped by ender.
+> Heavily recommended to use the `Table of Contents` at the top...
 
 
 > Glossary:\
