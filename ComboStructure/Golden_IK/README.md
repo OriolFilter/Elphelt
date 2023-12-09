@@ -541,20 +541,20 @@ https://twitter.com/yanagiJPN/status/1130075485889654789
 
 # Character Specific
 
-### Sol Grand Viper
+## Sol Grand Viper
 
 - Requires fair distance
 
 https://fireshare.fihome.xyz/w/a47a172fec70d618dc7a622e983251a2
 
-### Slayer DoT with berry setup
+## Slayer DoT with berry setup
 
 1. IAD over them
 2. Cash in the gacha rolls
 
 https://fireshare.fihome.xyz/w/a73bf826e2c2172507a8ade9bfb00620
 
-### Asnwer Savvy Ninpo: Stepping Down
+## Asnwer Savvy Ninpo: Stepping Down
 
 - Requires slight distancing
 
