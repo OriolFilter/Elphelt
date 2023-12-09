@@ -209,6 +209,8 @@ We can cancel SG.D into Sniper stance (236S), yet if we RC midway we get out of 
 
 This allows us to pick up the combo after SG.D launcher, with stuff such as 2H.
 
+
+
 ## SG.D > 236S RC IK
 
 https://fireshare.fihome.xyz/w/4f2e3333977123b1e3626d4a2cc7ef8e
@@ -217,7 +219,7 @@ https://fireshare.fihome.xyz/w/4f2e3333977123b1e3626d4a2cc7ef8e
 
 5D6 setup
 
-https://fireshare.fihome.xyz/w/bd6bcc3c57fc8c6ee5a0925f86cc6c25
+https://fireshare.fihome.xyz/w/7d19c086ee58be7bb3149dabb45a0d83
 
 # Shoot the berry > RC IK
 
@@ -332,7 +334,7 @@ https://fireshare.fihome.xyz/w/96867dadc15c931f36b588ba87887be0
 
 - No clue on which characters works, does indeed work on Millia.
 
-https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
+https://fireshare.fihome.xyz/w/af2469001063c6ab1cd4da0a8925235b
 
 # Pull Berry > stuff > j.H opponent into berry EXPLOSION |> IK
 
