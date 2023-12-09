@@ -497,7 +497,7 @@ https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
 
 [Elphelt relaunch mixups and IK conversions](https://youtu.be/mRw6Aksv_J8)
 
-### Harldy vid(s)
+### Hardly vid(s)
 
 [Simple Elphelt sg.D IK setup](https://youtu.be/5kAzreMzWR4)
 
