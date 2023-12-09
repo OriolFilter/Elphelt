@@ -474,14 +474,32 @@ https://fireshare.fihome.xyz/w/af310ee79cf6dc25960e168da573db83
 
 https://fireshare.fihome.xyz/w/b184a68e357b6c8d1c0a4915573cab07
 
+
+# Stuff > IK Mode > Stuff j.D |> IK
+
+- Stolen the idea from Saybel (see on [Saybel vids](#saybel-vids))
+
+https://fireshare.fihome.xyz/w/35800997c08096ae80d2b8f0880ed8ec
+
 # Genoverse setup
 
 - Shutouts to Saybel
 
 https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
 
+## Related media
 
+### Saybel vid(s)
 
+[Various IK routes (for combo doc)](https://youtu.be/4aSax7mwsAc)
+
+[Elphelt relaunch mixups and IK conversions](https://youtu.be/mRw6Aksv_J8)
+
+### Harldy vid(s)
+
+[Simple Elphelt sg.D IK setup](https://youtu.be/5kAzreMzWR4)
+
+[a brief demonstration of elphelts instant kill routes](https://youtu.be/8eONRwsjKHU)
 
 ## Character Specific
 
@@ -497,3 +515,4 @@ https://fireshare.fihome.xyz/w/a47a172fec70d618dc7a622e983251a2
 2. Cash in the gacha rolls
 
 https://fireshare.fihome.xyz/w/a73bf826e2c2172507a8ade9bfb00620
+
