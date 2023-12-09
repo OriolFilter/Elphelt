@@ -479,6 +479,8 @@ https://fireshare.fihome.xyz/w/b184a68e357b6c8d1c0a4915573cab07
 
 - Stolen the idea from Saybel (see on [Saybel vids](#saybel-vids))
 
+Should work off any combo into "lvl 4 berry explosion" setup (aka j.H/Bridal/whatever as we don't be the ones making the berry explode).
+
 https://fireshare.fihome.xyz/w/35800997c08096ae80d2b8f0880ed8ec
 
 # Genoverse setup
