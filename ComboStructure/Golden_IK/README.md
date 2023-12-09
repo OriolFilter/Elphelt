@@ -7,11 +7,19 @@ include_toc: true
 > Combos can be affected by height and stuff so mayb it will require certain variations, weather its extra buttons or delays to make them work. As well some routes might not work on certain heights. Deal with it and pick a different route. Cheers.
 
 > Note:\
-> I'm not going to explore every possible combination.
+> I'm not going to explore every possible combination (I think).
 
 > Note:\
 > 2D/6P berry setups should be mostly routable on both starters.\
 > IE: [2D Berry setup](#2d-berry-setup--filler--2h--pull--jks-j4toss--jsh--ik-midweights)
+
+> Note:\
+> Routes are (mostly) grouped by ender.
+
+
+> Glossary:\
+> CH: Counterhit\
+> MCH: Mortal Counterhit (aka. Danger time stuff)
 
 # Simple
 
@@ -104,10 +112,6 @@ https://fireshare.fihome.xyz/w/b5be8abc8ff6aa3b5ed685fad80b2df0
 ## CH Bridal > RC IK
 
 https://fireshare.fihome.xyz/w/4598bf0c68a7cb071fad5aef559cf7d1
-
-## CH Bridal > whatever > 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
-
-https://fireshare.fihome.xyz/w/f356e4e22bce9a62d499279b2e6ef905
 
 ## CH Sniper
 
@@ -292,6 +296,11 @@ Then got mad when Elphelt IKd them that easily.
 
 https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 
+## CH Bridal > whatever > 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
+
+https://fireshare.fihome.xyz/w/f356e4e22bce9a62d499279b2e6ef905
+
+
 # Air Berry Hitstun
 
 ## CHc.S Antiair > Pull Berry > c.S > j.KSH j.Toss |> IK EXPLOSION IK
@@ -362,15 +371,25 @@ https://fireshare.fihome.xyz/w/27f51fd231a281b6a3122d9528c4d917
 
 # CH j.Bridal
 
+j.Bridal CH allow for some IK anywhere on the screen, both using 50% meter of 100%.
+
+## CH j.Bridal 2H RC IK
+
+https://fireshare.fihome.xyz/w/145a77bfd4bc5410b4823c1bde84c6be
+
 ## CH j.Bridal 2H Midscreen Close
 
-If j.Bridal is horizontally too close, 2H will sideswap.
+If j.Bridal is horizontally too close, 2H will side swap.
 
 https://fireshare.fihome.xyz/w/adf81cb5df03be1c3f503943f4d0b565
 
-## CH j.Bridal 2H Midscreen Spaced
+## CH j.Bridal 2H Routing Midscreen Spaced
 
-## CH j.Bridal 2H Corner
+https://fireshare.fihome.xyz/w/254f3c250c9ef3e3488fab7c019211a4
+
+## CH j.Bridal 2H Routing Corner
+
+https://fireshare.fihome.xyz/w/11574a2780f4db3bd40fa4e971116e94
 
 ## CH j.Bridal RC IK Spaced
 
@@ -431,6 +450,29 @@ https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 ## Some Yanagi setups
 
 https://twitter.com/yanagiJPN/status/1130075485889654789
+
+## Mortal Counter
+
+Dangertime stuff.
+
+> Note:\
+> A Mortal Counterhit (MCH) can be canceled into runup without need of going through FD, but it's generally a good practice to FD clashes (MCH are treated as button clashes).
+
+### MCH f.S > FD IK
+
+https://fireshare.fihome.xyz/w/50ebf7d9190f1199b2864217ce5ee217
+
+### MCH f.S > 5D6 IK
+
+https://fireshare.fihome.xyz/w/e60d8f9c64ccc91633a60aee88a3eff0
+
+### MCH f.S > FD > 66 5D6 IK
+
+https://fireshare.fihome.xyz/w/af310ee79cf6dc25960e168da573db83
+
+### MCH Bridal > FD > 66 IK
+
+https://fireshare.fihome.xyz/w/b184a68e357b6c8d1c0a4915573cab07
 
 # Genoverse setup
 
