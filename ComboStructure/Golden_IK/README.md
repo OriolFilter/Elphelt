@@ -114,10 +114,6 @@ https://fireshare.fihome.xyz/w/b5be8abc8ff6aa3b5ed685fad80b2df0
 
 https://fireshare.fihome.xyz/w/4598bf0c68a7cb071fad5aef559cf7d1
 
-## CH Sniper
-
-We can get things from CH Sniper, I'm lazy and will be skipping that (for now)
-
 # General Routes
 
 ## SG.H loops > RC IK
