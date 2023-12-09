@@ -376,11 +376,18 @@ Should work off any combo into "lvl 4 berry explosion" setup (aka j.H/Bridal/wha
 
 https://fireshare.fihome.xyz/w/35800997c08096ae80d2b8f0880ed8ec
 
+## cS > Stuff > 2H (2) RC IK
+
+We can RC Launcher `2H(2)` then proced with the  IK
+
+https://fireshare.fihome.xyz/w/2b608c012f406785a4936efd6c614da1
+
+
 # CH j.Bridal
 
 j.Bridal CH allow for some IK anywhere on the screen, both using 50% meter of 100%.
 
-## CH j.Bridal 2H RC IK
+## CH j.Bridal 2H(2) RC IK
 
 https://fireshare.fihome.xyz/w/145a77bfd4bc5410b4823c1bde84c6be
 
@@ -401,7 +408,6 @@ https://fireshare.fihome.xyz/w/11574a2780f4db3bd40fa4e971116e94
 ## CH j.Bridal RC IK Spaced
 
 https://fireshare.fihome.xyz/w/b0480db9f953861c1be386ec39b34449
-
 
 ## CH j.Bridal RC IK  Heavyweights
 
@@ -451,6 +457,9 @@ https://fireshare.fihome.xyz/w/933ca8723cac98fb7997aa4d9d658bad
 From a sniper shot we can RC and get a 2H combo pickup
 
 https://fireshare.fihome.xyz/w/2046b273b0cf731dd2e5612276692a58
+## 236S > RC > stuff > 2H(2) IK
+
+https://fireshare.fihome.xyz/w/f805d9b33c3d17f8c21cd29ea53fd12f
 
 ## CH Uncharged Sniper > RC IK
 
