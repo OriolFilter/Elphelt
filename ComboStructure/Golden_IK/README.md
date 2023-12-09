@@ -369,6 +369,14 @@ https://fireshare.fihome.xyz/w/46628b2de7686cc0cb5a0aec88ae5864
 
 https://fireshare.fihome.xyz/w/27f51fd231a281b6a3122d9528c4d917
 
+## Stuff > IK Mode > Stuff j.D |> IK
+
+- Stolen the idea from Saybel (see on [Saybel vids](#saybel-vids))
+
+Should work off any combo into "lvl 4 berry explosion" setup (aka j.H/Bridal/whatever as we don't be the ones making the berry explode).
+
+https://fireshare.fihome.xyz/w/35800997c08096ae80d2b8f0880ed8ec
+
 # CH j.Bridal
 
 j.Bridal CH allow for some IK anywhere on the screen, both using 50% meter of 100%.
@@ -451,37 +459,30 @@ https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
 https://twitter.com/yanagiJPN/status/1130075485889654789
 
-## Mortal Counter
+# Mortal Counter
 
 Dangertime stuff.
 
 > Note:\
 > A Mortal Counterhit (MCH) can be canceled into runup without need of going through FD, but it's generally a good practice to FD clashes (MCH are treated as button clashes).
 
-### MCH f.S > FD IK
+## MCH f.S > FD IK
 
 https://fireshare.fihome.xyz/w/50ebf7d9190f1199b2864217ce5ee217
 
-### MCH f.S > 5D6 IK
+## MCH f.S > 5D6 IK
 
 https://fireshare.fihome.xyz/w/e60d8f9c64ccc91633a60aee88a3eff0
 
-### MCH f.S > FD > 66 5D6 IK
+## MCH f.S > FD > 66 5D6 IK
 
 https://fireshare.fihome.xyz/w/af310ee79cf6dc25960e168da573db83
 
-### MCH Bridal > FD > 66 IK
+## MCH Bridal > FD > 66 IK
 
 https://fireshare.fihome.xyz/w/b184a68e357b6c8d1c0a4915573cab07
 
 
-# Stuff > IK Mode > Stuff j.D |> IK
-
-- Stolen the idea from Saybel (see on [Saybel vids](#saybel-vids))
-
-Should work off any combo into "lvl 4 berry explosion" setup (aka j.H/Bridal/whatever as we don't be the ones making the berry explode).
-
-https://fireshare.fihome.xyz/w/35800997c08096ae80d2b8f0880ed8ec
 
 # Genoverse setup
 
