@@ -427,6 +427,7 @@ No clue if proximity or height affect or not, needed multiple attempts until one
 https://fireshare.fihome.xyz/w/f4a2f82af0f2cec341ff714b56b165ba
 
 
+
 # "Else"
 
 Stuff that exists, but I don't want to be in the middle of the doc.
@@ -443,21 +444,56 @@ It's important to do the run-up 5D.
 
 https://fireshare.fihome.xyz/w/29a1e60da0d1bd806c3779459a671e5c
 
+## Some Yanagi setups
+
+https://twitter.com/yanagiJPN/status/1130075485889654789
+
+
+# 236S Sniper setups
+
+We can get setups, both from CH and non CH hits.
+
+Same from uncharged and charged sniper.
+
+> Note:\
+> By default we assume that shots will be charged unless specified.
+
 ## 236S > RC IK
 
 Not much of a mystery tbh.
 
 https://fireshare.fihome.xyz/w/6660a5bacb0c73d19044d5fccae2f9c8
 
+## CH 236S > IK
+
+https://fireshare.fihome.xyz/w/933ca8723cac98fb7997aa4d9d658bad
+
 ## 236S > RC 2H routing
 
 From a sniper shot we can RC and get a 2H combo pickup
 
-https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
+https://fireshare.fihome.xyz/w/2046b273b0cf731dd2e5612276692a58
 
-## Some Yanagi setups
+## CH Uncharged Sniper > RC IK
 
-https://twitter.com/yanagiJPN/status/1130075485889654789
+https://fireshare.fihome.xyz/w/f218ab6f1e328fb2ef6ef696173883a7
+
+## CH 236S > stuff > j.D PRC |> IK
+
+https://fireshare.fihome.xyz/w/b8323a722143d0c5becfce1e407aa6fd
+
+## CH 236S > 2H > Pull Berry > stuff > j.H opponent into berry EXPLOSION |> IK
+
+https://fireshare.fihome.xyz/w/070c919baef1986dd6656425128c8f53
+
+## Air Uncharged Sniper > RC IK
+
+https://fireshare.fihome.xyz/w/064553250178008fde25b3a0258f649d
+
+## Air CH Uncharged Sniper > RC IK
+
+https://fireshare.fihome.xyz/w/bd2a59adf8e5f31e422e8b6ec190c615
+
 
 # Mortal Counter
 
