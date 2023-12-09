@@ -408,9 +408,11 @@ Stuff that exists, but I don't want to be in the middle of the doc.
 
 https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
 
-## CH f.S > IAD j.KSH |> c.S RC 5D6 IK 
+## CH f.S > IAD j.KSH |> c.S RC 66 5D6 IK 
 
 5D6 Setup
+
+It's important to do the run-up 5D.
 
 https://fireshare.fihome.xyz/w/29a1e60da0d1bd806c3779459a671e5c
 
