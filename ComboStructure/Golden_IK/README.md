@@ -190,7 +190,7 @@ We gotta keep into account that opponent height is very sensitive on this route,
 
 https://fireshare.fihome.xyz/w/1a6431bd4fb936c06254d9c3c36606df
 
-# Bridal
+# Bridal RC
 
 ## stuff 2H > Bridal > RC IK
 
@@ -348,6 +348,58 @@ https://fireshare.fihome.xyz/w/0b19c871988c27b9da1d00c71dd710c4
 
 https://fireshare.fihome.xyz/w/e2411b3c907ec02b55e0d0e48f83f89f
 
+## String > 2D > SG.H
+
+If close enough the 2D is not necessary since `SG.H` will launch the opponent, but, consistency.
+
+The same for all heights.
+
+https://fireshare.fihome.xyz/w/46628b2de7686cc0cb5a0aec88ae5864
+
+## IABD j.Pull Berry > j.Toss |> Bridal
+
+https://fireshare.fihome.xyz/w/27f51fd231a281b6a3122d9528c4d917
+
+# CH j.Bridal
+
+## CH j.Bridal 2H Midscreen Close
+
+If j.Bridal is horizontally too close, 2H will sideswap.
+
+https://fireshare.fihome.xyz/w/adf81cb5df03be1c3f503943f4d0b565
+
+## CH j.Bridal 2H Midscreen Spaced
+
+## CH j.Bridal 2H Corner
+
+## CH j.Bridal RC IK Spaced
+
+https://fireshare.fihome.xyz/w/b0480db9f953861c1be386ec39b34449
+
+
+## CH j.Bridal RC IK  Heavyweights
+
+https://fireshare.fihome.xyz/w/e1f34d69330d11ea463e67b1f082ffaf
+
+## CH j.Bridal IK Spaced
+
+https://fireshare.fihome.xyz/w/6bb0e85675ea5daeb8deef1a46f85fe4
+
+## CH j.Bridal IK Close
+
+It's exactly the same being spaced than not being spaced.
+
+https://fireshare.fihome.xyz/w/b0dadbb9b74a586ba5bbf84d0bcfdada
+
+## CH j.Bridal IK Heavyweights
+
+It's possible to do on heavyweights.
+
+No clue if proximity or height affect or not, needed multiple attempts until one worked.
+
+https://fireshare.fihome.xyz/w/f4a2f82af0f2cec341ff714b56b165ba
+
+
 # "Else"
 
 Stuff that exists, but I don't want to be in the middle of the doc.
@@ -355,6 +407,12 @@ Stuff that exists, but I don't want to be in the middle of the doc.
 ## CH 5D antiair > RC IK
 
 https://fireshare.fihome.xyz/w/b438c43e98d7b07a83f0f7aeb8d086f0
+
+## CH f.S > IAD j.KSH |> c.S RC 5D6 IK 
+
+5D6 Setup
+
+https://fireshare.fihome.xyz/w/29a1e60da0d1bd806c3779459a671e5c
 
 ## 236S > RC IK
 
@@ -369,8 +427,6 @@ From a sniper shot we can RC and get a 2H combo pickup
 https://fireshare.fihome.xyz/w/ace108971f9612d6303395270dedfdd2
 
 ## Some Yanagi setups
-
-
 
 https://twitter.com/yanagiJPN/status/1130075485889654789
 
