@@ -6,10 +6,10 @@
 
 ```mermaid
 graph LR
-    A[IAD j.236P > j.S]
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
+    A[IAD j.236P > ] --> B(j.S overhead meaty)
+    A --> C(j.4Toss > 2K)
+    B --> D{Burstsafe}
+    C--> E{Not Burstsafe}
 ```
 
 
