@@ -17,10 +17,18 @@ include_toc: true
 > Routes are (mostly) grouped by ender.
 > Heavily recommended to use the `Table of Contents` at the top...
 
+> Note:\
+> When it's mentioned `stuff`, means whatever filler or previous things that are not "that" relevant to the IK setup itself. Usually it's damage done to get the opponent at the right amount of HP.\
+> 
+> When it's mentioned `stuff pull berry` or `stuff pull berry`, mostly it will be reffering but not limited to situations as `2H > pull berry`.
 
 > Glossary:\
 > CH: Counterhit\
 > MCH: Mortal Counterhit (aka. Danger time stuff)
+> SG: Shotgun
+> SG.H: Shotgun H followup
+> SG.S: Shotgun S followup
+> SG.D: Shotgun D followup
 
 # Simple
 
@@ -203,13 +211,27 @@ https://fireshare.fihome.xyz/w/6d2601553ea918ebd3784b2d6f3f91ac
 
 https://fireshare.fihome.xyz/w/97748e06d26d1981068f736ce1ee9e1c
 
+# stuff pull berry > c.S > j.KSH j.toss |> 6H > bridal > EXPLOSION > IK
+
+You will mostly be pulling berry from `2H` anyway.
+
+## CH SG.H > stuff > 2H > pull berry > c.S > j.KSH j.toss |> 6H > bridal > EXPLOSION > IK Corner
+
+> Chipp HP is set to 39%
+
+https://fireshare.fihome.xyz/w/163a8b361a22e020a648981725f1cefe
+
+## CH c.S 5d6 > stuff > 2H pull berry > c.S > j.KSH j.toss |> 6H > bridal > EXPLOSION > IK Midscreen
+
+Made by Kuzgun
+
+https://fireshare.fihome.xyz/w/6190b37b2bf7966218c7026b2a11c68d
+
 # SG.D > 236S RC
 
 We can cancel SG.D into Sniper stance (236S), yet if we RC midway we get out of the shotgun stance.
 
 This allows us to pick up the combo after SG.D launcher, with stuff such as 2H.
-
-
 
 ## SG.D > 236S RC IK
 
@@ -298,7 +320,6 @@ https://fireshare.fihome.xyz/w/70581cb782b7c69ee83ffd8bd4859f2b
 ## CH Bridal > whatever > 2H > pull > j.KS j.4Toss > j.SH |> IK  Corner
 
 https://fireshare.fihome.xyz/w/f356e4e22bce9a62d499279b2e6ef905
-
 
 # Air Berry Hitstun
 
@@ -534,8 +555,6 @@ https://fireshare.fihome.xyz/w/29a1e60da0d1bd806c3779459a671e5c
 
 https://twitter.com/yanagiJPN/status/1130075485889654789
 
-
-
 # Related media
 
 ## Saybel vid(s)
@@ -550,7 +569,21 @@ https://twitter.com/yanagiJPN/status/1130075485889654789
 
 [a brief demonstration of elphelts instant kill routes](https://youtu.be/8eONRwsjKHU)
 
-# Character Specific
+# Cool stuff
+
+## Stuff j.KSH Toss IK 66 66 j.KSHD IK
+
+> Chipp HP is set to 39%
+
+Kinda cool IK, very inspired on Saybel tbh.
+
+The dash-forward when landing/getting onto IK mode and the dash-forward after finishing the animation/before jumping for second time it's very important.
+
+Otherwise, you will be pushed too far away from Chipp.
+
+https://fireshare.fihome.xyz/w/85dfb75cdc5a5dce0f125cf25a0226d1
+
+# Character Specific Interactions
 
 ## Sol Grand Viper
 
