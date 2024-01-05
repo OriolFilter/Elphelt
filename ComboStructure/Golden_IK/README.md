@@ -3,32 +3,48 @@ gitea: none
 include_toc: true
 ---
 
-> Note:\
+> **Note:**\
 > Combos can be affected by height and stuff so mayb it will require certain variations, weather its extra buttons or delays to make them work. As well some routes might not work on certain heights. Deal with it and pick a different route. Cheers.
 
-> Note:\
+> **Note:**\
 > I'm not going to explore every possible combination (I think).
 
-> Note:\
+> **Note:**\
 > 2D/6P berry setups should be mostly routable on both starters.\
 > IE: [2D Berry setup](#2d-berry-setup--filler--2h--pull--jks-j4toss--jsh--ik-midweights)
 
-> Note:\
+> **Note:**\
 > Routes are (mostly) grouped by ender.
 > Heavily recommended to use the `Table of Contents` at the top...
 
-> Note:\
+> **Note:**\
 > When it's mentioned `stuff`, means whatever filler or previous things that are not "that" relevant to the IK setup itself. Usually it's damage done to get the opponent at the right amount of HP.\
 > 
 > When it's mentioned `stuff pull berry` or `stuff pull berry`, mostly it will be reffering but not limited to situations as `2H > pull berry`.
 
-> Glossary:\
-> CH: Counterhit\
-> MCH: Mortal Counterhit (aka. Danger time stuff)
-> SG: Shotgun
-> SG.H: Shotgun H followup
-> SG.S: Shotgun S followup
-> SG.D: Shotgun D followup
+> **Tip:**\
+> Most of the time, after doing `j.Toss |> IK mode`, on landing you can do `|> 66 IK` to get some dash momentum. It's useful on certain instances where if the combo is too prorated you will get too many pushback out of the combo/opponent.
+>
+>
+> Technically it's also possible to do instead of `|> 66 IK`, doing `|> IK 66`, meaning following the IK animation ending with a dashforward, yet I beleive to be quite less consistent/more annoying than the above.
+> 
+> Example of combining `|> 66 Ik` and `IK 66` in [here](#stuff-js-jksh-jtoss-66-ik-66-jkshd-ik).
+
+
+#  Glossary:
+- **CH**: Counterhit
+
+- **MCH**: Mortal Counterhit (aka. Danger time stuff)
+
+- **SG**: Shotgun
+
+- **SG.H**: Shotgun H followup
+
+- **SG.S**: Shotgun S followup
+
+- **SG.D**: Shotgun D followup
+
+- **PRRC (Perfect Red Roman Cancel)**: When doing a RRC (Red Roman Cancel) the exact same frame **j.D or a projectile** hits an opponent, __due to the slowdown__, the amount of **hit stun** the opponent will receive will be increased. As well, it feels like causes **80 frames of slowdown** (as long I counted them correctly). It's only intended to be referring to Perfect j.D RRC related, not sure if the combos used would allow for not being frame perfect, but I will not be the one to check.
 
 # Simple
 
@@ -211,19 +227,19 @@ https://fireshare.fihome.xyz/w/6d2601553ea918ebd3784b2d6f3f91ac
 
 https://fireshare.fihome.xyz/w/97748e06d26d1981068f736ce1ee9e1c
 
-# stuff pull berry > c.S > j.KSH j.toss |> 6H > bridal > EXPLOSION > IK
+# stuff pull berry > c.S > j.KSH j.Toss |> 6H > bridal > EXPLOSION > IK
 
 You will mostly be pulling berry from `2H` anyway.
 
-## CH SG.H > stuff > 2H > pull berry > c.S > j.KSH j.toss |> 6H > bridal > EXPLOSION > IK Corner
+## CH SG.H > stuff > 2H > pull berry > c.S > j.KSH j.Toss |> 6H > bridal > EXPLOSION > IK Corner
 
 > Chipp HP is set to 39%
 
 https://fireshare.fihome.xyz/w/163a8b361a22e020a648981725f1cefe
 
-## CH c.S 5d6 > stuff > 2H pull berry > c.S > j.KSH j.toss |> 6H > bridal > EXPLOSION > IK Midscreen
+## CH c.S 5d6 > stuff > 2H pull berry > c.S > j.KSH j.Toss |> 6H > bridal > EXPLOSION > IK Midscreen
 
-Made by Kuzgun
+Submitted by Kuzgun
 
 https://fireshare.fihome.xyz/w/6190b37b2bf7966218c7026b2a11c68d
 
@@ -357,17 +373,23 @@ https://fireshare.fihome.xyz/w/96867dadc15c931f36b588ba87887be0
 
 https://fireshare.fihome.xyz/w/af2469001063c6ab1cd4da0a8925235b
 
+## Potemkin CH 2H
+
+### CH 2H > Pull Berry > 2S > 2D > j.KSH > j.Toss |> IK
+
+https://fireshare.fihome.xyz/w/82b852fbc3650ab36958af8a3d1fade6
+
 # Pull Berry > stuff > j.H opponent into berry EXPLOSION |> IK
 
-## CH6H > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
+## CH6H > Pull Berry > j.SPSH j.Toss > j.PSH |> IK EXPLOSION IK
 
 https://fireshare.fihome.xyz/w/eea289dec1316693b47dbbd61c9b1040
 
-## CHc.S Antiair > Pull Berry > j.SPSH jToss > j.PSH |> IK EXPLOSION IK
+## CHc.S Antiair > Pull Berry > j.SPSH j.Toss > j.PSH |> IK EXPLOSION IK
 
 https://fireshare.fihome.xyz/w/a74ba47a3f3af0b9305f9d23a9951945
 
-## SG.D > 236S RC > 2H > Pull > c.S > jKSH jToss > j.PSH |> IK EXPLOSION IK
+## SG.D > 236S RC > 2H > Pull > c.S > jKSH j.Toss > j.PSH |> IK EXPLOSION IK
 
 https://fireshare.fihome.xyz/w/0b19c871988c27b9da1d00c71dd710c4
 
@@ -395,14 +417,19 @@ https://fireshare.fihome.xyz/w/27f51fd231a281b6a3122d9528c4d917
 
 Should work off any combo into "lvl 4 berry explosion" setup (aka j.H/Bridal/whatever as we don't be the ones making the berry explode).
 
+Midweights example:
+
 https://fireshare.fihome.xyz/w/35800997c08096ae80d2b8f0880ed8ec
 
-## cS > Stuff > 2H (2) RC IK
+Heavyweights example:
 
-We can RC Launcher `2H(2)` then proced with the  IK
+https://fireshare.fihome.xyz/w/c621db703b51eacdfd2ca92435129e44
+
+## cS > Stuff > 2H(2) RC IK
+
+We can RC Launcher `2H(2)` then proceed with the IK.
 
 https://fireshare.fihome.xyz/w/2b608c012f406785a4936efd6c614da1
-
 
 # CH j.Bridal
 
@@ -452,8 +479,6 @@ No clue if proximity or height affect or not, needed multiple attempts until one
 
 https://fireshare.fihome.xyz/w/f4a2f82af0f2cec341ff714b56b165ba
 
-
-
 # 236S Sniper setups
 
 We can get setups, both from CH and non CH hits.
@@ -502,7 +527,6 @@ https://fireshare.fihome.xyz/w/064553250178008fde25b3a0258f649d
 
 https://fireshare.fihome.xyz/w/bd2a59adf8e5f31e422e8b6ec190c615
 
-
 # Mortal Counter
 
 Dangertime stuff.
@@ -526,18 +550,80 @@ https://fireshare.fihome.xyz/w/af310ee79cf6dc25960e168da573db83
 
 https://fireshare.fihome.xyz/w/b184a68e357b6c8d1c0a4915573cab07
 
-
-
 # Genoverse setup
 
 - Shutouts to Saybel
 
 https://www.youtube.com/watch?v=VnB_Z7Pofts&ab_channel=Saybell
 
+# 2D pickups
+
+Dedicated to characters on which you can get a 2D pickup.
+
+## Johnny
+
+### Standard Meterless Golden IK Corner
+
+Submitted by Kuzgun
+
+> c.S > 2D > j.PKSD |> 2H > pull berry > c.S > j.KS > j.Toss |> j.SH |> IK
+
+https://fireshare.fihome.xyz/w/3e96afa0ad86847d0ea02282ec5e9898
+
+### Perfect j.D RRC (PRRC)
+
+#### stuff > PRRC |> 66 Pull Berry > c.S > j.S > j.KSH > j.Toss |> IK  
+
+https://fireshare.fihome.xyz/w/1de444af948edf52b8a02a18b96782ed
+
+#### stuff > PRRC > 66 j.Pull Berry |> c.S > j.KSH > j.Toss |> IK
+
+https://fireshare.fihome.xyz/w/90599a533f6a9f226f78151d6177d18a
+
+#### stuff > PRRC > 66 j.Pull Berry |> c.S > j.S > j.KSH > j.Toss |> IK
+
+https://fireshare.fihome.xyz/w/c68ef37bc1ae43bc5e34fe21dad46a2b
+
+#### stuff > PRRC > j.Pull Berry |> 66 j.S > j.KSH > j.Toss |> IK
+
+https://fireshare.fihome.xyz/w/90a1d3494cc13948c46e4d5f7317d301
+
+
+### j.D RRC
+
+#### stuff > RRC > j.Pull Berry |> 2H > Bridal > c.S > 5H > 2Toss > IK
+
+https://fireshare.fihome.xyz/w/bcc7ca0e11dfaa3d4847d265f147e44c
+
+#### stuff > RRC > j.Pull Berry > 66 j.SD > j.Toss |> j.S > j.KSH |> IK
+
+https://fireshare.fihome.xyz/w/eccd83f49cf6b861b366574ac6f84f74
+
+# pull berry > c.S > j.KSHD RRC/PRC
+
+- j.KSHD/j.SPSHD 
+
+Inspired on [Yanagi setups](#some-yanagi-setups)
+
+Need to try with:
+
+- j.d prc 66 j.toss |> IK
+- j.d prc 66 j.D j.toss |> IK
+- How slightly prorated combos allow mids-lightweights
+- j.H > j.toss on lights
+- j.S > j.toss on heavies + prorated
+
+## Pot Pull Berry > c.S > j.KSH PRC |> IAD j.Toss |> IK
+
+https://fireshare.fihome.xyz/w/55bc082001f40bddf87a3597249b40ba
+
+## Pot Pull Berry > c.S > j.SPSHD PRC |> IAD j.Toss |> IK
+
+https://fireshare.fihome.xyz/w/321846e2ad589558d75de30949294a6b
 
 # "Else"
 
-Stuff that exists, but I don't want to be in the middle of the doc.
+Stuff that exists, but I don't want to be in the middle of the doc/idk where to place it.
 
 ## CH 5D antiair > RC IK
 
@@ -571,7 +657,7 @@ https://twitter.com/yanagiJPN/status/1130075485889654789
 
 # Cool stuff
 
-## Stuff j.KSH Toss IK 66 66 j.KSHD IK
+## Stuff j.S j.KSH j.Toss 66 IK 66 j.KSHD IK
 
 > Chipp HP is set to 39%
 
