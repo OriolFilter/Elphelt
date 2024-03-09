@@ -78,12 +78,22 @@ It's heavily recommended to do a microwalk after pulling SG/before pressing SG.S
 
 https://fireshare.fihome.xyz/w/0c293a728b641821ebc8819fc3457f2d
 
-Same but with the sideswitch version, just gotta do `66 SG.S` to cross the opponent.
+Same but with the sideswitch version, just gotta do `66 > SG.S` to cross the opponent.
 
 https://fireshare.fihome.xyz/w/215355fb16571ae8b567f835fd6816cd
 
+### Charged SG.S > Bridal > Shot
 
+> Note:\
+> Depending on the opponent height, we might need to delay the bridal, this is influenced by the opponent weight and how early/late we did press 2D.
 
+On fullscreen it doesn't lead to much further to decent damage and carry, can't complain.
+
+https://fireshare.fihome.xyz/w/91b90f33c27139ded40776dbc138450c
+
+From roundstart distance, we can wallsplat the opponent and get some reps.
+
+https://fireshare.fihome.xyz/w/9aae36d701bbf303354673726896de84
 
 ## Corner
 
@@ -111,14 +121,3 @@ We could even water it down more, and just do SG.H loops, the number of loops ca
 
 https://fireshare.fihome.xyz/w/96d3458e532ed1bbd1bb6257ef7dd1de
 
-
-
-----
-
-## dumpster/plceholder
-
-it opens for pullberry  runup c.S f.S 2H toss f.S/2d > shotgun stance
-then you can go for sg.S > remove shotgun c.S j.kshd
-or charge shotgun sg.S > 214K > shot
-if you have blitzed roudnstart you should be able to reach the corner/wallsplat them
-on the corner you can pull charged shotgun
