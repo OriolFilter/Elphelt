@@ -1,3 +1,10 @@
+---
+gitea: none
+include_toc: true
+---
+
+
+
 # Charged blitz
 
 After charged blitz they end in crouching state, so f.S >2h is valid.
