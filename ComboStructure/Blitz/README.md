@@ -43,7 +43,41 @@ This very much revolves around pulling berry, do stuff to kill time, toss berry,
 
 Note that most of the hits require delays in order for the berry to explode at exact point of the route.
 
-## Charged Blitz Double Berry Routing
+
+### Routing Into Shotgun pickup
+
+Starter: very similar to the previous example, we pull berry, do time, toss, explodes. Next step is the pickup of our choice, there still are different possibilities on the routings.
+
+`2H > 2Toss > 2D` or `2H > 2D > 2Toss`?
+
+- `2H > 2Toss > 2D` should be "the main one".
+- `2H > 2D > 2Toss` can be used when "we lost the timing"/we are way too early.
+
+#### SG.S > c.S j.SPSHD
+
+It's heavily recommended to do a microwalk after pulling SG/before pressing SG.S, otherwise one might end up too far from the opponent for c.S to reach out.
+
+https://fireshare.fihome.xyz/w/0c293a728b641821ebc8819fc3457f2d
+
+Same but with the sideswitch version, just gotta do `66 > SG.S` to cross the opponent.
+
+https://fireshare.fihome.xyz/w/215355fb16571ae8b567f835fd6816cd
+
+#### Charged SG.S > Bridal > Shot
+
+> Note:\
+> Depending on the opponent height, we might need to delay the bridal, this is influenced by the opponent weight and how early/late we did press 2D.
+
+On fullscreen it doesn't lead to much further to decent damage and carry, can't complain.
+
+https://fireshare.fihome.xyz/w/91b90f33c27139ded40776dbc138450c
+
+From roundstart distance, we can wallsplat the opponent and get some reps.
+
+https://fireshare.fihome.xyz/w/9aae36d701bbf303354673726896de84
+
+
+### Charged Blitz Double Berry Routing
 
 Very finiky, can't recommend.
 
@@ -69,38 +103,6 @@ https://fireshare.fihome.xyz/w/52fc546b4991e2324901592d088f0497
 One can use 5K to ease the delays/simplify the routing, on this routing we also don't make use from a second f.S but do 2H directly.
 
 https://fireshare.fihome.xyz/w/d1249ab11cec2a6672c809dae159ec5e
-
-## Routing Into Shotgun pickup
-
-Starter: very similar to the previous example, we pull berry, do time, toss, explodes. Next step is the pickup of our choice, there still are different possibilities on the routings.
-
-`2H > 2Toss > 2D` or `2H > 2D > 2Toss`?
-
-- `2H > 2Toss > 2D` should be "the main one".
-- `2H > 2D > 2Toss` can be used when "we lost the timing"/we are way too early.
-
-### SG.S > c.S j.SPSHD
-
-It's heavily recommended to do a microwalk after pulling SG/before pressing SG.S, otherwise one might end up too far from the opponent for c.S to reach out.
-
-https://fireshare.fihome.xyz/w/0c293a728b641821ebc8819fc3457f2d
-
-Same but with the sideswitch version, just gotta do `66 > SG.S` to cross the opponent.
-
-https://fireshare.fihome.xyz/w/215355fb16571ae8b567f835fd6816cd
-
-### Charged SG.S > Bridal > Shot
-
-> Note:\
-> Depending on the opponent height, we might need to delay the bridal, this is influenced by the opponent weight and how early/late we did press 2D.
-
-On fullscreen it doesn't lead to much further to decent damage and carry, can't complain.
-
-https://fireshare.fihome.xyz/w/91b90f33c27139ded40776dbc138450c
-
-From roundstart distance, we can wallsplat the opponent and get some reps.
-
-https://fireshare.fihome.xyz/w/9aae36d701bbf303354673726896de84
 
 ## Corner
 
