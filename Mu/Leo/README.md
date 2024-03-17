@@ -61,6 +61,7 @@ N/A
 - H DP (whiff, Elp 2D is delayed for 1-2 frames)
 - 2S (clash, loses to Elp f.S)
 - 2D (whiffs, still can be blocked, loses to Elp f.S)
+
 ### Leo's 6P
 
 Something like `f.S > Bridal` or `f.S > 5H` works.
