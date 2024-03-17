@@ -55,3 +55,12 @@ Coin (non CH, confirm into Bridal or )
 
 
 2S trades with some buttons, and still allows you to block coin on whiff
+
+
+
+## Jo Roundstart tests
+
+
+
+
+
