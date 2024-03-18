@@ -23,6 +23,7 @@ Without dash momentum:
 
 ## c.S f.S > ? > Bridal RC > BNB
 
+c.S f.S > ? > Bridal RC > 2H > Pull Berry > c.S > j.S > jc j.K > j.S j.H > j.Toss |> 6H > SG.pull > SG.S > SG.unpull? > c.S > j.KSH
 
 | Route                              | Damage | Notes                                               |
 |:-----------------------------------|:-------|:----------------------------------------------------|
