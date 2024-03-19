@@ -48,3 +48,26 @@ Not worth.
 Don't do it.
 
 Useless.
+
+
+
+#### 6P > 2H > [SG.H]x2 > SG.S > Pull > [SG.H]x3 > 6H > 2Toss > 6H
+
+
+#### combo into j.D KD > Pull berry 6P > Genoverse > 66 2Toss > Pull shotgun  
+
+
+Tests on sol 50% after c.S j.S jc j.KSHD Pull
+
+[SG.H] > SG.S > 236P > [SG.H]x3 > 6H > Toss > 6H = 70
+
+
+[SG.H]x2 > SG.S > 236P > [SG.H]x3 > 6H > Toss > 6H = 71
+
+
+#### Airthrow normal combo vs Airthrow 2H [SG.H] SG.S Pull > [SG.H]x3 > 6H > 2Toss > 6H  
+
+Normal routing: 130-140
+
+
+SG:
