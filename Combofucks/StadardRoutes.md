@@ -63,6 +63,64 @@ OR
 
 (Check with sol at low HP)
 
+## 
+
 ## 6P Genoverse
 
 This is specifically intended to when the opponent is "fairly low", aka a killer combo.
+
+### Sol 20% HP
+
+Sol has 84hp.
+
+> 6P > Genoverse > 2H > [SG.H]x2 > [SG.S] > Pull Berry >  [SG.H]x3 > 6H > 2Toss > 6H
+ 
+63 Damage (21 remaining)   (doing a single [SG.H] in the first rep, decreases the damage dealt by 1)
+
+
+> 6P > Genoverse > 2H > Pull Berry > c.S > j.S > jc j.K > j.S > j.H > j.Toss |> 6H > SG > [SG.S] > Pull Berry > [SG.H] > j.7D
+
+\# Saybell routing
+
+54 Damage.
+
+24% Meter Gain
+
+
+## 6P Bridal
+
+Can do 6 SG.H on Sol > SG.S > SG.PPPPPPP    for 76 damage (8 away from death.)
+
+Can do 6 SG.H on Sol > SG.S > SG.H 2P f.S 5Hx5    for 75 damage (8 away from death.)
+
+Can do 6 SG.H on Sol > SG.S > SG.H c.S Bridal 2P c.S f.S 5Hx5    ??
+
+`6 SG.H` = 59     `66 j.SPSHD`  = 5  `|> f.S 2S 5hx5` > 7   = 71    >:(   (this route is theoretical, not tested)  
+
+
+
+
+https://tube.fihome.xyz/v/xrd/joCnRacM82ugKpLYZP5e3G
+
+
+https://tube.fihome.xyz/v/xrd/pcHJ3GvpUAoBVTZj2oZzbB?sort=
+
+
+
+6SG.H ->
+or
+3SG.H SG.S 3SG.H ->
+
+
+j.ppppp (j.p x5) = 5
+
+kshd = 4
+
+fS 5hx5 = 6
+
+15
+
+## 6P bJBH
+
+Deals 65 of damage.
+
