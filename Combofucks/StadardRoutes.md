@@ -147,13 +147,13 @@ Possible followups.
 
 > Notes:\
 > 
-> Depending on the height/distance whatever every single button from `j.KSH` will require some degree of delay, specially the `j.H`, since we are rising the height of the opponent (without getting that high that we can't combo), in order for us to land in the ground before the opponent and still have time to pickup with 2P or c.S. \
+> Depending on the height/distance whatever every single button from `j.KSH` will require some degree of delay, specially the `j.H`, since we are rising the height of the opponent (without getting that high that we can't combo), in order for us to land in the ground before the opponent and still have time to pickup with 2P or c.S. 
 > 
-> The damage difference without using `2P` is that low that it's recommended to pickup with `2P > c.S` for more stability/consistency. \
+> The damage difference without using `2P` is that low that it's recommended to pickup with `2P > c.S` for more stability/consistency. 
 > 
-> Against lightweights I believe `sj.IAD j.KSH` to be more consistent than `IAD j.KSH` (generally speaking). \
+> Against lightweights I believe `sj.IAD j.KSH` to be more consistent than `IAD j.KSH` (generally speaking). 
 > 
-> Stuff like IADs look cool, but as per the moment I cannot justify them over doing the `Genoverse > 66 ~ j.9KSH` except the extremely specific instance where I did `Genoverse > 66 ~ sj.9SH` and allowed for `j.D |> f.S > 5H > Bridal` \
+> Stuff like IADs look cool, but as per the moment I cannot justify them over doing the `Genoverse > 66 ~ j.9KSH` except the extremely specific instance where I did `Genoverse > 66 ~ sj.9SH` and allowed for `j.D |> f.S > 5H > Bridal`.
 > 
 > Being able to use IAD also depends on the proximity from the opponent, as being too close would result in dropping the combo (not being able to route j.KSH). 
 
@@ -166,9 +166,9 @@ From `Genoverse > 66 ~ sj.IAD 9SH` I was able to get `j.D |> f.S > Bridal`, once
 #### On prorated combos
 
 
-> Notes:\
+> Notes:
 > 
-> Both `IAD` (or `sj.IAD`) should be usable in prorated combo routes, as it's less likely that the opponent goes over your character due to combo gravity, nevertheless I also believe that all the instances that the `IAD` routing can be used, one cana also use the `66 j.9`, therefore for consistency/simplifying things ij recommend going for the `66 j.9` routing on all the main scenarios. \
+> Both `IAD` (or `sj.IAD`) should be usable in prorated combo routes, as it's less likely that the opponent goes over your character due to combo gravity, nevertheless I also believe that all the instances that the `IAD` routing can be used, one cana also use the `66 j.9`, therefore for consistency/simplifying things ij recommend going for the `66 j.9` routing on all the main scenarios. 
 
 
 
@@ -182,9 +182,9 @@ The objective is to know how many `[SG.H]` can we do before proceeding with the 
 
 This assumes we are close to the corner
 
-> Notes:\
+> Notes:
 >
-> To reduce opponent height, after pulling berry we can delay using the `SG.H`. \
+> To reduce opponent height, after pulling berry we can delay using the `SG.H`. 
 > 
 > Standard ender used is `6H > Pull Berry`
 
