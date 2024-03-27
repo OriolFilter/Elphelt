@@ -174,7 +174,7 @@ From `Genoverse > 66 ~ sj.IAD 9SH` I was able to get `j.D |> f.S > Bridal`, once
 
 
 
-## Routing into [SG.S] > Pull > [SG.H]x3 > 6H/5H > Toss > 6H Bridal
+## Routing into [SG.S] > Pull > [SG.H]x3 > 6H/5H > Toss > 6H
 
 5H Can be used as a replacement of 6H when one is too far from the corner.
 
