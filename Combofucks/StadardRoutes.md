@@ -145,7 +145,7 @@ Possible followups.
 
 #### General Notes
 
-> Notes:\
+> Notes:
 > 
 > Depending on the height/distance whatever every single button from `j.KSH` will require some degree of delay, specially the `j.H`, since we are rising the height of the opponent (without getting that high that we can't combo), in order for us to land in the ground before the opponent and still have time to pickup with 2P or c.S. 
 > 
