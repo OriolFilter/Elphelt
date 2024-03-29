@@ -7,7 +7,7 @@ include_toc: true
 
 # Charged blitz
 
-After charged blitz they end in crouching state, so f.S >2h is valid.
+After charged blitz they end in crouching state, so f.S > 2h is valid.
 
 In order to do this, you will need to delay the first hit.
 
@@ -43,6 +43,7 @@ This very much revolves around pulling berry, do stuff to kill time, toss berry,
 
 Note that most of the hits require delays in order for the berry to explode at exact point of the route.
 
+When comboing faust, we need to do `2D > 2Toss`, since due to Faust hurtboxes we won't be able to hit Faust with the berry.
 
 ### Routing Into Shotgun pickup
 
@@ -79,16 +80,18 @@ https://fireshare.fihome.xyz/w/9aae36d701bbf303354673726896de84
 
 ### Charged Blitz Double Berry Routing
 
+Not possible on faust.
+
 Very finiky, can't recommend.
 
 Requires pulling berry as soon as possible.
 
 Needs to delay:
 
-- c.S (First hit, try to also get some extra screen carry by running into your opponents face and dragging them arround)
+- c.S (First hit, try to also get some extra screen carry by running into your opponents face and dragging them around)
 - f.S (Biggest cancel window, very important to make the most from it)
-- 2H (First 2H, slight delay, but it's tight) 
-- 2Toss (We aim for berry to hit when has less than 1 second before explosion, since it will make the berry be a lvl4 move, and hits tun the most)
+- 2H (First 2H, delaying this button is not required as long we have substantially delayed f.S and Toss, yet for consistency is recommended a tight slight delay) 
+- 2Toss (Toss delays are expected on character specifics, please do not focus on playing around toss delay, but the other buttons.)
 
 As soon after tossing berry one needs to press f.S into 2H (this will be the second f.s and 2H on the routing, and they hold no delay).
 
@@ -103,6 +106,36 @@ https://fireshare.fihome.xyz/w/52fc546b4991e2324901592d088f0497
 One can use 5K to ease the delays/simplify the routing, on this routing we also don't make use from a second f.S but do 2H directly.
 
 https://fireshare.fihome.xyz/w/d1249ab11cec2a6672c809dae159ec5e
+
+### works on
+
+sol 
+
+ky (due to crouching hurtboxes, no delay after 2h)
+
+may (due to crouching hurtboxes, no delay after 2h)
+
+millia (requires a specific 2Toss timing delay, if thrown too early Millia will block the berry)
+
+zato (first active frame from berry has to hit zato the frame 22th from getting the last hit since his hurtbox shifts higher enough to get hit by that throw berry 1 frame early and will miss the magic frame, next frames from berry are higher therefore won't hit)
+
+potemkin (like sol, reasonable routing)
+
+chipp
+
+#### ZATO ROUTING IMAGE
+
+Press toss on this frame.
+
+![DoubleBerrySetup_Zato_Frame_to_toss.png](src/DoubleBerrySetup_Zato_Frame_to_toss.png)
+
+### Possible enders
+
+per character/weight
+
+Charged Blitz Double Berry Routing (lightweights) (vs Millia)
+
+https://fireshare.fihome.xyz/w/d59323c1753333edc876190c3b941ccc
 
 ## Corner
 
@@ -130,3 +163,4 @@ We could even water it down more, and just do SG.H loops, the number of loops ca
 
 https://fireshare.fihome.xyz/w/96d3458e532ed1bbd1bb6257ef7dd1de
 
+## Damage
