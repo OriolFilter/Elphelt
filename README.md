@@ -23,3 +23,5 @@ https://www.evernote.com/shard/s440/client/snv?isnewsnv=true&noteGuid=12326c52-9
 
 https://tide-yard-9b4.notion.site/Elphelt-Combo-Theory-1330382ef7a54c839d781145ee8f5d9c
 
+
+

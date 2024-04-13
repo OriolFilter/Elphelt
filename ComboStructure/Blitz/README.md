@@ -80,6 +80,11 @@ https://fireshare.fihome.xyz/w/9aae36d701bbf303354673726896de84
 
 ### Charged Blitz Double Berry Routing
 
+
+> Why this route instead of the simpler but similar berry route? You get substantially better frame advantage if you want to mix the opponent with a berry setup on their wakeup. Varies per setup/ender I guess.
+
+> Why I can't pull berry after 2H if im doing the motion correctly? Berry has a bit of cooldown after disappearing from the screen, so you need to delay your pull, which you can't. What you can do is increase the delay before throwing the berry, so by the time you get to press 2H cooldown has expired.
+
 Not possible on faust.
 
 Very finiky, can't recommend.
@@ -111,17 +116,48 @@ https://fireshare.fihome.xyz/w/d1249ab11cec2a6672c809dae159ec5e
 
 sol 
 
-ky (due to crouching hurtboxes, no delay after 2h)
+ky
 
-may (due to crouching hurtboxes, no delay after 2h)
+may
 
 millia (requires a specific 2Toss timing delay, if thrown too early Millia will block the berry)
 
 zato (first active frame from berry has to hit zato the frame 22th from getting the last hit since his hurtbox shifts higher enough to get hit by that throw berry 1 frame early and will miss the magic frame, next frames from berry are higher therefore won't hit)
 
-potemkin (like sol, reasonable routing)
+potemkin
 
 chipp
+
+axl
+
+venom
+
+ino (some delay before tossing, I would recommend trim down the delay on the first f.S, then increase the delay on 2Toss after 2H)
+
+bedman
+
+ramlethal (the followups are fucked, i think its due to being wide)
+
+sin 
+
+elphelt (possible, annoying to do)
+
+leo (probably use j.spshd  as ender)
+
+johnny
+
+jacko
+
+jam
+
+kum
+
+raven (pull berry as soon as possible, delay second 2h, for j.spsphd delay D substantially)
+
+baiken (pull berry as soon as possible)
+
+answer 
+
 
 #### ZATO ROUTING IMAGE
 

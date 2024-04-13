@@ -64,3 +64,74 @@ Coin (non CH, confirm into Bridal or )
 
 
 
+
+
+
+## Stupid combo dropping
+
+----
+
+### 1
+
+first SG.S pull ASAP, delay [SG.H] so pot gets a lower height.
+
+3 [SG.H]
+
+SG.S > delay toss, so it tosses a bit (not a couple frames) before the berry explodes, this gives us time to charge shotgun (gotta try tossing asap and playing with delay SG.S)
+
+we can use the hitstun from the explosion to lower potemkins height, then proceed with SG.S > pull asap, then delay [SG.H] to lower potemkin even more
+
+
+> Doing SG.H microwalks between shots helps to reduce berry's timing
+
+-----
+### 2
+
+> Doing SG.H microwalks between shots helps to reduce berry's timing
+
+-----
+
+> Question 1: How to get closer to pot so SG.H wallsplats?
+
+Microwalk after lowtoss (part 2 ending, not part 3)/before first SG.S?    <--- this might be the right answer
+
+After the first SG.H, a 1 frame microwalk before shooting the second shotgun seems to put you in wallsplat range.
+
+> Question 2: How to increase combo length (since we pull berry) to reduce the timer between f.S/5H and berry explosion
+
+Microwalk after lowtoss (part 2 ending, not part 3)/before first SG.S?  ( This only forces us to delay the reload, which might be better than manually wait to delay the shot?)
+
+If we use SG.S > Pull, we can delay SG.H  
+
+Delay f.S by 2/3 manual frames
+
+Delay 5H by ??? frames (need to check)
+
+f.S 2S 5H toss?
+
+> Question 3: Can we do 1 SG.H too high so we won't get pushback?  Answer is yes, still need to try
+
+
+
+
+
+
+last [SG.H]   = 43 frames of hitstun (techs at the 43th)
+
+
+SG.H recovery = 29   =  14 frames available
+
+6H = 15 frames -> NO, 1 frame, probably my maths are wrong, still gotta try
+
+toss = 10 frames
+
+5H = 11 frames (>2toss pushback???)
+
+
+
+
+
+
+
+
+If berry hits right about to explode (4-5 frames before), opponent barely (or just doesn't) gains height (from being hit by the berry)

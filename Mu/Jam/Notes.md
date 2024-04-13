@@ -81,13 +81,19 @@ Wakup Jam Options:
 
 Invuln frames: 1-6F All
 
-Properly spaced 2D hits her out of DP, or whiffs and you punish the DP.
+Properly spaced 2D hits her out of DP, or whiffs, and you punish the DP.
 
 ### lvl 2
 
 Invuln frames: 1-13F All
 
-Properly spaced 2D whiffs and you punish the DP.
+Properly spaced 2D clashes. Maybe do `Fuzzy 2D > 1FD` and proceed from here.
+
+On landing has 1-3 frames of crouch landing recovery.
+
+Punish options:
+
+5D
 
 ### lvl 3
 
@@ -132,8 +138,19 @@ https://youtu.be/OCo__pJJenE?t=3639
 
 https://youtu.be/OCo__pJJenE?t=3830
 
+### 5K Spam
+
+~~On 5K IB Elp 2P Can fit between 5K (therefore might need to try fuzzy IB > 2PP)~~
+Wrong.
+
+### Runup 6P / 5H
+
+Elp 2D works well to hit 6P, but Jam 5H will go over Elp 2D, which means death.
+
+Elp 5K works well to stop a running up Jam
 
 
+## Wakeup DP
 
 ## ToSort
 
@@ -156,3 +173,4 @@ Badly spaced j2k (that is a j.2k that hits too high/deep) can be thrown ON HIT a
 MAX Ryujin is a loaded gun. Please be careful when she has this.
 Backdash tends to be good against Jam midscreen and even in the corner if you have a good backdash 
 ```
+
