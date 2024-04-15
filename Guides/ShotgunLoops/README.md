@@ -1,6 +1,16 @@
 # 
 
-Note that the main focus of this 
+Note that the main focus of this
+
+
+
+Reminder that there is no hurry and that it can be frustrating to practice, but it's something that takes its time and everyone gets used to the timing eventually.
+
+Some of us are real slow learners and required more time than others, and that's okay!
+
+As long you stick to the game, you will improve.
+
+As well, remember that you are not alone, if you are frustrated at something you can always walk into the [Elphelt Discord Server](https://discord.gg/0g2PWaA3VYwX2c7Z) and ask for feedback, even if it's for something that you already suspect the answer, sometimes it's reassuring verifying that you are on the right track.
 
 # First steps
 
@@ -24,7 +34,9 @@ https://fireshare.fihome.xyz/w/c2b4ae42650a5416ad08278f803cc5da
 
 ## Reloading
 
-- To reload, after shooting, we do a `4 > 6 > H` input, it can as well be inputted as `4>6H`.
+- To reload, after shooting, we do a `4 > 6 > H` input, it can as well be inputted as `4>6H`, the `Hardsslash` button press doesn't require to be at the same time as the 6 input, so inputs like `4>6>5H` would still work (as long it's done within the required timing).
+ 
+- Regarding the input, as long we have the `4` input through the process, we can do `4>3H` or `4>9H`, as well it allows for `4>1>2>3>6H` or the topside equivalent `4>7>8>9>6H`
 
 - This allows to "reload" the shotgun, and we get to keep the shotgun stance.
 
@@ -44,13 +56,11 @@ https://fireshare.fihome.xyz/w/fed248b984a333e172d9ef954b005341
 
 ![wallsplat_hitbox_good.png](src/wallsplat_hitbox_good.png)
 
-
 - Elphelt requires to stand still 14 frames in order to charge shotgun.
 
 - When shotgun is charged, you will momentarily see a pink glow around Elphelt, and as well a specific audio clue.
 
 https://fireshare.fihome.xyz/w/1fec804e37b16e7f2878628fadfef3dd
-
 
 - If Elphelt moves, crouches or blocks, she will lose the charge and will need to hold for another 14 frames.
 
@@ -59,6 +69,85 @@ https://fireshare.fihome.xyz/w/dac0881f1bc24b0c744f631b8ca56665
 - SG.P, SG.K, SG.S, SG.D, Berry Toss and Bridal Express allow Elphelt to keep her charge, meanwhile SG.K resets the timer.
 
 https://fireshare.fihome.xyz/w/4cf5687984b77abcdcecbe142ae26c6d
+
+## Exercices
+
+### Reloading input
+
+> Note:\
+> It's very helpful to have the input display and input history enabled while doing the exercices, as well some exercices might depend on it for some steps.\
+> \
+> To enable input display, once in the training mode, press start to ender the "Paused Menu", enter the submenu "Display Settings", search for the options "Input History" and "Virtual stick" and enable them.\
+> \
+> Regarding "Virtual stick's position" set them at will, I personally find it more conformable set to the center of the screen instead to any of the corners, at latest on these exercises.
+
+This is exercise is aimed towards being used to reloading shotgun input/motion. not to the fastest timing.
+
+First I would recommend trying to _do it_ without previous practice.
+
+Example for reference:
+
+https://fireshare.fihome.xyz/w/04a2c998ff8a802130936bf8d935c4b1
+
+Exercise steps:
+- Get in shotgun stance
+- Shoot
+- Try to reload
+ 
+If you are being able to reload consistently, try to keep a rhythm for a while.
+
+If you weren't able to do it at the first try (which is expected!), check the [sub-exercises section](#sub-exercises) for a breakthrough of the whole process. As well, read the [recommendations section](#recommendations).
+
+#### Recommendations
+
+Wait for the shotgun to charge before shooting, this might help towards keeping a "rythm", the audio clue from Elphelt charging the shotgun and the firing sound can also help towards finding a rythm.
+
+While doing the reload, watch the virtual stick move from left to right, this might help to being more aware of the inputs performed.
+
+On fail: Check the history, this is to "understand" which input we did, in case we didn't notice something while watching the virtual stick.
+
+#### Sub-exercises
+
+I recommend starting slow and paying special attention to the inputs done through the input stick, to ensure we are doing the `4>6H` Input, through the process we can hit corners 
+
+If you are having difficulties being used to the input, you can just visualize it through doing the movement input, without pressing any of the attack buttons.
+
+https://fireshare.fihome.xyz/w/595d1ff31d6b63aedc30180c57b9bbf5
+
+Once you have visualized the movement input, try pressing the `Hardslash` button at the end. Keep special attention to the virtual stick and confirm that you are pressing the `Hardslash` button, at the same time or after than when you are doing the 6 input. In case of doubt, you can also check that through the input history.
+
+https://fireshare.fihome.xyz/w/b5355f9b088fefc3cba8a7f24c0d0cd9
+
+Finally, add a `Hardslash` button at the start, so you do `5H > 4 > 6H`.
+
+If we get 2 `5H` shots, we should be doing the input timing good enough to perform reloads.
+
+https://fireshare.fihome.xyz/w/4d4a2b2c4d1eb1e0e10baadc73f30d25
+
+Once you reached this step, try again the main exercise, and don't hesitate to go back to this sub-exercises if you still have difficulties.
+
+### Reloading timing
+
+On this part I will focus on the "rhythm"/sound of your buttons being pressed, more than the virtual stick input.
+
+https://fireshare.fihome.xyz/w/2b11f283eca202131a07a3ae5970cc53
+
+As well another example with only the game sound.
+
+https://fireshare.fihome.xyz/w/d9b978385abd967463f1682b37ebcc95
+
+If you miss any of the reloads, I suggest on the history checking the most recent input to review why could it have happened. For example you could have done the input `5H (SG.H) > 4 > 5H > 6` or very similarly `5H (SG.H) > 4H > 6`, where on both instances we pressed `Hardslash` too early.  
+
+#### Sub-exercices
+
+Very similarly to the previous sub example, we will be doing the input `5H>4>6H`, and meanwhile in the previous sub-example the focus was to get 2 5H shots, on this sub-exersice the goal is to get the second shot a bit after we have completed the input. 
+
+https://fireshare.fihome.xyz/w/2a7fcd5edb71c32acc609c0c5fa6490e
+
+### Charging shotgun
+
+
+
 
 # Advanced Entry Level
 
