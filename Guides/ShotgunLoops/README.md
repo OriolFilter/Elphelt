@@ -48,11 +48,6 @@ https://fireshare.fihome.xyz/w/fed248b984a333e172d9ef954b005341
 
 ## Charging shotgun
 
-- Charged Shotgun shots deal more damage and if close enough to the opponent (and wall) will wallsplat.
-
-- The hitbox of the move is bigger and active at frame 1, meanwhile uncharged SG.H is active at frame 3.
-
-![wallsplat_hitbox_good.png](src/wallsplat_hitbox_good.png)
 
 - Elphelt requires to stand still 14 frames in order to charge shotgun.
 
@@ -67,6 +62,14 @@ https://fireshare.fihome.xyz/w/dac0881f1bc24b0c744f631b8ca56665
 - SG.P, SG.K, SG.S, SG.D, Berry Toss and Bridal Express allow Elphelt to keep her charge, meanwhile SG.K resets the timer.
 
 https://fireshare.fihome.xyz/w/4cf5687984b77abcdcecbe142ae26c6d
+
+- The hitbox of the charged shotgun move is bigger and active at frame 1, meanwhile uncharged SG.H is active at frame 3 with a smaller hitbox.
+
+- Charged Shotgun shots deal more damage and if close enough to the opponent (and wall) will walls plat.
+
+- In order to wallsplat, it requires the two inner **hit**boxes (red boxes) to be inside the opponent's **hurt**boxes (green boxes).
+
+![wallsplat_hitbox_good.png](src/wallsplat_hitbox_good.png)
 
 ## Exercices
 
