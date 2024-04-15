@@ -71,7 +71,7 @@ https://fireshare.fihome.xyz/w/4cf5687984b77abcdcecbe142ae26c6d
 
 ![wallsplat_hitbox_good.png](src/wallsplat_hitbox_good.png)
 
-## Exercices
+## Exercises
 
 ### Reloading input
 
