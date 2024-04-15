@@ -1,8 +1,6 @@
 # 
 
-Note that the main focus of this
-
-
+Note that the main focus of this is (blah blah blah to fill, shotgun loops, not the advanced things past the microwalks)
 
 Reminder that there is no hurry and that it can be frustrating to practice, but it's something that takes its time and everyone gets used to the timing eventually.
 
