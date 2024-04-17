@@ -1,8 +1,10 @@
 # 
 
+Hey, you, reader, if you are going to jump straight to the exercise, be sure to read the whole part and watching the video example before starting, then, _do the needful_!
+
 Note that the main focus of this is (blah blah blah to fill, shotgun loops, not the advanced things past the microwalks)
 
-Reminder that there is no hurry and that it can be frustrating to practice, but it's something that takes its time and everyone gets used to the timing eventually.
+Reminder that there is no hurry and that it can be frustrating to practice, but it's something that takes its time and everyone gets used to the timing eventually. Instructions and suggestions described can be very personal, the idea is to feel comfortable through the whole series of exercises, so feel free to make variations on them if they make you feel more comfortable with the exercises.
 
 Some of us are real slow learners and required more time than others, and that's okay!
 
@@ -48,7 +50,6 @@ https://fireshare.fihome.xyz/w/fed248b984a333e172d9ef954b005341
 
 ## Charging shotgun
 
-
 - Elphelt requires to stand still 14 frames in order to charge shotgun.
 
 - When shotgun is charged, you will momentarily see a pink glow around Elphelt, and as well a specific audio clue.
@@ -76,19 +77,15 @@ https://fireshare.fihome.xyz/w/4cf5687984b77abcdcecbe142ae26c6d
 ### Reloading input
 
 > Note:\
-> It's very helpful to have the input display and input history enabled while doing the exercices, as well some exercices might depend on it for some steps.\
+> It's very helpful to have the input display and input history enabled while doing the exercises, as well some exercises might depend on it for some steps.\
 > \
 > To enable input display, once in the training mode, press start to ender the "Paused Menu", enter the submenu "Display Settings", search for the options "Input History" and "Virtual stick" and enable them.\
 > \
-> Regarding "Virtual stick's position" set them at will, I personally find it more conformable set to the center of the screen instead to any of the corners, at latest on these exercises.
+> Regarding "Virtual stick's position" set them at will, I personally find it more comfortable set to the center of the screen instead to any of the corners, at latest on these exercises.
 
 This is exercise is aimed towards being used to reloading shotgun input/motion. not to the fastest timing.
 
 First I would recommend trying to _do it_ without previous practice.
-
-Example for reference:
-
-https://fireshare.fihome.xyz/w/04a2c998ff8a802130936bf8d935c4b1
 
 Exercise steps:
 - Get in shotgun stance
@@ -98,6 +95,10 @@ Exercise steps:
 If you are being able to reload consistently, try to keep a rhythm for a while.
 
 If you weren't able to do it at the first try (which is expected!), check the [sub-exercises section](#sub-exercises) for a breakthrough of the whole process. As well, read the [recommendations section](#recommendations).
+
+Example for reference:
+
+https://fireshare.fihome.xyz/w/04a2c998ff8a802130936bf8d935c4b1
 
 #### Recommendations
 
@@ -145,8 +146,67 @@ Very similarly to the previous sub example, we will be doing the input `5H>4>6H`
 
 https://fireshare.fihome.xyz/w/2a7fcd5edb71c32acc609c0c5fa6490e
 
-### Charging shotgun
+### Charged shotgun timing
 
+It's very recommended first being a bit consistent on the reloading of shotgun before moving to this step, as it can make the experience very frustrating.
+
+As well, I believe that getting used to reloading will ease some of the exercises mentioned.
+
+#### Exercise 1, sound
+
+The first exercise we don't aim to do nothing further than focusing in the sound Elphelt does when she reloads the shotgun.
+
+> Note:\
+> On this exercise, the **AUDIO** cue will be much more helpful than the visual cue, because of that, I encourage to **disable the background music**.\
+> \
+> The visual cue will be helpful in future steps (specifically on the microwalking section), but I believe that on this one it can create bad habits.
+
+The steps on this exercise will be:
+
+- Pull shotgun
+- Wait for Elphelt to charge shotgun and wait a bit longer.
+- After waiting for a while, shoot, reload and wait for Elphelt to charge her shotgun.
+- Before shooting again, take breath and imagine Elphelt charging the shotgun, specially imagining the "charged sound" she does once it's loaded.
+- Once you have done that, shoot, reload and wait again.
+- Keep repeating the imaginary process before each shoot, it's very important to be confident before you shoot, if you need more time to "feel it", take it, there is no hurry.
+
+> Note:\
+> This doesn't apply to the first one since it's timing can feel a bit different when pulling shotgun than when reloading.
+
+The main goal of this exercise is to be used to the timing between the reload until Elphelt charges the shotgun, so we can have an imaginary rhythm, focusing in the audio cue.
+
+It's okay to mess the reload since it's not the main focus, yet if it's happening very often that it's making you loose focus on this exercise, go back to the [reloading input section](#reloading-input).
+
+As well, if you find yourself doing a movement input before pressing the H, because you are anticipating the reload, try to slow down the inputs, since again there is no hurry, yet if you find yourself having issues with that, go back to the [reloading input section](#reloading-input).
+
+Example for reference:
+
+https://fireshare.fihome.xyz/w/5ff90a3e92fab4cb71d26ae084b75a64
+
+[//]: # (#### Exercise 1.5, sound, a bit faster)
+
+[//]: # ()
+[//]: # (It's the exact same exercise as before, just trying to leave a little less time than )
+
+
+#### Exercise 2, progressive speed up
+
+Using as a base the previous exercise, the idea is to progressively "speed up" (aka, wait past charge for less time) whenever you feel confident/comfortable at your current speed.
+
+If you shoot an uncharged shot, you have to "reset" and go back to a slow(er) timing.
+
+[//]: # (???)
+[//]: # (I find it helpful not being very focused on the progression/timing you left waiting, but paying more attention on the "idea of the exercise")
+
+Once you are more or less aware of the charge timing, try to slowly go reducing the extra waited time after charging the shotgun.
+
+Eventually you will reach close to the edge of the timing, where you should try to slowly push it a _bit further_ until you make a mistake and shoot an uncharged shot.
+
+On this exercise, **the main goal is to make mistakes** to develop a timing, therefore one shouldn't be afraid of shooting too early, nor ashamed of having shot too early, as **making mistakes is part of the exercise**.
+
+Example for reference:
+
+https://fireshare.fihome.xyz/w/bda1d3b0169a5c622f2c6d57a55b6f48
 
 
 
@@ -181,3 +241,14 @@ https://www.youtube.com/watch?v=cqv5NMfaySI&t=2s
 
 
 ## Setups
+
+
+# A point on timing for SG.S > SG.H?
+
+# A point on SG.H reload 66 SG.H 
+
+# tmp notes
+
+"microwalking" can also be referenced as micro-walking.
+
+# Mention taking breaks/stretch/water
