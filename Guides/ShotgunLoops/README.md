@@ -209,14 +209,40 @@ Example for reference:
 https://fireshare.fihome.xyz/w/bda1d3b0169a5c622f2c6d57a55b6f48
 
 
+## Using Pineberry to charge the shotgun
+
+TODO
+
+## SG.D Pull berry
+
+TODO
+
+# Consolidation exercise
+
+As a consolidation of the previous exercises, I suggest practicing the next combo as it makes you exercise the following points:
+
+- Charge shotgun.
+- Reloading shotgun.
+
+Combo example:
+https://fireshare.fihome.xyz/w/1d9c9e54d25c074add04559c7d80d5fb
+
+The routing is:
+
+> SG.D > Pull Berry > SG.S > [Charged SG.H]x2 > SG.S > 2Toss > SG.S > Bridal > [Charged SG.H]x6
+
+
+
 
 # Advanced Entry Level
 
+[//]: # (??? Hold 6 after the reload so Elphelt walks forward frame 1.)
+
+
 ## Microwalks
 
-Hold 6 after the reload so Elphelt walks forward frame 1.
+### Practicing extercice
 
-## Practicing extercice
 
 # Advanced
 
@@ -250,5 +276,13 @@ https://www.youtube.com/watch?v=cqv5NMfaySI&t=2s
 # tmp notes
 
 "microwalking" can also be referenced as micro-walking.
+
+bridal express is  the 214K input
+
+pull berry or berry pull is the 236P input, when we _pull_ the grenade
+
+2Toss/Low toss, is when we do 2P with the grenade on hand, so we throw the grenade "low"
+
+4Toss/High toss, is when we do 4P with the grenade on hand, so we throw the grenade "high"
 
 # Mention taking breaks/stretch/water
