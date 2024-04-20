@@ -231,6 +231,10 @@ The routing is:
 
 > SG.D > Pull Berry > SG.S > [Charged SG.H]x2 > SG.S > 2Toss > SG.S > Bridal > [Charged SG.H]x6
 
+> Note:\
+> The last charged shotgun can be a bit complicated, if you miss it, don't get discouraged and keep practicing!!
+> 
+> The combo is not intended to be "optimal" nor anything like that, but it focuses in 
 
 
 
