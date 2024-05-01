@@ -122,7 +122,7 @@ may
 
 millia (requires a specific 2Toss timing delay, if thrown too early Millia will block the berry)
 
-zato (first active frame from berry has to hit zato the frame 22th from getting the last hit since his hurtbox shifts higher enough to get hit by that throw berry 1 frame early and will miss the magic frame, next frames from berry are higher therefore won't hit)
+zato (first active frame from berry has to hit zato the frame 22th from getting the last hit since his hurtbox shifts higher enough to get hit by that throw berry 1 frame early and will miss the magic frame, next frames from berry are higher therefore won't hit) depending on the first button delay, you might only need to delay tossing berry.
 
 potemkin
 
@@ -136,7 +136,7 @@ ino (some delay before tossing, I would recommend trim down the delay on the fir
 
 bedman
 
-ramlethal (the followups are fucked, i think its due to being wide)
+ramlethal (the followups are skuffed, i think its due to being wide)
 
 sin 
 
@@ -157,6 +157,10 @@ raven (pull berry as soon as possible, delay second 2h, for j.spsphd delay D sub
 baiken (pull berry as soon as possible)
 
 answer 
+
+YT playlist
+
+https://www.youtube.com/playlist?list=PL6ZUzEhM_rdAuk8ijjCj-8qc11qghcyqJ
 
 
 #### ZATO ROUTING IMAGE

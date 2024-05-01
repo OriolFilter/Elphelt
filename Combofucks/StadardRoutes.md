@@ -322,3 +322,39 @@ Delay toss hit so berry hits 1-3 before about to explode, this will cause oppone
 This is caused to the first frames after being hit by the 
 
 
+
+## 6H CH > Berry pull
+
+### Midscreen
+
+
+
+2D > SG.S > [SG.H] x3 > SG.S > pull berry > SG.H > SG.P > SG.H  219 (216 with c.S) <- Saybell routing
+
+dl c.S > j.SPSH > j.Toss > 6H > dl SG.S > Bridal > [SG.H]x4  194
+
+(cant recommend, too finicky for no real benefit)
+
+c.S > j.SPSH > j.Toss > 66 c.S > j.SPSHD |> 2H > Bridal    168
+
+c.S > j.SPSH > j.Toss > 66 c.S > j.SPS > jc j.KSHD 163
+
+c.S > j.KSH > 6H > Bridal > c.S > j.SPS > jc j.KSHD 193
+
+2P > c.S > j.KSH > j.Toss > 6H > dl SG.S > c.S > j.KSHD 167
+
+2P > c.S > j.KSH > j.Toss > 6H > dl SG.S > c.S > j.KSHD 167
+
+#### Useless thing based off saybel
+
+https://discord.com/channels/121387821977042945/121388142941962241/1234272468412399686
+
+
+c.S > j.KSH > j.Toss |> jc > j.SH > 6H > Bridal > c.S > j.KSH 188 (vs characters wider like Ky, `c.S > 5H > Bridal` is possible (186 damage vs Ky))
+
+
+### Corner
+
+2H > SG.H > [SG.H] x2 > Toss > SG.S x2 > [SG.H] x5   215
+
+2H > SG.H > [SG.H] x2 > Toss > SG.S > Toss > Pull Berry > [SG.H] x3 > 6H > Toss 6H    220
