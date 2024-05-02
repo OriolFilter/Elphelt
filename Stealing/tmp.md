@@ -63,3 +63,7 @@ https://clips.twitch.tv/SneakyHomelyArmadilloCorgiDerp-r2KMoU2Kb_FEd5x6
 ... > 2H > c.S > j8/7.D > j.236P > j.toss (when almost ground) 
 
 https://youtu.be/QmZ-7TxyQmI?t=5807
+
+### Vev
+
+how is the
