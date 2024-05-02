@@ -1,6 +1,4 @@
-# 6H 
-
-## Midscreen
+# CH 6H 
 
 ## Midscreen
 
