@@ -12,6 +12,7 @@ https://fireshare.fihome.xyz/w/4142319aa92137100be480bb0982e0ac
 
 ## Neutral
 
+### Sniper / Shotgun
 
 Use sniper to deal with Venom setting balls, use the CH opportunity to runup -> pressure or pull berry and throw it while cutting distance.
 
@@ -31,6 +32,19 @@ Geno verse also destroy small balls.
 
 
 https://mobile.twitter.com/Malrodin/status/934071504664449024
+
+### Stuff
+
+Venom 6P Beats Elphelt IAD j.Whatever.
+
+Elphelt superjump IAD j.K can go over Venom 6P, but you won't get anything.
+
+2H will go under: 5P, 5H, 5S, 6P, **6H if Elp 2H was done at the same timing/slightly earlier**.
+
+Use 2D to Venom's 2D recovery frames. 5K will whiff or clash. 2K, 2S loose against Venom 2D (even when trying to punish it), f.S also looses/whiffs. If substantially spaced 6H will beat it and get a juicy counterhit  
+
+
+
 
 
 ## Oki
