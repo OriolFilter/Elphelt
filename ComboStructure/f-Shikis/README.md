@@ -43,7 +43,7 @@ https://fireshare.fihome.xyz/w/31c7a679f1da4a7d66b15c3a8dc4f13c
 
 2D opener
 
-https://fireshare.llb.filter.home/w/d19806ca0cfca62a7d90dbb504141042
+https://fireshare.fihome.xyz/w/d19806ca0cfca62a7d90dbb504141042
 
 
 
@@ -93,7 +93,7 @@ Low profile moves might fuck Elphelt (Scum dipper, Sol Grand Viper, Venom 2D...)
 
 Some Low profile moves, such as Sol 2D won't work, Ky 2D will trade.
 
-https://fireshare.llb.filter.home/w/fa84a2d860ac3b18b424ad904fe04a9f
+https://fireshare.fihome.xyz/w/fa84a2d860ac3b18b424ad904fe04a9f
 
 #### IAD j.H > j.Toss > j.9S (fast high)
 
@@ -105,17 +105,17 @@ If they IB berry j.S won't be an f-shiki.
 
 Pick up with c.S  -> 2H re-jump route and decide ender (tho extending more might be hard and inconsistent).
 
-https://fireshare.llb.filter.home/w/fc49896a1c823ab1968dd18c97ee7ea6
+https://fireshare.fihome.xyz/w/fc49896a1c823ab1968dd18c97ee7ea6
 
 #### IAD j.H > j.Toss > SG.D
 
-https://fireshare.llb.filter.home/w/5c295d5c077f8c5983cb4392fead9e6a
+https://fireshare.fihome.xyz/w/5c295d5c077f8c5983cb4392fead9e6a
 
 #### IAD j.H > j.Toss > c.S > SG
 
 Aimed towards setting pressure afterward.
 
-https://fireshare.llb.filter.home/w/a72c89b90c7c12c630176767aea85a33
+https://fireshare.fihome.xyz/w/a72c89b90c7c12c630176767aea85a33
 
 ### Set 2 (f.S > IAD j.Toss)
 
@@ -127,7 +127,7 @@ If they IB Berry they can't press before c.S comes out.
 
 If they IB c.S, then j.P won't be an f-shiki.
 
-https://fireshare.llb.filter.home/w/6979d912291b21366c20746e362d1d1e
+https://fireshare.fihome.xyz/w/6979d912291b21366c20746e362d1d1e
 
 #### IAD j.Toss > 2D
 
@@ -135,7 +135,7 @@ https://fireshare.llb.filter.home/w/6979d912291b21366c20746e362d1d1e
 
 If they IB Berry they can't press before 2D comes out.
 
-https://fireshare.llb.filter.home/w/089b817fc4763655443e910500197ddd
+https://fireshare.fihome.xyz/w/089b817fc4763655443e910500197ddd
 
 #### IAD j.Toss > c.S > 2D 
 
@@ -143,13 +143,13 @@ https://fireshare.llb.filter.home/w/089b817fc4763655443e910500197ddd
 
 If they IB Berry they can't press before c.S comes out.
 
-https://fireshare.llb.filter.home/w/f443024d1b6b784272807327379da5e1
+https://fireshare.fihome.xyz/w/f443024d1b6b784272807327379da5e1
 
 #### IAD j.Toss > 6P 
 
 SG.H will be throwable
 
-https://fireshare.llb.filter.home/w/e69ea7115335decd6eb39d7a13529c26
+https://fireshare.fihome.xyz/w/e69ea7115335decd6eb39d7a13529c26
 
 #### IAD j.Toss > c.S > 6P
 
@@ -157,9 +157,10 @@ Some low profiles might slip.
 
 Also very fast horizontal reaching buttons.
 
+https://fireshare.fihome.xyz/w/825e3df6dfa8478514e00683fbe9c067
 
 #### IAD j.Toss > c.S > 2D
 
 
 
-https://fireshare.llb.filter.home/w/14efd78828cb4495f33e4ab94d8e8d8d
+https://fireshare.fihome.xyz/w/14efd78828cb4495f33e4ab94d8e8d8d
