@@ -44,3 +44,5 @@ https://youtu.be/7M-YRPUXZjA?t=1028 jumpback pull toss sniper
 
 
 https://youtu.be/7M-YRPUXZjA?t=1241 f.S dl 66 5K > 66 5K > c.S dl 2H Pull 2P 6H
+
+https://youtu.be/7M-YRPUXZjA?t=1259 Toss runup 5K 2P > 5K > 66 5K > 6H

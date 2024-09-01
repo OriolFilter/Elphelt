@@ -133,3 +133,19 @@ With 50% meter we unlock substantial damage/carry.
 > 5H > Genoverse > 66 > j.K ~ j.S > j.H |> (2P >) c.S > j.SPSHD > j.236P
  
 [Forward Roll _H_5H_Genoverse.mp4](Punishes/Forward%20Roll%20_H_5H_Genoverse.mp4)
+
+## Oki
+
+God damm I am so bad at meating Millia, wether i get thrown because I get in throw range, or I get hit by 5H or whatever else.
+
+### Alternative off 2D (if close enough/possible)
+
+Elpheltcord link
+
+Basically 2D > j.PS/K > j.D > Pull and AD as fast as possible (this makes the berry be closer/more catches the backdashes better)
+
+https://discord.com/channels/121387821977042945/121388142941962241/1274134641594466435
+
+Pot equivalent (with j.S only, do 5k delayed S delayed S > etc)
+
+https://discord.com/channels/121387821977042945/121388142941962241/1274144093567455385
