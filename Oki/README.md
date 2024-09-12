@@ -22,3 +22,23 @@ The setup is easily reproducible from `SG.S > 214K` aka
 https://youtu.be/Ucn8tEuiIa8?t=1741
 
 + fuckton of damage
+
+
+## Bridal
+
+
+### 66 Delayed jump j.S
+
+-  Works midscreen
+
+### IAD j.Pull j.S/j.H
+
+Examples
+
+Notice the small walk forward on sol DP, if not done 2D won't reach.
+
+Routing into 2H toss > Shotgun still works, but it's more annoying due to the opponent height being lower.
+
+[BridalCornerIntoUB.mp4](src%2FBridal%2FBridalCornerIntoUB.mp4)
+
+[BridalCornerLoopOki.mp4](src%2FBridal%2FBridalCornerLoopOki.mp4)
