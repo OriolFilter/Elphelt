@@ -165,7 +165,7 @@ https://youtu.be/WRSZ9o0_gyI
 
 It's a bit finniky and rn it's only a concept but w/e works as an example.
 
-https://www.youtube.com/watch?v=9_S3iGmw9R4
+https://youtu.be/_F-31diZLZU
 
 
 ## j.D YRC
