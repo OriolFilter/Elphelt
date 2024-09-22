@@ -1,3 +1,9 @@
+---
+gitea: none
+include_toc: true
+---
+
+
 # Relevant links
 ## Hardli doc
 
