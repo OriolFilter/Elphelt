@@ -171,32 +171,6 @@ Due to the high blockstun it enables for true blockstring into 6P, although afte
 
 https://youtu.be/hvG7kq_BJ7c
 
-## OLD idk
-### trying on Ky
-
-Bot settings: !5,4,6HP
-
-questions:
-
-c.s f.S 2D Bridal -> IAD j.pull j.toss
-
-seems to have a bit of different meaty/oki timing than 
-
-c.s f.S Bridal -> IAD j.pull j.toss
-
-
-
-
-c.s f.S 2D Bridal -> IAD j.pull j.S    if done ASAP doesn't meaty Ky, will need to mess arround i guess?
-
-c.s 2D Bridal -> IAD j.pull j.S    if done ASAP doesn't meaty Ky, will need to mess arround i guess?
-
-
-
-Bot settings: 5,!4,6HP
-
-
-
 ## 5Hx5 Safejump
 
 https://www.youtube.com/watch?v=Aw_d0im2mO4&ab_channel=hardly
