@@ -1,12 +1,19 @@
-
-Hardli doc
+# Relevant links
+## Hardli doc
 
 https://docs.google.com/document/d/1VMM1XUubhDn6LfLzp31sOYFsFczlFQPPwhbWBrNxruM/edit
+
+## Dustloop wakeup and backdash framedata
+
+https://www.dustloop.com/w/GGXRD-R2/Frame_Data#Backdash_and_Wake-up_Values
+
 
 # Corner Bridal IAD j.Pull
 
 ## IAD Pull j.S
 
+
+Gotta check this graph, is pmuch outdated/badderony/useless rn
 ```mermaid
 graph LR
     A[IAD j.236P > ] --> B(j.S overhead meaty)
@@ -19,12 +26,6 @@ graph LR
 ### j.S vs j.H
 
 > Elphelt j.H KDs on air hit. Elphelt j.S combos on air hit. Like 1f airborne moves like Sol wake up riot stamp or Faust wake up pogo exist, or you miss the meaty and the opponent jumped, or you hit a late frame of a wake up backdash, for example, then j.H doesn't combo. Neither Elphelt j.S nor j.H has proration, but Elphelt j.S deals 28 damage and j.H 34 damage (on Sol), which affects combo damage.  (Text from SmashK, copy paste)
-
-### IDK but on the same topic
-
-- Corner Bridal ender IAD pull j.S oki ()
-
-https://www.dustloop.com/w/GGXRD-R2/Frame_Data#Backdash_and_Wake-up_Values
 
 As reference, iad whenever opponent touches the ground, not before.
 
@@ -154,9 +155,9 @@ https://youtu.be/WRSZ9o0_gyI
 
 ### Mixes
 
-???
+#### 6P
 
-
+It's a bit finniky and rn it's only a concept but w/e works as an example.
 
 https://www.youtube.com/watch?v=9_S3iGmw9R4
 
