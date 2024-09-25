@@ -147,7 +147,9 @@ Unless you can confirm the opponent stopping the blitz, or, if the opponent char
 
 https://youtu.be/hwePx7EBHUI
 
-##### 2D Punish
+##### 2D CH Punish
+
+Pickups on 2D CH are character specific and may not work on some of them etc, so anything here is a "concept" if anything.
 
 ###### Sol concept 1
 
