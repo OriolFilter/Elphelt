@@ -94,8 +94,6 @@ https://youtu.be/uXlkOKnFMtU
 
 https://youtu.be/lrbTDjRZ47U
 
-##### Different enders/setups
-
 ### Dealing with blitz
 
 #### Bait blitz
