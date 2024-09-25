@@ -229,6 +229,33 @@ Due to the high blockstun it enables for true blockstring into 6P, although afte
 
 https://youtu.be/hvG7kq_BJ7c
 
+### Confirms
+
+#### Into 2H Pull
+
+
+
+
+#### Into 2H Charged Shotgun
+
+Still tight due to 2H into charged shots.
+
+Lightweights might be an issue.
+
+Requires a slight delay after the first charged SG.H, otherwise the opponent will tech out too early.
+
+https://youtu.be/1b4c8sJni8k
+
+#### Into Charged shotgun
+
+This is very tight, can't recommend.
+
+Requires adjustments per weight.
+
+https://youtu.be/IjUJDHiHelg
+
+
+
 ## 5Hx5 Safejump
 
 https://www.youtube.com/watch?v=Aw_d0im2mO4&ab_channel=hardly
