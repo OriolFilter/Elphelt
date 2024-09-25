@@ -68,6 +68,12 @@ I don't think you can get much out of it without meter.
 
 With meter stuff like Genoverse > Toss would be possible.
 
+#### Metered
+
+`j.S > c.S > f.s > Genoverse > IAD Toss > SG.S > [SG.H]` into UB Setup.
+
+
+
 ### Standing CH confirm
 
 j.S CH > 66 c.S > dl.5H
