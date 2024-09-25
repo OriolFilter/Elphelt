@@ -42,13 +42,57 @@ As reference, iad whenever opponent touches the ground, not before.
 - Still not sure how to hit/punish opponents backdashing other than land -> 2pppppp
 - Looses to Blitz
 
+### Crouch confirm
+
+##### Crouching confirm 1
+
+2H Toss 2D
+
+https://youtu.be/uXlkOKnFMtU
+
+##### Crouching confirm 2
+
+2H 2D Toss
+
+(easier than [crouching-confirm-1](#crouching-confirm-1))
+
+https://youtu.be/lrbTDjRZ47U
+
+### Standing confirm
+
+I don't think you can get much out of it without meter.
+
+`2D > Toss` berry for oki/meaty afterward.
+
+`j.S > c.S > 5H > Bridal > Toss` or  `j.S > c.S > 2D > Bridal > Toss`  to have explosion active frames on their wakeup...
+
+With meter stuff like Genoverse > Toss would be possible.
+
+### Standing CH confirm
+
+j.S CH > 66 c.S > dl.5H
+
+We avoid using f.S since it has more pushback than 5H.
+
+With some slimmer characters it might not be possible, I haven't tested.
+
+Vs Thicker characters it might be less annoying.
+
+https://youtu.be/S9RN9cpcZp0
+
+### Airborne Confirm
+
+Certain moves result on the opponent being airborne, meaning that you would need to confirm the j.S CH with an "adequate" routing.
+
+
+
 ### Punishing DPs/reversals
 
 #### Sol S dp
 
 Sol dp is crouch recovery
 
-#### Route 1
+##### Route 1
 
 walkup 2D
 
@@ -56,7 +100,7 @@ Do a little walkup
 
 https://youtu.be/J94gVjM5cy4
 
-#### Route 2
+##### Route 2
 
 f.S > toss > f.S
 
@@ -64,13 +108,13 @@ Do a little walkup
 
 https://youtu.be/7M9Cm5e6Mm8
 
-#### Route 3
+##### Route 3
 
 f.S 2H(1) Toss
 
 https://youtu.be/vx2LcE36b_g
 
-#### Route 4
+##### Route 4
 
 Do a little walkup
 
@@ -80,19 +124,26 @@ c.S dl f.S dl 2D > Toss
 
 https://youtu.be/uma73yWHGco
 
-#### Crouching confirm 1
 
-2H Toss 2D
 
-https://youtu.be/uXlkOKnFMtU
+#### Sol H DP
 
-#### Crouching confirm 2
+#### May [2]8S
+If hit meaty at frame 1, she's standing and gets a standing CH, I think that between frames 1 to 3 it's grounded, from +4 it's airborne, I won't confirm that since doesn't seem relevant.
 
-2H 2D Toss
+Later she will leave the ground and be airborne, meaning that you would get an air CH.
 
-(easier than [crouching-confirm-1](#crouching-confirm-1))
+May Dolphin's are NOT hit invunl (only S is throw invuln).
 
-https://youtu.be/lrbTDjRZ47U
+##### Airborne
+
+Doing 2 SG.S helps to stabilize/control/reduce the opponent height.
+
+https://youtu.be/5MwTgzz-hdk
+
+##### Standing CH
+
+Go to [#standing-ch](#standing-ch)
 
 ### Dealing with blitz
 
@@ -127,7 +178,7 @@ Since you are in the air opponent cannot throw you, although if misstimed can ge
 
 This is only intended to "punish"/bait/callout blitz shield.
 
-##### Showcase of(some) Missed/Whiff/Delayed j.S scenarios
+##### Showcase of (some) Missed/Whiff/Delayed j.S scenarios
 
 https://youtu.be/ZDzJX1BS9Vo
 
