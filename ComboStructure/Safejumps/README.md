@@ -231,12 +231,13 @@ https://youtu.be/hvG7kq_BJ7c
 
 ### Confirms
 
-#### Into 2H Pull
+#### c.S j.SPSH Toss Shotgun
 
+Confirming j.D into 66 c.S helps with proximity/distance consistency.
 
+https://youtu.be/YFLyNpWV3OE
 
-
-#### Into 2H Charged Shotgun
+#### 2H Charged Shotgun
 
 Still tight due to 2H into charged shots.
 
@@ -246,7 +247,7 @@ Requires a slight delay after the first charged SG.H, otherwise the opponent wil
 
 https://youtu.be/1b4c8sJni8k
 
-#### Into Charged shotgun
+#### Charged Shotgun
 
 This is very tight, can't recommend.
 
