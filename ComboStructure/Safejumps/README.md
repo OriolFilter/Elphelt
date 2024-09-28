@@ -90,8 +90,6 @@ https://youtu.be/S9RN9cpcZp0
 
 Certain moves result on the opponent being airborne, meaning that you would need to confirm the j.S CH with an "adequate" routing.
 
-
-
 ### Punishing DPs/reversals
 
 #### Sol S dp
@@ -253,15 +251,26 @@ Requires a slight delay after the first charged SG.H, otherwise the opponent wil
 
 https://youtu.be/1b4c8sJni8k
 
-#### Charged Shotgun
+#### Charged Shotgun UB
 
-This is very tight, can't recommend.
+- UB setup
 
 Requires adjustments per weight.
 
 https://youtu.be/IjUJDHiHelg
 
+#### Charged Shotgun Loops
 
+- You get a 6H ender.
+- Very consistent (to the exception to the first shotgun which can be quite tight)
+
+https://youtu.be/nGUSufxMMF4
+
+##### Concept of more damage
+
+Don't let the berry hit the opponent before the explosion. Aka delay shotgun shots as much as possible.
+
+The damage is not meaningful anyway so don't bother  with it.
 
 ## 5Hx5 Safejump
 
