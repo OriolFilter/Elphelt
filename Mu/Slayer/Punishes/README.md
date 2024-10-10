@@ -190,8 +190,6 @@ https://youtu.be/_TuxzArqQJo
 
 > [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H]x3 > 6H  
 
-https://youtu.be/l1I6unv9U98
-
 ### Crosswise Heel
 
 Depending on the distance on which IBs `Crosswise Heel` it might allow for a better punish. Doesn't make much difference without IBing.
