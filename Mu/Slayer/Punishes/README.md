@@ -16,13 +16,13 @@ no clue just do some bnb
 
 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
-[Elphelt_Generic_6H_Counterhit_Corner.mp4](src/Generic_Routes/6H_CH/Elphelt_Generic_6H_Counterhit_Corner.mp4)
+https://youtu.be/VM9hw7CVcvU
 
 #### Corner Slightly Spaced 
 
 > CH 6H > 236H > charge shotgun > SG.S > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
-[Elphelt_Generic_6H_Counterhit_Corner_Slightly_Spaced.mp4](src/Generic_Routes/6H_CH/Elphelt_Generic_6H_Counterhit_Corner_Slightly_Spaced.mp4)
+https://youtu.be/m-uzwD07O_A
 
 ## Corner Throw RC
 
@@ -32,8 +32,7 @@ After the throw, the combo would be:
 
 > Throw > RC > 236K or 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
-[Punish_Pilebunker_Throw_RC.mp4](src/Pilebunker/Punish_Pilebunker_Throw_RC.mp4)
-
+https://youtu.be/Sk9rMBDlpF8
 
 ## Punishes
 
@@ -158,8 +157,8 @@ non-dash momentum or point blank spacing:
 ###### Bridal
 
 > 66 > c.S > f.S > (2S >) 2D > Bridal 
- 
-[Punish_Pilebunker.mp4](src/Pilebunker/Punish_Pilebunker.mp4)
+
+https://youtu.be/EqOiSGSRGG0
 
 ###### Berry Pull
 
@@ -167,7 +166,7 @@ We can also replace `Bridal` for `Berry Pull`, this might be preferred to do in 
 
 > 66 > c.S > f.S > (2S >) 2D > Pull Berry
 
-[Punish_Pilebunker_Berry_Pull.mp4](src/Pilebunker/Punish_Pilebunker_Berry_Pull.mp4)
+https://youtu.be/r8TunMpRvtY
 
 ###### Throw RC
 
@@ -175,13 +174,13 @@ After the throw, the combo would be:
 
 > RC > 236K or 236H > charge shotgun > [SG.H]x3 > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
-[Punish_Pilebunker_Throw_RC.mp4](src/Pilebunker/Punish_Pilebunker_Throw_RC.mp4)
+https://youtu.be/Sk9rMBDlpF8
 
 ##### w. Shotgun
 
 > SG.S > Bridal
 
-[Punish_Pilebunker_w_Shotgun.mp4](src/Pilebunker/Punish_Pilebunker_w_Shotgun.mp4)
+https://youtu.be/_TuxzArqQJo
 
 #### w. Shotgun IB Corner
 
