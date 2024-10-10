@@ -190,7 +190,7 @@ https://youtu.be/_TuxzArqQJo
 
 > [SG.H], [Charge Shotgun] > SG.S > Pull Berry > [SG.H]x3 > [Charge Shotgun] > SG.S > High Berry Toss > [SG.H]x3 > 6H  
 
-[Punish_Pilebunker_Corner_w_Shotgun_meme.mp4](src/Pilebunker/Punish_Pilebunker_Corner_w_Shotgun_meme.mp4)
+https://youtu.be/l1I6unv9U98
 
 ### Crosswise Heel
 
