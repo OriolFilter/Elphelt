@@ -88,11 +88,11 @@ On Block is `-1`, on IB `-5`, but .
 
 If we have IBd Mappa, we can stuff a `SG.P` **If we are close enough** to hit Slayers arm, then chain into `SG.H`, it's also quite tight.
 
-[Punish_P_Mappa_w_Shotgun_P.mp4](src/Mappa/Punish_P_Mappa_w_Shotgun_P.mp4)
+https://youtu.be/dMf1UDNvw9s
 
 If we are not extremely close or don't want to do a tight `SG.P`, just `SG.H` from midrange to poke them.
 
-[Punish_P_Mappa_w_Shotgun.mp4](src/Mappa/Punish_P_Mappa_w_Shotgun.mp4)
+https://youtu.be/x0dAnzPtqkw
 
 #### K Mappa
 
@@ -104,7 +104,7 @@ You will need to IB the hit.
 
 Not punisheable at peak range as `5P` won't reach Slayer.
 
-[Punish_K_Mappa.mp4](src/Mappa/Punish_K_Mappa.mp4)
+https://youtu.be/9UbmtsIxcq4
 
 ##### w. Shotgun IB
 
@@ -112,18 +112,19 @@ Not punisheable at peak range as `5P` won't reach Slayer.
 
 If we have IBd Mappa, we can stuff a `SG.P` **If we are close enough** to hit Slayers arm, then chain into `SG.H`.
 
-[Punish_K_Mappa_w_Shotgun_no_P.mp4](src/Mappa/Punish_K_Mappa_w_Shotgun_no_P.mp4)
+https://youtu.be/_z3zgJVQkQg
 
 If we are not close enough or don't want to do a tight `SG.P`, just `SG.H` from midrange to poke them.
 
-[Punish_K_Mappa_w_Shotgun.mp4](src/Mappa/Punish_K_Mappa_w_Shotgun.mp4)
+https://youtu.be/Thb5lc10M6c
+
 ##### IB JBH
 
 Close enough we can fit a `Judge Better Half` or it's burst version, I repeat, **close enough**.
 
 Can't recommend using that.
 
-[Punish_K_Mappa_JBH.mp4](src/Mappa/Punish_K_Mappa_JBH.mp4)
+https://youtu.be/NQxfeaxLlP0
 
 ### Pilebunker
 
