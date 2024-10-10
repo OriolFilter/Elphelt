@@ -72,7 +72,7 @@ If we are even a bit further, our super will clash. **No bueno!!**
 
 Even further? it will be a true string, so go for the next listed punishes. Reminder that the second hit **IT'S A MID**, therefore you just gotta press the `4` button once to IB.
 
-[JBH_Distance_Examples.mp4](src/Specials/Stun_Dipper/JBH_Distance_Examples.mp4)
+https://youtu.be/Xn0LE3t38AI
 
 ### Middle ground
 
@@ -93,7 +93,7 @@ f.S 5H Bridal
 At the peakest of the peakest distances 5H Genoverse will not reach.
 
 
-[Peak_Peak_Distance_Example.mp4](src/Specials/Stun_Dipper/Peak_Peak_Distance_Example.mp4)
+https://youtu.be/qttPDLEPAjQ
 
 
 5H Bridal will not reach either.
@@ -106,7 +106,7 @@ f.S Will whiff
 
 If we IB we can do `66 f.S 5H Genoverse` or `66 f.S 5H Bridal` (basically IB > Dash-in)
 
-[Peak_Peak_Distance_IB.mp4](src/Specials/Stun_Dipper/Peak_Peak_Distance_IB.mp4)
+https://youtu.be/6givuFzNoUk
 
 
 ### Greed Sever
