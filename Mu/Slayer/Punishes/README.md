@@ -18,7 +18,7 @@ no clue just do some bnb
 
 https://youtu.be/VM9hw7CVcvU
 
-#### Corner Slightly Spaced 
+#### Corner Slightly Spaced
 
 > CH 6H > 236H > charge shotgun > SG.S > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
@@ -263,7 +263,7 @@ Same route as the [non IB one](#corner-w-shotgun-close), but IBing might facilit
 
 Basically the move wiffs because you are too far away, this is your moment to shine
 
-For the corner route refer to the [Generic Routes, 6H Counterhit, Corner Slightly Spaced](#corner-slightly-spaced-)
+For the corner route refer to the [Generic Routes, 6H Counterhit, Corner Slightly Spaced](#corner-slightly-spaced)
 For the midscreen route refer to the [Generic Routes, 6H Counterhit, Midscreen](#midscreen)
 
 ### Dead on Time
@@ -298,7 +298,7 @@ Other routing can apply.
 
 > CH c.S ~ 2H > 236P, c.S > j.c > j.S > j.c > j.K > j.S > j.H ~ j.toss |> 6H > 236H ~ SG.S > 236H > c.S > j.c > j.K > j.S > j.H > j.D > j.236P
 
-[Punish_Dead_on_Time_Corner_cS_antiair.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_cS_antiair.mp4)
+https://youtu.be/RwF4eBPR53s
 
 ##### w. Shotgun into c.S antiair route
 
@@ -308,7 +308,7 @@ We can remove the shotgun and continue with a `c.S` antiair route.
 
 > 236H > CH c.S ~ 2H > 236P, c.S > j.c > j.S > j.c > j.K > j.S > j.H ~ j.toss |> 6H > 236H ~ SG.S > 236H > c.S > j.c > j.K > j.S > j.H > j.D > j.236P
 
-[Punish_Dead_on_Time_Corner_w_Shotgun_cS_antiair.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_w_Shotgun_cS_antiair.mp4)
+https://youtu.be/eaTfxlhels8
 
 ##### 6H Antiair route
 
@@ -322,7 +322,7 @@ Doesn't deal much damage but gives you the corner pressure.
 
 > 236K > SG.S > Bridal 
 
-[Punish_Dead_on_Time_Corner_Sideswap_w_Shotgun.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_w_Shotgun.mp4)
+https://youtu.be/HAz296emqUY
 
 ##### w.o Shotgun IB
 
@@ -330,7 +330,7 @@ Doesn't deal much damage but gives you the corner pressure.
 
 > 236K > SG.S > Bridal
 
-[Punish_Dead_on_Time_Corner_Sideswap_IB.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_IB.mp4)
+https://youtu.be/5qKF2vRiY58
 
 ##### w.o Shotgun 6H
 
@@ -339,7 +339,7 @@ Doesn't deal much damage but gives you the corner pressure.
 
 > CH 6H > 236K > charge shotgun > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
-[Punish_Dead_on_Time_Corner_Sideswap_6H_antiair.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_6H_antiair.mp4)
+https://youtu.be/765P0ukd-K8
 
 ##### w.o Shotgun 6H
 
@@ -347,11 +347,11 @@ Doesn't deal much damage but gives you the corner pressure.
 - Don't think that IBing affect the routing.
 - I can't make the 3rd SG.H cause wallsplat.
 
-It's based off [6H Counterhit Corner Slightly Spaced route](#corner-slightly-spaced-).
+It's based off [6H Counterhit Corner Slightly Spaced route](#corner-slightly-spaced).
 
 > CH 6H > 236H > charge shotgun > SG.S > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H]x2 > 6H > 236P
 
-[Punish_Dead_on_Time_Corner_Sideswap_6H_antiair2.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Corner_Sideswap_6H_antiair2.mp4)
+https://youtu.be/vpd3aF7dTuE
 
 #### Tips
 
@@ -361,11 +361,11 @@ Start by already be blocking it, otherwise you will hit by mister frame 0.
 
 Release `4` during the animation, and click `4` again when the animation finishes, basically when the camera is back to slayer. 
 
-[Tip_Dead_on_Time_IB_DIY.mp4](src/Dead_on_Time/Tip_Dead_on_Time_IB_DIY.mp4)
+https://youtu.be/4mpFo3RZZCQ
 
 **Frame on which "press" `4`:**
 
-![Tip_Dead_on_Time_IB_DIY_frame.jpg](src/Dead_on_Time/Tip_Dead_on_Time_IB_DIY_frame.jpg)
+![Elphelt_Practice_Tip_Dead_on_Time_DIY](src/Dead_on_Time/Elphelt_Practice_Tip_Dead_on_Time_DIY.jpg)
 
 
 ## Labbing
