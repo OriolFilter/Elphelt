@@ -384,7 +384,7 @@ The idea is to practice, not only the combo routes, but the move recognition.
 
 A reminder that [Pilebunker](#pilebunker) doesn't need to be IBd to be punished.
 
-[Labbing_Mappa_Pilebunker.mp4](src/Labbing/Labbing_Mappa_Pilebunker.mp4)
+https://youtu.be/0DNYpcBzm-Q
 
 #### Shortcuts to the punishes:
 
