@@ -286,7 +286,7 @@ For the midscreen route refer to the [Generic Routes, 6H Counterhit, Midscreen](
 
 > CH [SG.H] ...
 
-[Punish_Dead_on_Time_Midscreen_w_Shotgun_IB.mp4](src/Dead_on_Time/Punish_Dead_on_Time_Midscreen_w_Shotgun_IB.mp4)
+https://youtu.be/Q0I6nFQLXgE
 
 #### Corner
 
@@ -365,7 +365,7 @@ https://youtu.be/4mpFo3RZZCQ
 
 **Frame on which "press" `4`:**
 
-![Elphelt_Practice_Tip_Dead_on_Time_DIY.jpg](src%2FElphelt_Practice_Tip_Dead_on_Time_DIY.jpg)
+![Elphelt_Practice_Tip_Dead_on_Time_DIY.jpg](src/Elphelt_Practice_Tip_Dead_on_Time_DIY.jpg)
 
 ## Labbing
 
