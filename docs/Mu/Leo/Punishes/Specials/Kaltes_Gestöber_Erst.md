@@ -4,11 +4,11 @@
 
 aka. Rekka
 
-Combinations available:
+- 236S = Erst
+- 236H = Zweit
+- 214S = Dritt
 
-236S = Erst
-236H = Zweit
-214S = Dritt
+Combinations available:
 
 | combo               | on block | on IB | imgs                                                               |
 |---------------------|----------|-------|--------------------------------------------------------------------|
