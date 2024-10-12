@@ -1,0 +1,1 @@
+On SG.H CH, if close enough, Baiken will be launched, if close to the corner, it will allow for a 2H Pickup.

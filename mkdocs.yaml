@@ -1,0 +1,46 @@
+site_name: (My) Elphelt notes
+site_description: My notes on Elphelt
+site_url: https://github.com/OriolFilter/Elphelt
+
+repo_url: https://github.com/OriolFilter/Elphelt
+
+
+theme: readthedocs
+
+plugins:
+  - section-index
+#  - search
+
+markdown_extensions:
+  - toc:
+#      permalink: ""
+#      baselevel: 1
+#  - pymdownx.arithmatex
+#  - pymdownx.b64
+#  - pymdownx.betterem
+#  - pymdownx.blocks.admonition
+#  - pymdownx.blocks.definition
+#  - pymdownx.blocks.details
+#  - pymdownx.blocks.html
+#  - pymdownx.blocks.tab
+#  - pymdownx.caret
+#  - pymdownx.critic
+#  - pymdownx.details
+#  - pymdownx.emoji
+#  - pymdownx.escapeall
+#  - pymdownx.extra
+#  - pymdownx.highlight
+#  - pymdownx.inlinehilite
+#  - pymdownx.keys
+  - pymdownx.magiclink: []
+#  - pymdownx.mark
+#  - pymdownx.pathconverter
+#  - pymdownx.progressbar
+#  - pymdownx.saneheaders
+#  - pymdownx.smartsymbols
+#  - pymdownx.snippets
+#  - pymdownx.striphtml
+#  - pymdownx.superfences
+#  - pymdownx.tabbed
+#  - pymdownx.tasklist
+#  - pymdownx.tilde
