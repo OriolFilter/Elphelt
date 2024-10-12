@@ -40,7 +40,7 @@ Backdash okay? Yes (gotta hold block afterwards)
 
 - Bridal
 
-### Trade[Pressure](..%2F..%2FPressure)
+### Trade
 
 - Delayed 2D
 - Delayed 5K
