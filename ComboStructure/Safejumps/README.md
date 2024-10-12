@@ -58,6 +58,12 @@ https://youtu.be/uXlkOKnFMtU
 
 https://youtu.be/lrbTDjRZ47U
 
+##### Crouching confirm 3
+
+2H 2D Toss > 6H > Bridal (very simple)
+
+TODO
+
 ### Standing confirm
 
 I don't think you can get much out of it without meter.
