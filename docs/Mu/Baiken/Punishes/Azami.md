@@ -1,23 +1,20 @@
+# Azami
 
+## Corner
 
-
-## Azami
-
-### Corner
-
-#### w Shotgun
+### w Shotgun
 
 https://x.com/humo_ah/status/863398544526368769?s=20
 
-### Blocked Kuchi
+## Blocked Kuchi
 
-#### Without Shotgun
+### Without Shotgun
 
 - c.S > f.S > 5H > Bridal
 
 - (with dash momentum) c.S > f.S > 2D > Bridal
 
-#### With Shotgun
+### With Shotgun
 
 - (with dash momentum) SG.PPPPPPH
 

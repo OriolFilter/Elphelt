@@ -1,5 +1,3 @@
-
-
 # Suzuran vs SG (SG.P interactions/range)
 
 Its assumed that Suzuran will at-least block one hit before pressing the followup unless stated otherwise.
