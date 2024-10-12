@@ -69,9 +69,9 @@ You mostly want to hit her feet.
 
 Both charged and uncharged shotgun can hit `Iron Savior` at a somewhat hateful distance.
 
-[Iron_Savior_SG.H.mp4](Contest/Iron_Savior_SG.H.mp4)
+https://youtu.be/HJlv2RLE1uE
 
-[Iron_Savior_SG.H_Charged.mp4](Contest/Iron_Savior_SG.H_Charged.mp4)
+https://youtu.be/6Lp9yRwjj_k
 
 > **Tip:**\
 > Uncharged shotgun can be done while crouchingback so if very misstimed you block it.
@@ -81,18 +81,18 @@ Both charged and uncharged shotgun can hit `Iron Savior` at a somewhat hateful d
 
 5K can win at the right distance, yet is veeery finiky, skill issue.
 
-[Iron_Savior_5K.mp4](Contest/Iron_Savior_5K.mp4)
+https://youtu.be/_h6iof_8fjU
 
 
 At a distance Elp can 6H and get a juicy counterhit.
 
-[Iron_Savior_6H.mp4](Contest/Iron_Savior_6H.mp4)
+https://youtu.be/J36i4UvAfzo
 
 #### Genoverse
 
 It can hit her, just beware of Millier RC since you would have lost 25% meter.
 
-[Iron_Savior_Genoverse.mp4](Contest/Iron_Savior_Genoverse.mp4)
+https://youtu.be/c7oAOEzsnjE
 
 ### Punish
 
@@ -106,7 +106,7 @@ No need to IB (but encouraged), since it is very tight (mash 5H, hard).
 
 > 5H*5
 
-[Iron_Savior_5H.mp4](Punishes/Iron_Savior_5H.mp4)
+https://youtu.be/uLNopCmBi-c
 
 > Disclaimer:\
 > `5H > Genoverse` won't hit! (meaning at peak range)
@@ -124,15 +124,15 @@ When at a fair distance, you will need to IB it.
 > 5H*5
 > 5H>Bridal
 
-[Forward Roll _H_5Hx5.mp4](Punishes/Forward%20Roll%20_H_5Hx5.mp4)
+https://youtu.be/IxXjzH_HzJA
 
-[Forward Roll _H_5H_Bridal.mp4](Punishes/Forward%20Roll%20_H_5H_Bridal.mp4)
+https://youtu.be/IxXjzH_HzJA
 
 With 50% meter we unlock substantial damage/carry.
 
 > 5H > Genoverse > 66 > j.K ~ j.S > j.H |> (2P >) c.S > j.SPSHD > j.236P
- 
-[Forward Roll _H_5H_Genoverse.mp4](Punishes/Forward%20Roll%20_H_5H_Genoverse.mp4)
+
+https://youtu.be/o6uxiH0NQUg
 
 ## Oki
 
