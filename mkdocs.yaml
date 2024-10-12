@@ -10,7 +10,7 @@ theme: readthedocs
 markdown_extensions:
   - toc:
       permalink: ""
-      baselevel: 3
+      baselevel: 1
 #  - pymdownx.arithmatex
 #  - pymdownx.b64
 #  - pymdownx.betterem

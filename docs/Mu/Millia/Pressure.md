@@ -1,4 +1,4 @@
-# Corner Shotgun Pressure
+## Corner Shotgun Pressure
 
 Millia can just "jump out" between uncharged shotgun shots and press j.H to "shrink" her hurtbox.
 
