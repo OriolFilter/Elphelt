@@ -330,5 +330,5 @@ please don't let me jump — Today at 13:35
 ty 🙏 (still got to read breakfast and stale thingie distracted me)
 ```
 
-[simple_ub_setup_kyouse.mp4](src/simple_ub_setup_kyouse.mp4)
+[simple_ub_setup_kyouse.mp4](#TODO)
 
