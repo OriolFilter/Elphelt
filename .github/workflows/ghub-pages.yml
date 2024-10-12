@@ -34,6 +34,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -r requirements.txt
+      - run: mkdocs build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
