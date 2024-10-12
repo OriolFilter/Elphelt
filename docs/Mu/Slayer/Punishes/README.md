@@ -1,9 +1,3 @@
----
-gitea: none
-include_toc: true
----
-
-
 ## Generic routes
 
 ### 6H Counterhit
