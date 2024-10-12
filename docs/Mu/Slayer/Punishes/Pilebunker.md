@@ -137,6 +137,6 @@ https://youtu.be/2KiaC5U7IAs
 
 Basically the move wiffs because you are too far away, this is your moment to shine
 
-For the corner route refer to the [Generic Routes, 6H Counterhit, Corner Slightly Spaced](#corner-slightly-spaced)
+For the corner route refer to the [Generic Routes, 6H Counterhit, Corner Slightly Spaced](./Generic_Routes.md#corner-slightly-spaced)
 
 For the midscreen route refer to the [Generic Routes, 6H Counterhit, Midscreen](#midscreen)
