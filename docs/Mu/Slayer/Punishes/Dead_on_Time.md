@@ -79,7 +79,7 @@ https://youtu.be/765P0ukd-K8
 - Don't think that IBing affect the routing.
 - I can't make the 3rd SG.H cause wallsplat.
 
-It's based off [6H Counterhit Corner Slightly Spaced route](#corner-slightly-spaced).
+It's based off [6H Counterhit Corner Slightly Spaced route](./Generic_Routes.md/#corner-throw-rc).
 
 > CH 6H > 236H > charge shotgun > SG.S > [SG.H] > charge shotgun > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H]x2 > 6H > 236P
 

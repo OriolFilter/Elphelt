@@ -11,15 +11,15 @@ Set the recordings to the following:
 
 The idea is to practice, not only the combo routes, but the move recognition.
 
-A reminder that [Pilebunker](#pilebunker) doesn't need to be IBd to be punished.
+A reminder that [Pilebunker](./Pilebunker.md) doesn't need to be IBd to be punished.
 
 https://youtu.be/0DNYpcBzm-Q
 
 #### Shortcuts to the punishes:
 
-- [Pilebunker](#pilebunker)
-- [P Mappa](#p-mappa)
-- [K Mappa](#k-mappa)
+- [Pilebunker](./Pilebunker.md)
+- [P Mappa](./Mappa.md#p-mappa)
+- [K Mappa](./Mappa.md#k-mappa)
 
 
 ## Placeholder

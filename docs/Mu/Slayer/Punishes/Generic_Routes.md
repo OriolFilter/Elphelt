@@ -20,7 +20,7 @@ https://youtu.be/m-uzwD07O_A
 
 ## Corner Throw RC
 
-- Recycled a clip for [Pilebunker](#throw-rc).
+- Recycled a clip for [Pilebunker](Pilebunker.md#throw-rc).
 
 After the throw, the combo would be:
 
