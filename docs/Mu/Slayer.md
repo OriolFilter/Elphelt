@@ -1,5 +1,3 @@
-## Neutral
-
 ## Additional Notes
 
 ### Discord discussions
@@ -13,17 +11,16 @@ https://discord.com/channels/121387821977042945/121710360901189633/4579389882343
 https://youtu.be/lPNuPcleSaM
 
 ### GGXrd - Punishing Slayer's Forward Dash
+
 https://www.youtube.com/watch?v=utzVPJ1y54Y&list=WL&index=14&ab_channel=daymendou
 
 ### Countering Slayer Doc
+
 https://docs.google.com/document/d/1o3SNvmfR8htfzJLMqsyEV5PZsRCgzjP9DYD7Wm3z2fg/edit#heading=h.raxcklmmg5dl
-
-
 
 ### Dealing with buttons
 
-
-
+---
 
 #### Under Pressure
 
@@ -82,25 +79,6 @@ c.S Trades
 # Oki
 
 https://youtu.be/cZz4lCcxC9c?t=3783
-
-## Crossup OS
-
-https://discord.com/channels/121387821977042945/121387821977042945/1236328918839984281
-
-https://discord.com/channels/121387821977042945/121387821977042945/1236330888501923962
-
-
-## Deffense
-
-Jump/backdash seems to be the main options??
-
-https://www.twitch.tv/videos/2135654058?t=02h26m17s
-
-BrandonTheAsian9000:no blocking
-BrandonTheAsian9000:backdash beats meaty low and high
-BrandonTheAsian9000:jump beats crossup and grab
-BrandonTheAsian9000:that way, you can still rps without being in counterhit state
-BrandonTheAsian9000:and you think about 2 options instead of 4
 
 
 
