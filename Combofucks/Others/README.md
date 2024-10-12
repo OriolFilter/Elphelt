@@ -1,5 +1,7 @@
 Attempting to optimize / standardize shit
 
+> This file is filled with skill issue 
+
 # Corner
 
 ## 6P
@@ -17,11 +19,11 @@ Attempting to optimize / standardize shit
  
 You want to wait for the opponent to be fairly close to the ground.
 
-[On `Heavyweights`, \[SG.H\] auto-times itself, you also don't have much room for 66 so if you are close enough to the corner, I would suggest avoiding that for consistency.](src/Corner/6P/Bridal/Shotgun/Corner_6P_Bridal_Heavyweights.mp4)
+[On `Heavyweights`, \[SG.H\] auto-times itself, you also don't have much room for 66 so if you are close enough to the corner, I would suggest avoiding that for consistency.](https://youtu.be/0TOLiMpZfPE)
 
-[On `Midweights` you need the opponent to be close to the ground, otherwise 2H might wiff](src/Corner/6P/Bridal/Shotgun/Corner_6P_Bridal_Midweights.mp4)
+[On `Midweights` you need the opponent to be close to the ground, otherwise 2H might wiff](https://youtu.be/jms8jiFEFX0)
 
-[On `Lightweights` you need the opponent to be close to the ground, otherwise 2H might wiff](src/Corner/6P/Bridal/Shotgun/Corner_6P_Bridal_Lightweights.mp4)
+[On `Lightweights` you need the opponent to be close to the ground, otherwise 2H might wiff](https://youtu.be/YbvlzDUYD8o)
 
 #### 2H > Shotgun
 
