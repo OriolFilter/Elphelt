@@ -1,20 +1,4 @@
----
-gitea: none
-include_toc: true
----
-
-
-## Vapor Thrust
-
-DP
-
-### Vapor Thrust S
-
-As per the moment just do air combo and whatever
-
-### Vapor Thrust H
-
-### Stun Dipper
+# Stun Dipper
 
 [//]: # (Normal/FD block the first hit.)
 
@@ -42,7 +26,7 @@ IBing the second hit is relevant since allows less timing on your end. BUT NOT N
 We got different options.
 
 
-### Very close
+## Very close
 
 On IB:
 
@@ -51,16 +35,16 @@ On IB:
 Without IB:
 
 > f.s > 5H > Bridal
- 
+
 It is also _possible_ to do `66 f.S > 2S > 2D` without need of IB, but for consistency I can't recommend.
 
 Same for `(66) f.S > 2D`, depending on how close one is, 2D will whiff
 
-#### DP the second hit.
+### DP the second hit.
 
 If we are too close, Scum dipper won't be a "true string", therefore we can throw stuff between the first and second hit.
 
-If we are close enough we can super (Judge Better Half/DP), but only if we are close enough for the first and second hit to not be a true string. 
+If we are close enough we can super (Judge Better Half/DP), but only if we are close enough for the first and second hit to not be a true string.
 
 If we have more distance between us and Ky, but we IB the first hit, we might still be able to DP.
 
@@ -74,11 +58,11 @@ Even further? it will be a true string, so go for the next listed punishes. Remi
 
 https://youtu.be/Xn0LE3t38AI
 
-### Middle ground
+## Middle ground
 
 f.S 5H Bridal
 
-### Big distance
+## Big distance
 
 (but not peak!)
 
@@ -88,7 +72,7 @@ f.S 5H Bridal
 
 > 5H > Genoverse > IAD j.KSH > 2P > c.S > j.SPSHD
 
-### Peak Distance.
+## Peak Distance.
 
 At the peakest of the peakest distances 5H Genoverse will not reach.
 
@@ -107,27 +91,3 @@ f.S Will whiff
 If we IB we can do `66 f.S 5H Genoverse` or `66 f.S 5H Bridal` (basically IB > Dash-in)
 
 https://youtu.be/6givuFzNoUk
-
-
-### Greed Sever
-
--10
-
-Crouching recovery. (press f.S)
-
-#### w Shotgun
-#### wo Shotgun
-
-##### IB
-
-
-
-##### no IB
-
-##### j.block
-
-2P > ...
-
-##### j.block IB
-
-whatever > ...
