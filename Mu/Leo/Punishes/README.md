@@ -49,7 +49,7 @@ For consistency due to 5K requiring to be frameperfect to gain slightly more ran
 
 - `5K > 2D`, damage: 43
 
-[5H_punish_5K_roundstart.mp4](src/Normals/5H/5H_punish_5K_roundstart.mp4)
+https://youtu.be/whChz4fTxHw
 
 ##### Slightly past round start
 
@@ -59,7 +59,7 @@ For consistency due to 5K requiring to be frameperfect to gain slightly more ran
 
 > The bridal ender route is quite finicky due to range and requires 2S to work, yet, if the spacing is slightly further, bridal will be blocked, therefore for consistency is recommended to be skipped. 
 
-[5H_punish_5K_slightly_past_roundstart.mp4](src/Normals/5H/5H_punish_5K_slightly_past_roundstart.mp4)
+https://youtu.be/X4YjnKK4I98
 
 ##### Peak range
 
@@ -67,8 +67,7 @@ For consistency due to 5K requiring to be frameperfect to gain slightly more ran
 
 Further than this distance, 5K will whiff.
 
-[5H_punish_5K_slightly_past_roundstart_max_range.mp4](src/Normals/5H/5H_punish_5K_slightly_past_roundstart_max_range.mp4)
-
+https://youtu.be/9hPf2ot-Q9M
 
 #### 2K
 
@@ -83,7 +82,7 @@ Further than this distance, 5K will whiff.
 
 - `2K > 2D`, damage: 34
 
-[5H_punish_2K_roundstart.mp4](src/Normals/5H/5H_punish_2K_roundstart.mp4)
+https://youtu.be/Z0ruFdzXEtw
 
 ## 2D
 
@@ -125,7 +124,7 @@ After `IAD j.KS`, the `j.D` should be delayed "substantially".
 
 > [SG.H] > IAD j.K > j.S ~ j.D > 2H > 236P, 5P > c.S > j.7H
 
-[Punish_Eisen_Sturm_S_w_shotgun_j7H_oki_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_w_shotgun_j7H_oki_corner.mp4)
+https://youtu.be/G88-VtXpCzo
 
 ###### j.D sour berry setup
 
@@ -133,13 +132,13 @@ After `IAD j.KS`, the `j.D` should be delayed "substantially".
 
 > [SG.H] > IAD j.K > j.S ~ j.D > 2H > 236P > c.S > j.S > jc j.K ~ j.S ~ j.H ~ j.4Toss |> 6H > reposition yourself > [Charge Shotgun] > SG.S > Pull_Berry > [SG.H] > j.7D ~ j.Toss 
 
-[Punish_Eisen_Sturm_S_w_shotgun_wallsplat_jD_sourspot_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_w_shotgun_wallsplat_jD_sourspot_corner.mp4)
+https://youtu.be/-fST4z4idA8
 
 ###### Shotgun sour berry setup
 
 > [SG.H] > IAD j.K > j.S ~ j.D > 2H > 236P > c.S > j.S > jc j.K ~ j.S ~ j.H ~ j.4Toss |> 6H > reposition yourself > [Charge Shotgun] > SG.S > Pull_Berry > [SG.H] (no wallsplat)
 
-[Punish_Eisen_Sturm_S_w_shotgun_sourspot_shotgun_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_w_shotgun_sourspot_shotgun_corner.mp4)
+https://youtu.be/19EdpbFurlE
 
 ##### Midscreen
 
@@ -153,14 +152,13 @@ Remove shotgun and do a c.S route ...
 
 You can set yourself in shotgun stance and charge a shot to proceed with the Shotgun routes from above.
 
-[Punish_Eisen_Sturm_S_transition_to_shotgun_route_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_transition_to_shotgun_route_corner.mp4)
+https://youtu.be/BUMbiR4G_qc
 
 ###### j.7H oki
 
 > c.S > > j.S > jc j.K ~ j.S ~ j.H ~ j.D > 2H > 236P, 5P > c.S > j.7H
 
-
-[Punish_Eisen_Sturm_S_j7H_oki_corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_j7H_oki_corner.mp4)
+https://youtu.be/4z0-sYZBBJ8
 
 ##### Midscreen
 
@@ -168,13 +166,13 @@ You can set yourself in shotgun stance and charge a shot to proceed with the Sho
 
 > c.S > j.S > j.P > j.S > jc j.S > j.P > j.S > j.H ~ j.D > j.236P  
 
-[Punish_Eisen_Sturm_S_cS_midscreen.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_cS_midscreen.mp4)
+https://youtu.be/zbtFwPCDK50
 
 ###### 2P Rejump
 
 > j.K ~ j.S ~ j.H |> 2P > c.S > j.K > j.S > j.H > j.D > j.236P
 
-[Punish_Eisen_Sturm_S_2P_rejump_midscreen.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_S_2P_rejump_midscreen.mp4)
+https://youtu.be/EGPW9If5kVw
 
 ### H Eisen Sturm
 
@@ -184,7 +182,7 @@ You can set yourself in shotgun stance and charge a shot to proceed with the Sho
 
 > charge shotgun > SG.S > [SG.H] > charge shotgun > [SG.H]*2 > SG.S > 236P > [SG.H]x3 > SG.S > berry toss > charge shotgun > SG.S > [SG.H] > 6H > 236P
 
-[Punish_Eisen_Sturm_H_w_Shotgun_PointBlank_Corner.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_PointBlank_Corner.mp4)
+https://youtu.be/yyxkiylaU1k
 
 ##### Corner
 
@@ -209,7 +207,7 @@ Pull berry when Leo is reaching the top, it will autotime SG.H at the right heig
 
 > Pull berry ... > SG.D ~ 4Toss ~ SG.S > Bridal ~ SG.S > [SG.H] > IAD j.S > j.D > c.S > j.K > j.S > j.H > j.D > j.236P |> 2Toss 
 
-[Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish.mp4)
+https://youtu.be/XxWH0aKrfEA
 
 ###### SG.D SG Loops
 
@@ -219,7 +217,7 @@ Even more funky than the previous SG.D route, as this one requires Leo to be hit
 
 > Pull berry ... > SG.D ~ 4Toss ~ SG.S > Bridal, SG.S > Bridal > [SG.H]*whatever 
 
-[Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish_loops.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_midscreen_demolish_loops.mp4)
+https://youtu.be/e0TCEDLRJVs
 
 ###### c.S non CH antiair BnB
 
@@ -227,7 +225,7 @@ A lot easier and more consistent at the expense of 30 of damage +/- (comparing w
 
 > c.S > j.S > jc j.K ~ j.S ~ j.H ~ j.D ~ j.236P
 
-[Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_BnB.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_BnB.mp4)
+https://youtu.be/pj0FNA3cBBg
 
 ###### c.S non CH antiair
 
@@ -240,7 +238,7 @@ Refer to the [Eisen Sturm S c.S non CH antiair routing](#cs-non-ch-antiair).
 
 > c.S > j.K ~ j.S ~ j.H |> 2P > c.S > j.K > j.S > j.H > j.D > j.236P
 
-[Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_2p_rejump.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_w_Shotgun_cS_midscreen_2p_rejump.mp4)
+https://youtu.be/8ZyPhuiykgU
 
 #### wo Shotgun
 
@@ -248,11 +246,11 @@ Refer to the [Eisen Sturm S c.S non CH antiair routing](#cs-non-ch-antiair).
 
 > c.S > j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
 
-[Punish_Eisen_Sturm_H_cS_j7H_oki.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_cS_j7H_oki.mp4)
+https://youtu.be/EHb0ftlGy4c
 
 > c.S > j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
 
-[Punish_Eisen_Sturm_H_cS_j7H_oki_height_dependant.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_cS_j7H_oki_height_dependant.mp4)
+https://youtu.be/rA6QZfTBdNo
 
 > c.S > j.S ~ jc j.K ~ j.S ~ j.H ~ j.D |> 2H > 236P, 5P > c.S > j7H ~ j.toss  
 
@@ -262,7 +260,7 @@ Elphelt non counterhit c.S antiair BnB with berry pulled
 
 - 195/196 damage
 
-[Punish_Eisen_Sturm_H_cS_midscreen_BnB.mp4](src/Specials/Eisen_Sturm/Punish_Eisen_Sturm_H_cS_midscreen_BnB.mp4)
+https://youtu.be/0ubHLAITDvs
 
 
 ## Kaltes Gestöber Erst
