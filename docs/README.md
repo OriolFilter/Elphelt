@@ -1,13 +1,12 @@
 
 "My" Elphelt notes
 
-## Pending
-
-https://discord.com/channels/121387821977042945/121387821977042945/757209033173106718
 
 
 
-## Docs
+
+
+## (Some) Links of interest
 
 https://docs.google.com/document/d/1iRhMYPQrpOxBg_eIFleoVGo_3Jtfz2GuwNlk-wGSn0s/edit#heading=h.405vrmwne3gg
 
