@@ -5,15 +5,22 @@ site_url: https://github.com/OriolFilter/Elphelt
 repo_url: https://github.com/OriolFilter/Elphelt
 
 
-theme: readthedocs
+theme:
+#  name: readthedocs
+  name: material
+  features:
+    - navigation.indexes
 
 plugins:
-  - section-index
-#  - search
+#  - section-index
+#  - literate-nav
+  - search
+
 
 markdown_extensions:
   - toc:
-#      permalink: ""
+      separator: "-"
+      permalink: ""
 #      baselevel: 1
 #  - pymdownx.arithmatex
 #  - pymdownx.b64
