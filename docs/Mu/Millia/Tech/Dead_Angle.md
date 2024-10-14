@@ -48,20 +48,20 @@ If Elphelt is close enough, the dead angle will go over Elphelt.
 
 Although this setup looses to IB > Throw
 
-!!! success This setup beats
+!!! success "Wins:"
 
     - Throw
     - Mash
     - Dead angle
     - Wake up reversal
 
-!!! failure This very specific setup looses to
+!!! failure "Looses:"
 
     - IB Throw (very tight)
     - IB Blitz
     - IB reversal
 
-!!! warning end Others
+!!! warning end "Others:"
 
     - Blitz (not rejected)
 
@@ -81,7 +81,7 @@ On hitconfirm and with berry setup, you could route into stuff as the following:
 In this video, dead angle is pressed at frame 3 from blocking, nevertheless even pressing it at frame 1 it would still work.
 
 
-!!! example Elphelt Inputs used on the video
+!!! example "Concept scenarios video wakeup tool inputs"
 
     ```
     5*8,6*3,5*4,6*17,6K*3,5K*2,5*2,5S*5,5*2,5S*4,5*2,5S*4,5*3,5S*9,2S,2*7,2D*4,2*2,2D*14,1*2,4*4,4K*3,5K*16,5*37,2*3,3*2,6*3,6P,5P*5,5*6,6*2,5*4,6*4,3,2*3,2P*2,5P*2,5*22,6*3,5*3,6*4,3*7,3P*4,3*3,3P*3,3*2,3P*4,3*3,3P*4,3*2,3P*3,3*4,3P*5,3*5
