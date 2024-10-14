@@ -1,12 +1,6 @@
 # Dead Angle
 
-Can be low profiled by some moves, such as:
-
-Spaced + delayed 2D
-
-2H
-
-2P (point blank)
+![Millia_DA_Hitbox.png](src/Millia_DA_Hitbox.png)
 
 ## Spaced 2D
 
@@ -48,7 +42,7 @@ Cannot really do a 2D pickup.
 
 ## 2P Concept
 
-![Elphelt_2P_Under_DA.jpg](src/Elphelt_2P_Under_DA.jpg)
+![Elphelt_2P_Under_DA.jpg](src/Elphelt_2P_Under_Millia_DA.jpg)
 
 If Elphelt is close enough, the dead angle will go over Elphelt.
 
