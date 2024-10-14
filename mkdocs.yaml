@@ -10,6 +10,8 @@ theme:
   name: material
   features:
     - navigation.indexes
+    - content.code.copy
+    - content.code.annotate
 
 plugins:
 #  - section-index
@@ -21,6 +23,9 @@ markdown_extensions:
   - toc:
       separator: "-"
       permalink: ""
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 #      baselevel: 1
 #  - pymdownx.arithmatex
 #  - pymdownx.b64
