@@ -48,7 +48,7 @@ Cannot really do a 2D pickup.
 
 ## 2P Concept
 
-![Elphelt_2P_Under_DA.jpg](src%2FElphelt_2P_Under_DA.jpg)
+![Elphelt_2P_Under_DA.jpg](src/Elphelt_2P_Under_DA.jpg)
 
 If Elphelt is close enough, the dead angle will go over Elphelt.
 
