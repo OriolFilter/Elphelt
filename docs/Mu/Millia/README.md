@@ -46,7 +46,7 @@ but the opponent has to be mashing at the speed of a thousand suns to get caught
 
 ## 2D Pickups
 
-I have no idea when I did type this now why, need to recheck it.
+I have no idea when I did type this nor why, need to recheck it.
 
 > 2H>2D>j.PSPS>**SPS**HD \
 > Annoying to get proper knockdown
