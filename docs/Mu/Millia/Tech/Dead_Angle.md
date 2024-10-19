@@ -10,6 +10,8 @@ https://youtu.be/Gdp0unr75Ak
 
 ## 2H
 
+> Useful
+
 2H does go under (requires a bit of preemtiveness)
 
 On the corner we can cancel 2H(1) or 2H(2) > 2D > SG > with a tight runforward SG.P, then toss the berry.
@@ -41,6 +43,8 @@ Depending on the berry timing you might be able to do a berry hit-stun toss comb
 Cannot really do a 2D pickup.
 
 ## 2P Concept
+
+> Useless except if done the [very specific setup given](https://youtu.be/gRjloPkhlE4), even then it's not that good risk/reward/executionwise
 
 ![Elphelt_2P_Under_DA.jpg](src/Elphelt_2P_Under_Millia_DA.jpg)
 
@@ -90,8 +94,19 @@ In this video, dead angle is pressed at frame 3 from blocking, nevertheless even
 
 ## 2K
 
+> Useless
+
 The same as 2P, it "can go under if we are very close".
 
 Issue? It requires the stars to align for it to work, so at this point you would do the 2P one.
 
 https://youtu.be/Vaz1kUteMIQ
+
+
+## 6P
+
+> Useless
+
+You need to be as close of Millia as possible, and also need to _predict_ when Millia is going to press DA
+
+https://youtu.be/yzrZyKdcN2A
