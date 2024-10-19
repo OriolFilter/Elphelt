@@ -23,10 +23,10 @@ markdown_extensions:
   - toc:
       separator: "-"
       permalink: ""
+      baselevel: 2
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-#      baselevel: 1
 #  - pymdownx.arithmatex
 #  - pymdownx.b64
 #  - pymdownx.betterem
