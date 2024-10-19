@@ -1,4 +1,7 @@
 
+!!! info "Playlist"
+
+    https://www.youtube.com/playlist?list=PL6ZUzEhM_rdCVaELSwspeihUbMlwNIl3D
 
 Usually, after shooting berry with `SG.H` this will be the standard routes.
 
@@ -14,11 +17,11 @@ https://youtu.be/aYhBAsZxOVg
 
 ## Midweights
 
-
+TODO
 
 ## Heavyweights
 
-
+TODO
 
 # SG.S > Bridal
 
@@ -136,7 +139,6 @@ https://youtu.be/qtlTf2Qf6-Q
 ## Heavyweights
 
 https://youtu.be/kpCyXI7jw5g
-
 
 # SG.S > Pull
 
