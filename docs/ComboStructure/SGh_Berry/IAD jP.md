@@ -7,6 +7,10 @@
 
     This is mostly a concept and nothing else.
 
+!!! info "Playlist"
+
+    https://www.youtube.com/playlist?list=PL6ZUzEhM_rdAV_BcgvQ0sJ34EcyP4-OOi
+
 
 If we shoot the berry with SG.H, we are able to fit an IAD j.P.
 
