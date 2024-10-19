@@ -1,4 +1,7 @@
-# The idea about this doc, is checking when/if its better to "optimize" shit for extra damage
+
+# Standard routes
+
+The idea about this doc, is checking when/if its better to "optimize" shit for extra damage
 
 ## c.S > f.S > ? > Bridal
 
