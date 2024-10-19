@@ -120,7 +120,7 @@ https://youtu.be/1nzErNwCxew
 
 #### Bigger number of hits
 
-In the scenario you are no longer able/confident to get charged shot, you should pick one of the **standard routes**, the `c.S jc` routing being the most stable one (generally speaking).
+In the scenario you are no longer able/confident to get charged shot, you should pick one of the **standard routes**, the `c.S jc` routing being the most stable one.
 
 # Double SG.S
 
