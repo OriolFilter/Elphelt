@@ -11,17 +11,19 @@ Combo gravity as well of opponent height and weight take a big factor when doing
 
 Do SG.S > remove shotgun and proceed with a standard c.S > jc routing
 
+At mid to further distance, before doing the SG.S it's quite recommended to do a small 66 input (forward dash) to get closer to the opponent, makes stuff more consistent
+
 ## Lightweights
 
 https://youtu.be/aYhBAsZxOVg
 
 ## Midweights
 
-TODO
+Technically possible, won't list since either requires to shoot raw, or the combo to be close to null hits
 
 ## Heavyweights
 
-TODO
+Technically possible, won't list since either requires to shoot raw, or the combo to be close to null hits
 
 # SG.S > Bridal
 
@@ -49,11 +51,11 @@ https://youtu.be/QiNlAHzBAaY
 
 ### Midweights
 
-TODO
+https://youtu.be/eqztNJNahis
 
 ### Heavyweights
 
-TODO
+https://youtu.be/I_ieywPFZ6c
 
 ## Corner
 
@@ -74,15 +76,19 @@ https://youtu.be/j5Wu9-cotC4
 
 #### Midweights
 
-TODO
+https://youtu.be/KaEJjmyZ9Fk
 
 #### Heavyweights
 
-TODO
+!!! info "2P > c.S for height consistency"
+
+    For height consistency a 2P before the c.S can be added.
+
+https://youtu.be/ztxk9SRVl8s
 
 ### Bridal
 
-- corner bridal ender
+We can route into bridal and end the combo there, or do one bridal and go back to a `c.S jc` routing.
 
 #### Lightweights
 
@@ -90,11 +96,17 @@ https://youtu.be/zkWMcSLYDZs
 
 #### Midweights
 
-TODO
+https://youtu.be/4jKehEGQ_94
 
 #### Heavyweights
 
-TODO
+!!! warning "not reliable"
+
+    Requires the combo to have a very small ammount of hits or being done raw. Otherwise it will drop.
+
+    From 1 to 4 hits. 3 if we consider whatever > toss (not counting the shot itself or the explosion) > SG.H
+
+https://youtu.be/sejOMc1MsuE
 
 ### Lightweights
 
@@ -102,7 +114,7 @@ Unlike the other weights, on lightweights you are able to route into charged sho
 
 #### Low number of hits
 
-From 1 to 4. 3 if we consider whatever > toss (hit / +1) > SG.H
+From 1 to 4 hits. 3 if we consider whatever > toss (not counting the shot itself or the explosion) > SG.H
 
 https://youtu.be/1nzErNwCxew
 
