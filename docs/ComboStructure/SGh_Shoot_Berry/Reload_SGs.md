@@ -151,7 +151,3 @@ https://youtu.be/qtlTf2Qf6-Q
 ## Heavyweights
 
 https://youtu.be/kpCyXI7jw5g
-
-# SG.S > Pull
-
-TODO
