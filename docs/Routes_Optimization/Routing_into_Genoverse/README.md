@@ -8,6 +8,8 @@ Possible followups.
 
 6H (Bridal |> Pickup)
 
+6H (Bridal |> KD), if the opponent is quite high they might be abe to tech out, a workaround for this might be delaying the bridal.
+
 ### j.KSH |> (2P >) > (c.S) rejump
 
 `j.KSH` can be perform by doing:
