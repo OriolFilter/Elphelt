@@ -37,8 +37,6 @@ IB doesn't allow for "more routes", but gives us more margin to perform the "bas
 
 ### c.S BNB
 
-TODO
-
 #### c.S > jKSH > 2P > f.S > 5H > Genoverse
 
 !!! warning "6H followup annoying"
