@@ -137,7 +137,7 @@ https://youtu.be/Cl3xDco1yxw
 
 Leads to decent damage.
 
-https://youtu.be/yGXHtjWxbYY
+https://youtu.be/WDqKScyhga0
 
 #### j.D |> 2H > Shotgun
 
@@ -169,4 +169,4 @@ https://youtu.be/MxsWF7lhWmA
 
     If you want to do the `j.7D dl. Toss setup` it's a bit annoying to do due to the null pushback making you stay very close to the corner/wall/opponent with the shotgun stance.
 
-https://youtu.be/WDqKScyhga0
+https://youtu.be/yGXHtjWxbYY
