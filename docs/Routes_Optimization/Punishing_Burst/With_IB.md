@@ -33,11 +33,11 @@ IB doesn't allow for "more routes", but gives us more margin to perform the "bas
 
 # wo Shotgun
 
-## land c.S > etc
-
 ## Midscreen
 
 ### c.S BNB
+
+TODO
 
 #### c.S > jKSH > 2P > f.S > 5H > Genoverse
 
