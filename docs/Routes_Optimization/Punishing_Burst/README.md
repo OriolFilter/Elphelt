@@ -4,13 +4,11 @@
 
 ## Playlists:
 
-
-
-Decent/more normal one:
+## Decent/normal playlist:
 
 https://www.youtube.com/playlist?list=PL6ZUzEhM_rdCVQw1rpLLc2llAtn0NcIIz
 
-Funky one:
+## Funky burst punish playlist:
 
 https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDlUY8h21GmNM3ld1l4_bHj
 
