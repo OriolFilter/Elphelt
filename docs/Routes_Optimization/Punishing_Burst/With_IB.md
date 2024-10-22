@@ -35,9 +35,11 @@ IB doesn't allow for "more routes", but gives us more margin to perform the "bas
 
 ## land c.S > etc
 
-## c.S BNB
+## Midscreen
 
-### c.S > jKSH > 2P > f.S > 5H > Genoverse
+### c.S BNB
+
+#### c.S > jKSH > 2P > f.S > 5H > Genoverse
 
 !!! warning "6H followup annoying"
 
@@ -45,9 +47,9 @@ IB doesn't allow for "more routes", but gives us more margin to perform the "bas
 
 https://youtu.be/baGWOGQvVJo
 
-## j.S > etc
+### j.S > etc
 
-### j.S > jc > jKSH > 2P > f.S > 5H > Genoverse
+#### j.S > jc > jKSH > 2P > f.S > 5H > Genoverse
 
 !!! warning "6H followup annoying"
 
@@ -55,15 +57,15 @@ https://youtu.be/baGWOGQvVJo
 
 https://youtu.be/dzn4KbTmeho
 
-## AD > j.SPS |> c.S > etc
+### AD > j.SPS |> c.S > etc
 
 https://youtu.be/WAq4r_LHqIY
 
-## AD > j.SPH |> 2P > c.S
+### AD > j.SPH |> 2P > c.S
 
 https://youtu.be/LuXlCZ45CA8
 
-## j.pull > j.PS > jc > etc
+### j.pull > j.PS > jc > etc
 
 !!! warning "Joke routing"
 
@@ -75,7 +77,7 @@ https://youtu.be/LuXlCZ45CA8
 
 https://youtu.be/uRLgh96i8oM
 
-## j.pull > Airthrow
+### j.pull > Airthrow
 
 !!! warning "Joke routing"
 
