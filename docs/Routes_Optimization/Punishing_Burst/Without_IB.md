@@ -4,6 +4,8 @@
 
 ### f.S > 5H > bridal loops
 
+TODO
+
 # w Shotgun
 
 ## Midscreen
@@ -18,9 +20,13 @@
 
 Simple. BnB
 
+TODO
+
 ### SG.S remove stance > jc route
 
 Simple n2. BnB but a bit more complex
+
+TODO
 
 ### with Berry on hand
 
@@ -32,7 +38,11 @@ should we SG.S > toss or raw toss?
 
 ## AD j.SD |> c.S 
 
-Something like `j.SPH` would be possible etc, but the combo would be more prorated/less flexible.
+!!! info ""
+
+    IBing is not required, but helpful since you can airdash earlier/from lower height.
+
+    AD `j.SPH` is possible but the combo would be more prorated/less flexible.
 
 ### AD j.SD |> c.S
 
@@ -58,22 +68,4 @@ IB example
 
 https://youtu.be/Cl3xDco1yxw
 
-
-## AD j.SD |> 2H > Shotgun loops with pull extension
-
-IB not required, but, IBing is waaay more reasonable/consistent.
-
-Without IB you need to be higher, with IB you can be quite lower.
-
-Recommended to j.S as soon as possible after AD and substantially delay j.D.
-
-Nevertheless, this route is a showoff.
-
-### Sol recording
-
-https://youtu.be/6GlRtNnq7kQ
-
-### Chipp recording
-
-https://youtu.be/o9eVjH4w21g
 
