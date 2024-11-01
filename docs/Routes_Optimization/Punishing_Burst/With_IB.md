@@ -171,6 +171,10 @@ https://youtu.be/yOmS6IotFzs
 
     Kinda cool if you ask me
 
+!!! info " "
+
+    First j.KSH delay timings are quite specific, due to the low hitcount therefore low gravity, Sol can get out of range from j.H, so on this routing you focus on delaying j.K/S instead of the usual j.H.
+
 https://youtu.be/urTlVKbcilY
 
 ### j.D
