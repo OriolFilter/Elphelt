@@ -67,16 +67,6 @@ https://youtu.be/dzn4KbTmeho
 
 ### AD
 
-#### AD > j.SD |> c.S > jKSHD/SPSHD > 2H > Bridal
-
-j.KSHD
-
-https://youtu.be/aNUb_VWtN74
-
-j.SPSHD
-
-https://youtu.be/J7ziQoPby7M
-
 #### AD > j.SPS |> c.S > etc
 
 https://youtu.be/WAq4r_LHqIY
@@ -151,15 +141,21 @@ https://youtu.be/B_p4uIhuaE8
 
 https://youtu.be/yZc1SVOOqN8
 
-#### AD > jSD > cS > jc > j.KSH > 2H > Bridal
+#### AD > j.SD |> c.S > j.KSH |> 2H > Bridal
 
 https://youtu.be/SGqXfXKiEd8
 
-#### AD > jSD > cS > jc > j.KSH > 2H > Pull
+#### AD > j.SD |> c.S > j.SPSHD |> 2H > Bridal
+
+j.SPSHD
+
+https://youtu.be/J7ziQoPby7M
+
+#### AD > j.SD |> c.S > j.KSHD |> 2H > Pull
 
 https://youtu.be/cuIsy6PXceU
 
-#### AD > jSD > j.Pull > cS
+#### AD > j.SD > j.Pull > cS
 
 !!! warning "Showoff route"
 
