@@ -35,9 +35,19 @@ IB doesn't allow for "more routes", but gives us more margin to perform the "bas
 
 ## Midscreen
 
-### c.S BNB
+### c.S
 
-#### c.S > jKSH > 2P > f.S > 5H > Genoverse
+#### c.S > j.SPS > jc j.SPSHD
+
+https://youtu.be/C7hhNXT6kPc
+
+#### c.S > j.SPS > jc j.SPSHD > 2H > Bridal
+
+If close enough to the corner/managed opponent's height correctly, you will be able to pick up j.D with 2H.
+
+https://youtu.be/MCIsWS_HUao
+
+#### c.S > j.KSH > 2P > f.S > 5H > Genoverse
 
 !!! warning "6H followup annoying"
 
@@ -47,7 +57,7 @@ https://youtu.be/baGWOGQvVJo
 
 ### j.S > etc
 
-#### j.S > jc > jKSH > 2P > f.S > 5H > Genoverse
+#### j.S > jc > j.KSH > 2P > f.S > 5H > Genoverse
 
 !!! warning "6H followup annoying"
 
@@ -55,11 +65,23 @@ https://youtu.be/baGWOGQvVJo
 
 https://youtu.be/dzn4KbTmeho
 
-### AD > j.SPS |> c.S > etc
+### AD
+
+#### AD > j.SD |> c.S > jKSHD/SPSHD > 2H > Bridal
+
+j.KSHD
+
+https://youtu.be/aNUb_VWtN74
+
+j.SPSHD
+
+https://youtu.be/J7ziQoPby7M
+
+#### AD > j.SPS |> c.S > etc
 
 https://youtu.be/WAq4r_LHqIY
 
-### AD > j.SPH |> 2P > c.S
+#### AD > j.SPH |> 2P > c.S
 
 https://youtu.be/LuXlCZ45CA8
 
@@ -117,11 +139,39 @@ https://youtu.be/wxJl6w11SS8
 
 https://youtu.be/1BKvzToxk8Y
 
-### AD j.SD |> c.S
+### AD
 
-Something like `j.SPH` would be possible etc, but why would you do that.
+#### AD j.KSD > j.Pull |> c.S 
 
-https://youtu.be/Cl3xDco1yxw
+Note the delays between the buttons to increase opponent's height.
+
+https://youtu.be/B_p4uIhuaE8
+
+#### AD j.SD |> 2H > Shotgun Loops > Pull extension
+
+https://youtu.be/yZc1SVOOqN8
+
+#### AD > jSD > cS > jc > j.KSH > 2H > Bridal
+
+https://youtu.be/SGqXfXKiEd8
+
+#### AD > jSD > cS > jc > j.KSH > 2H > Pull
+
+https://youtu.be/cuIsy6PXceU
+
+#### AD > jSD > j.Pull > cS
+
+!!! warning "Showoff route"
+
+https://youtu.be/yOmS6IotFzs
+
+#### AD j.SD |> [c.S > jc > j.KSH dl. j.D |>] x2 > 2H > Bridal
+
+!!! warning "Showoff route"
+
+    Kinda cool if you ask me
+
+https://youtu.be/urTlVKbcilY
 
 ### j.D
 
