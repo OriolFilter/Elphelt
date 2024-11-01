@@ -1,12 +1,11 @@
 
+This mainly will contain:
 
-# Punishing Burst
+- Bad routes
+- Tested routes for different damage
+- Harder routes that lead to no relevant reward compared to the simpler ones taking into account the difficulties/limitations of the routing.
+- Showoff routes (cool routes that don't give better reward than the simpler ones) 
 
-## Playlists:
-
-## Decent/normal playlist:
-
-https://www.youtube.com/playlist?list=PL6ZUzEhM_rdCVQw1rpLLc2llAtn0NcIIz
 
 ## General Funky playlist:
 
