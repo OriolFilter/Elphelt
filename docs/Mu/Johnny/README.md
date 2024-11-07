@@ -36,4 +36,8 @@ Kidiot words:
 > I (don't) really care too much if you're just sitting there sniping against me while I have close to full health, which happens quite often
 > The risk reward really is not very good for you there, I think
 
-## 
+## Links
+
+### Lightfat.docx
+
+https://docs.google.com/document/d/1-V4ZL3FIAj159qioV5mSk3-HDU1FlndSnWrB0pFpDAE/edit?usp=sharing
