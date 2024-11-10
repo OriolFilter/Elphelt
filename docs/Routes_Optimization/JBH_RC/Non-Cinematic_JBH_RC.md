@@ -32,7 +32,7 @@ https://youtu.be/Z8UB6pKCM6A
 
 https://youtu.be/z3eRdnLj9bI
 
-### SGH Loops
+### SG.H Loops
 
 When the opponent is cornered we can do fastfall into `[SG.H]` loops, we can do 3 charged shotguns before going to pull berry.
 
@@ -40,9 +40,13 @@ When the opponent is cornered we can do fastfall into `[SG.H]` loops, we can do 
 
 https://youtu.be/O7o5Z37AvBk
 
+### CH JBH into SG.H loops
+
 > Example of killing Chipp from 50% RISC
 
-!!! warning "mid (chances to occur are quite low)"
+When JBH(2) does a CH, it the opponent will receive an unteachable hard knockdown, meaning that we have longer/more time to charge shotgun, making this situation far easier.
+
+https://youtu.be/80QR8UUg5Fw
 
 ## Cornered
 
