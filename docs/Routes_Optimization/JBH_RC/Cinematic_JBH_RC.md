@@ -42,4 +42,4 @@ We can also end the combo at 6H Shotgun stance and charge shotgun to catch the o
 
 https://youtu.be/gZ4Z8Aor2Ps
 
-!!! error "Can't recommend"
+!!! failure "Can't recommend"

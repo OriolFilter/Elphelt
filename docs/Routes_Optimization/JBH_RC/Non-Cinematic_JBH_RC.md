@@ -67,7 +67,7 @@ https://youtu.be/z3eRdnLj9bI
 
 ### Crossunder concept
 
-!!! warning "bad"
+!!! failure "bad"
 
 #### Lightweights
 
@@ -101,4 +101,4 @@ Besides all of this one can just do j.Bridal fastfall > c.S jc etc which is much
 
 https://youtu.be/xWUAk_MtHiU
 
-!!! warning "bad"
+!!! failure "bad"
