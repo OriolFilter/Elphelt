@@ -1,5 +1,7 @@
 # Fullscreen Sniper CH
 
+[Playlist](https://www.youtube.com/playlist?list=PL6ZUzEhM_rdAOhOI7gtr0RY9XiEYmAVoN)
+
 ## Kire Pull Berry 
 
 ### Midscreen
