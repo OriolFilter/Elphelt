@@ -4,13 +4,15 @@
 
 ## Spaced 2D
 
+!!! success "Useful"
+
 Spaced and delayed 2D can go under Millia's dead angle and hit her on the recovery frames, if we have a berry set up we can almost kill Millia, if it's the second time she's been hit, she's definitely going to die.
 
 https://youtu.be/Gdp0unr75Ak
 
 ## 2H
 
-> Useful
+!!! success "Useful"
 
 2H does go under (requires a bit of preemtiveness)
 
@@ -44,7 +46,9 @@ Cannot really do a 2D pickup.
 
 ## 2P Concept
 
-> Useless except if done the [very specific setup given](https://youtu.be/gRjloPkhlE4), even then it's not that good risk/reward/executionwise
+!!! danger "Useless"
+
+    Useless except if done the [very specific setup given](https://youtu.be/gRjloPkhlE4), even then it's not that good risk/reward/executionwise
 
 ![Elphelt_2P_Under_DA.jpg](src/Elphelt_2P_Under_Millia_DA.jpg)
 
@@ -94,7 +98,7 @@ In this video, dead angle is pressed at frame 3 from blocking, nevertheless even
 
 ## 2K
 
-> Useless
+!!! danger "Useless"
 
 The same as 2P, it "can go under if we are very close".
 
@@ -105,8 +109,8 @@ https://youtu.be/Vaz1kUteMIQ
 
 ## 6P
 
-> Useless
+!!! warniing "callout"
 
-You need to be as close of Millia as possible, and also need to _predict_ when Millia is going to press DA
+You need to _predict_ when Millia is going to press DA
 
 https://youtu.be/yzrZyKdcN2A
