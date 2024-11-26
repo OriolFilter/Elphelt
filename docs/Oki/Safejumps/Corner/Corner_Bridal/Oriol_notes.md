@@ -19,19 +19,14 @@ Once the opponent blocks j.D YRC standing, it opens for fuzzy setups.
 
 ### Standing opponent
 
+```
 IAD j.Toss |> 2K
 
 IAD j.S > j.Toss |> 2K
 
-~~IAD j.S > j.Toss |> j9.S~~ (fshiki won't connect/work)
-
 IAD j.K > j.S > j.Toss |> 2K     # High High Mid Low
 
 IAD j.K > j.S > j.H     # High High High -> if any of them connects, on landing we can c.S > Toss for combo
-
-~~IAD j.K > j.S > j.Toss |> j9.S~~ (fshiki won't connect/work)
-
-~~IAD j.K > j.S > j.Toss |> j9.P > YRC~~ (cannot combo)
 
 IAD j.K > j.S > j.Toss |> 2K   # High High Mid Low
 
@@ -39,9 +34,18 @@ IAD j.K > j.S > j.Toss |> j9.S (fshiki) > YRC    # High High Mid High -> Doesn't
 
 IAD j.K > j.S > j.Toss |> j9.S (fshiki) > YRC    # High High Mid High -> Doesn't lead to anything (**unless we YRC**)
 
-
 IAD j.K > j.S > j.Toss |> j9.S (fshiki) > j.H   # High High Mid High
+```
 
+Don't work:
+
+```
+IAD j.S > j.Toss |> j9.S (fshiki won't connect/work)
+
+IAD j.K > j.S > j.Toss |> j9.S (fshiki won't connect/work)
+
+IAD j.K > j.S > j.Toss |> j9.P > YRC (cannot combo)
+```
 
 
 !!! note
