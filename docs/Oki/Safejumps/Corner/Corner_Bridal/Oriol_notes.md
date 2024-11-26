@@ -44,7 +44,7 @@ IAD j.S > j.Toss |> j9.S (fshiki won't connect/work)
 
 IAD j.K > j.S > j.Toss |> j9.S (fshiki won't connect/work)
 
-IAD j.K > j.S > j.Toss |> j9.P > YRC (cannot combo)
+IAD j.K > j.S > j.Toss |> j9.P > YRC (cannot combo into berry explosion)
 ```
 
 
