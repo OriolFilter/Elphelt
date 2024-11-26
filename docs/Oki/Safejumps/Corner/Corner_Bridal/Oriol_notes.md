@@ -20,9 +20,9 @@ Once the opponent blocks j.D YRC standing, it opens for fuzzy setups.
 ### Standing opponent
 
 ```
-IAD j.Toss |> 2K
+IAD j.Toss |> 2K # Mid Low
 
-IAD j.S > j.Toss |> 2K
+IAD j.S > j.Toss |> 2K # High Low
 
 IAD j.K > j.S > j.Toss |> 2K     # High High Mid Low
 
