@@ -1,6 +1,8 @@
 
 ## Combos
 
+### 6H CH
+
 Standard 6H CH Kyouse routing won't work.
 
 It can work if you do superjump IAD instead.
@@ -9,6 +11,13 @@ On hitbox with Up SOCD cleaning you can do `[Down] > [Right] + [Up] > ]Down[ > ]
 
 https://fireshare.fihome.xyz/w/4142319aa92137100be480bb0982e0ac
 
+### Don't
+
+Don't do 5k > c.S > f.S > 2D, it's prone to missing if one don't have enough dash momentum and hit pointblank
+
+Jump, 6P will kill you.
+
+If you get 6Pd, mash out of it, it's hard to combo without a CH.
 
 ## Neutral
 

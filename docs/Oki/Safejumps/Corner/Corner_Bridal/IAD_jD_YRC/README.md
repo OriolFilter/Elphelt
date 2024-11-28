@@ -1,6 +1,6 @@
 # j.D YRC
 
-Solves the issue that [#iad-pull-js](IAD_jPull_jS.md) has, it being "how to deal vs blitz".
+Solves the issue that [#iad-pull-js](../IAD_jPull_jS.md) has, it being "how to deal vs blitz".
 
 Why is j.D YRC "safe" from blitz? YRC has 2 invulnerable frames, since j.D YRC is a projectile, it will hit opponent blitz, and if timed correctly, you won't be rejected because you will be in one of those 2 invulnerable frames from YRC.
 
