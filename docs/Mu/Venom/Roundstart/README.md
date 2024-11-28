@@ -20,6 +20,8 @@ Used mostly to contest IB/Block > 2H.
 
 If you press 6H after blocking 2S you get a CH.
 
+https://youtu.be/uhsIah4Kpy4
+
 ## 2S > Stinger Aim
 
 (ball that shoots at you)
@@ -30,9 +32,13 @@ We can IAD j.KSH etc, even if we got CH by 2S.
 
 It is also possible to do IAD j.KS dl j.D |> f.S 5Hx5 
 
+https://youtu.be/E_BOFS5YWiQ
+
 ### Stinger Aim H
 
 If we **IB** 2S, we can 2H under the ball, and get a CH with 2H(2), can either continue with berry pull > etc, or a simple f.S 5H Bridal
+
+https://youtu.be/DodfJYKURHM
 
 ## fS
 
