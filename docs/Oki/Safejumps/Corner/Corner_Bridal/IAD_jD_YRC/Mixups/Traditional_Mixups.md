@@ -36,6 +36,14 @@ We can try with 6P > SG.D
 
 https://youtu.be/FXtZ3dlgplo
 
+## jD YRC blocked 6P SGP SGD
+
+!!! danger "If 6P gets blocked it can be mashed, then mashed"
+
+We go for stagger pressure or command throw.
+
+https://youtu.be/U5C-bPoPn84
+
 ## jD YRC 6P SGP...
 
 We can do SG.P while holding 1, so it's easier for us to react to burst.
