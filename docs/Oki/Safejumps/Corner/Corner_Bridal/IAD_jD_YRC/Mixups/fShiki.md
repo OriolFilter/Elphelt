@@ -1,5 +1,8 @@
 # fShiki
 
+Playlist:
+
+https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDNKIPzDUaO41D-yLQhziZe
 
 TODO (sorting/doing all characters)
 
@@ -14,3 +17,20 @@ TODO (sorting/doing all characters)
 | Raven                                  | [ ]                                  | [ ]                                | [ ]                             | Doesn't work             |
 | May                                    | [x]                                  | [ ]                                | [ ]                             | More annoying than usual |
 | Jam                                    | [ ]                                  | [ ]                                | [ ]                             | TODO                     |
+
+
+### quick notes
+
+will eventually take a look at what's there.
+
+```text
+may feels a lot tighter than other chars.
+
+millia also annoying.
+
+Faust doesn't work (too low, no j.P/j.S/j.H)
+
+venom j.S > j.H won't work on blockstring, but if j.S hits there is no need to RC
+
+axl j.S > j.H won't work on blockstring, but if j.S hits there is no need to RC
+```
