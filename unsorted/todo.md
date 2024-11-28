@@ -65,3 +65,7 @@ pot https://youtu.be/PA_6V4n_IPc?t=94
 meaty toss backdash (bait dp/blitz/button)
 
 https://youtu.be/ESZfPbKBAxM
+
+toss backdash oki 2D/6P
+
+2h j7.h  https://x.com/boomersaybell/status/1546531637533483009
