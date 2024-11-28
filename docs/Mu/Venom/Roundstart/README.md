@@ -1,11 +1,11 @@
 
 IDK how to fill this up
 
-## Don'ts
+# Don'ts
 
 Don't jump forward, you big dumdum, you have no meter to FD venom 6P
 
-## 2S
+# 2S
 
 IB it, block it, backdash it, don't jump it.
 
@@ -16,4 +16,42 @@ You as well don't have meter to threaten properly with sniper, so again, venom i
 
 ## 2S > 2D
 
-If you 
+Used mostly to contest IB/Block > 2H.
+
+If you press 6H after blocking 2S you get a CH.
+
+## 2S > Stinger Aim
+
+(ball that shoots at you)
+
+### Stinger Aim S
+
+We can IAD j.KSH etc, even if we got CH by 2S.
+
+It is also possible to do IAD j.KS dl j.D |> f.S 5Hx5 
+
+### Stinger Aim H
+
+If we **IB** 2S, we can 2H under the ball, and get a CH with 2H(2), can either continue with berry pull > etc, or a simple f.S 5H Bridal
+
+## fS
+
+2H goes under.
+
+2S trades.
+
+f.S/5h looses.
+
+5K Wins
+
+6P looses unless venom is 1f late which.
+
+Microwalk 5P trades or looses, depends on if you have been late or not (very hard for no reward).
+
+## Carcass Raid
+
+Commonly used to counter your roundstart 2H.
+
+f.S in roundstart leads to CH -> IAD combo.
+
+2S/5H can be used too, yet less reward.
