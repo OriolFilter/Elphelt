@@ -1,5 +1,3 @@
-# fShiki
-
 Playlist:
 
 https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDNKIPzDUaO41D-yLQhziZe
@@ -48,11 +46,11 @@ https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDNKIPzDUaO41D-yLQhziZe
 
 !!! info "If 9j.S combos into j.H, you can autopilot any standing hit into that routing without need of confirming."
 
-## Alternatives
+# Alternatives
 
 Some characters feel quite more limited than others, so there is a couple suggestions per character.
 
-### From j.KS j.Toss |> Land > RC > fShiki
+## From j.KS j.Toss |> Land > RC > fShiki
 
 | Character                               | Notes                                                                                                                                                                                       |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +63,7 @@ Some characters feel quite more limited than others, so there is a couple sugges
 | [Answer](https://youtu.be/aJm-9-qI22c)  | Much less consistent in comparison to the other characters. Due to being slim, you need to delay j.Toss and the RC on landing so the berry is at a lower height by the time we open Answer. |
 
 
-### Other notes
+## Other notes
 
 Todo/Toexplore
 
