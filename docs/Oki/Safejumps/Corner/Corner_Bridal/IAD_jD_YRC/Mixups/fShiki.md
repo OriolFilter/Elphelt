@@ -41,7 +41,7 @@ TODO (sorting/doing all characters)
 
 
 
-!! warning "IAD j.KS > jToss > Land > RC"
+!!! warning "IAD j.KS > jToss > Land > RC"
 
     When going for IAD j.KS > jToss > Land > RC. It's important to slightly delay either tossing (better), or RC, so the berry its located at a lower height. This helps with consistency on characters with smaller hurtbox (normally/during hitstun), such as Millia or Answer.
  
