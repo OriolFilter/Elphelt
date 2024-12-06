@@ -4,11 +4,9 @@ Playlist:
 
 https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDNKIPzDUaO41D-yLQhziZe
 
-TODO (sorting/doing all characters)
-
 | Character                                   | f-shiki j.Toss > 9j.S RRC (75% meter) | f-shiki j.Toss > 9j.H RRC (75% meter) | does j9.S > j.H fshiki?               | f-shiki does 9j.S combo into j.H | Notes                                                                                                                                                                      |
 |---------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Sol](https://youtu.be/9bI1-3oOvnc)         | [x]                                   | [ ]                                   | [x]                                   | [ ]                              |                                                                                                                                                                            |
+| [Sol](https://youtu.be/9bI1-3oOvnc)         | :heavy_check_mark:                    | [ ]                                   | [x]                                   | [ ]                              |                                                                                                                                                                            |
 | [Ky](https://youtu.be/Cs9ns3ToIsQ)          | [x]                                   | [x]  **8**j.H                         | [ ]                                   | [ ]                              |                                                                                                                                                                            |
 | [May](https://youtu.be/mw7pALOf0Bw)         | [x]                                   | [ ]                                   | [ ]                                   | [ ]                              | May feels a lot tighter than other chars. Very limited options, even with meter. Due to her low height I don't think it's possible to do `j.Toss > Land > RC > j.S/H`.     |
 | [Millia](https://youtu.be/wcl29Qe39bA)      | [x]                                   | [ ]                                   | [ ]                                   | [ ]                              |                                                                                                                                                                            |
@@ -35,6 +33,7 @@ TODO (sorting/doing all characters)
 | [Answer](https://youtu.be/XhcDiEEr_Dw)      | [x]                                   | [ ]                                   | [ ]                                   | [ ]                              | We can do `j.Toss > Land > dl. RC > > 9j.S` or `j.Toss > Land > dl. RC > 8/9j.H` and will combo into Berry on fshiki. Note that we first gotta land then slight delayed RC |
 
 
+
 [//]: # (!!! info "Why testing `Autopilot j.K > j.S fshiki`?")
 [//]: # ()
 [//]: # (    In case some character has some weird hitstun animation or something idk.)
@@ -53,6 +52,14 @@ TODO (sorting/doing all characters)
     Can technically be used to mix timings, but it's substantially slower therefore more reactable.
 
 !!! info "If 9j.S combos into j.H, you can autopilot any standing hit into that routing without need of confirming."
+
+## Alternatives
+
+Some characters feel quite more limited than others, so there is a couple suggestions per character.
+
+May
+
+
 
 ### Other notes
 
