@@ -67,3 +67,9 @@ https://youtu.be/QmZ-7TxyQmI?t=5807
 ### Vev
 
 how is the
+
+### LS
+
+Runup jump toss (meaty berry toss) > 5K
+
+https://youtu.be/xPDaxCEDpMU
