@@ -10,7 +10,6 @@
 # SG.D pull > SG.S (standard routing) 
 
 
-
 ## SG.S
 
 ### Punish with IB SG.Hx2 Toss (very tight)
