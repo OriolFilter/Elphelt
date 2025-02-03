@@ -1,6 +1,12 @@
 
-
 # Punishing Burst
+
+
+!!! note  "Pick a solid starter"
+
+    Using the starter with less initial proration leads to more damage even if two routes look alike.
+
+    During a match you can use "whatever" since you want to ensure getting a punish, even if it deals less damage, yet, on certain situations you have more margin to decide what you will start the combo with.
 
 ## Playlists:
 
