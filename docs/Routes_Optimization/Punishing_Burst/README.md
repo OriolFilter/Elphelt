@@ -26,4 +26,4 @@ https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDlUY8h21GmNM3ld1l4_bHj
 
 ### From SG.D Pull SG.S
 
-https://www.youtube.com/playlist?list=PL6ZUzEhM_rdDlZIOz5a_RyqO2hSBvbnyz
+https://youtube.com/playlist?list=PL6ZUzEhM_rdDlZIOz5a_RyqO2hSBvbnyz&si=RV991LYWvD5FxZQ6
