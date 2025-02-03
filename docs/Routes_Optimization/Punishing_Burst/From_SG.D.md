@@ -82,3 +82,17 @@ https://youtu.be/yrltlWQJNtI
 Very simple, better reward/damage than with SG.S
 
 https://youtu.be/J4snkqp2_jo
+
+## SG.S (2)
+
+This is quite tricky.
+
+By default, if we do `SG.S > Block`, we will block the burst, and afterwards the berry explosion, which will make it a **true blockstring**, which leads to us not being able to punish the burst.
+
+Rolling through wouldn't work on that scenario, since we would roll through burst, and get the explosion while rolling.
+
+It could be arranged by delaying prior buttons so the berry timer is adjusted/closer to the second SG.S.
+
+This would allow for some margin, either to roll through the burst and the berry, or to block both and follow up/punish with a 66 sg.h or sg.p.
+
+Nevertheless, I won't cover that.
