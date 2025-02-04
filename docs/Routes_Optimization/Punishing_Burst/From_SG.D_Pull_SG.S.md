@@ -9,8 +9,11 @@
 
 # SG.D pull > SG.S (standard routing) 
 
-
 ## SG.S
+
+By IBing the burst, shotgun can get charged.
+
+For the first shot it doesn't require to micro-walk if we do an SG.D right in the corner. 
 
 ### Punish with IB SG.Hx2 Toss (very tight)
 
@@ -29,8 +32,6 @@ https://youtu.be/OHl5YKR8F2o
 ### Punish with 66 SG.H x2 SG.P Toss
 
 https://youtu.be/NfHF-iJgX14
-
-
 
 ### Punish with 66 SG.H cS 5h Toss
 
