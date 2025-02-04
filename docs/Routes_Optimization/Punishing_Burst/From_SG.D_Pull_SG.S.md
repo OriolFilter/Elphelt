@@ -28,7 +28,9 @@ https://youtu.be/OHl5YKR8F2o
 
 ### Punish with 66 SG.H x2 SG.P Toss
 
-https://youtu.be/k-97qEeuzSo
+https://youtu.be/NfHF-iJgX14
+
+
 
 ### Punish with 66 SG.H cS 5h Toss
 
