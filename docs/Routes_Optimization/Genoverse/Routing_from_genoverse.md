@@ -1,6 +1,6 @@
 # Followups from Genoverse
 
-Playlist: https://youtu.be/N006I0x03wM
+Playlist: https://www.youtube.com/watch?v=N006I0x03wM&list=PL6ZUzEhM_rdB19y3nJJoIosxHa8z9lsVm
 
 ## 6H
 
