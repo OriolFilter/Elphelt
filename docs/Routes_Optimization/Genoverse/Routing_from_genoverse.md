@@ -106,7 +106,7 @@ Spacing, hit count, height/weight makes you choose between IAD and **sj.**IAD, a
 
 But other than that it's a bit of trial and error/feeling.
 
-## Pickups
+## Pickups from 2P c.S
 
 - [5H Bridal](https://youtu.be/4ngjEWlQIYw)
 
