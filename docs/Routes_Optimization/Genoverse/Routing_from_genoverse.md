@@ -10,7 +10,7 @@ Playlist: https://youtu.be/N006I0x03wM
 
 You can cancel 6H into berry or shotgun.
 
-No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h--bridal--pickup) for reference).
+No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-bridal-pickup) for reference).
 
 !!! Note "Bridal is height dependant"
 
