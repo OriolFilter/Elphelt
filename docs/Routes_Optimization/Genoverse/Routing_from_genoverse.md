@@ -70,7 +70,11 @@ After j.S hits and j.H are burstsafe.
 [Heavyweights](https://youtu.be/2LetmAthhIk)
 
 
-!!! Warning "Delay j.K"
+!!! Warning "Regarding burst-safe"
+
+    While in the air (after j.K) hold crouchback, in case the opponent burst and you don't react to it, you will be crouching, since if Elphelt stands it's possible to get hit by it. Still, on landing you will be doing 2P so you aren't derrailing your inputs. 
+
+    ---
 
     To create a height difference between Elphelt and the opponentl, do j.K when she's close to start falling.
 
