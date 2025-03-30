@@ -1,10 +1,8 @@
-# Followups from Genoverse
-
 Playlist: https://www.youtube.com/watch?v=N006I0x03wM&list=PL6ZUzEhM_rdB19y3nJJoIosxHa8z9lsVm
 
-## 6H
+# 6H
 
-### 6H > Bridal (ender)
+## 6H > Bridal (ender)
 
 + Very simple
 
@@ -23,7 +21,7 @@ No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-
     If you want to do 6H with dash momentum, if the combo is too long the opponent might be able to tech before the 6H hits them.
 
 
-### 6H > Bridal > Pickup
+## 6H > Bridal > Pickup
 
 - Can be a bit tricky.
 
@@ -45,7 +43,7 @@ No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-
 [Heavyweights](https://youtu.be/N006I0x03wM)
 
 
-### 6H > Genoverse
+## 6H > Genoverse
 
 - Finisher/gutscrush.
 
@@ -55,9 +53,9 @@ When they burst the 6H, Genoverse will whiff (on certain situations can still ca
 
 https://youtu.be/0PI-_NQTF1M
 
-## j.KSH |> pickup
+# j.KSH |> pickup
 
-### 66 j.9KSH
+## 66 j.9KSH
 
 The j.K is not burstsafe.
 
@@ -86,7 +84,7 @@ After j.S hits and j.H are burstsafe.
 
     [Potemkin](https://youtu.be/jP4RuiPRSm4)
 
-### IAD / sj.IAD > j.KSH
+## IAD / sj.IAD > j.KSH
 
 !!! Note "j.KSH or j.PSH?"
 
@@ -108,7 +106,7 @@ Spacing, hit count, height/weight makes you choose between IAD and **sj.**IAD, a
 
 But other than that it's a bit of trial and error/feeling.
 
-### Pickups
+## Pickups
 
 - [5H Bridal](https://youtu.be/4ngjEWlQIYw)
 
@@ -120,7 +118,7 @@ But other than that it's a bit of trial and error/feeling.
 
 - [Gutscrush version (finicky)](https://youtu.be/lNDwi1gy1A8)
 
-#### Roundstart 5H > Genoverse
+### Roundstart 5H > Genoverse
 
 On this specific scenario sj.IAD is required for Lightweights and Midweights.
 
@@ -130,7 +128,7 @@ On this specific scenario sj.IAD is required for Lightweights and Midweights.
 
 [Heavyweights](https://youtu.be/k_vD9HjK1UU)
 
-#### High distance
+### High distance
 
 This route can be used when there is a substantial distance.
 
@@ -144,6 +142,7 @@ Notes specifically regarding the corner.
 
 ## IAD j.SHD > c.S 
 
+...
 
 ## Gutscrush
 
