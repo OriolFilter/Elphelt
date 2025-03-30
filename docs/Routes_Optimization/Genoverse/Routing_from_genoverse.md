@@ -104,12 +104,15 @@ Spacing, hit count, height/weight makes you choose between IAD and **sj.**IAD, a
 
 But other than that it's a bit of trial and error/feeling.
 
+#### Roundstart 5H > Genoverse
+
+On this specific scenario sj.IAD is required for Lightweights and Midweights.
+
 [Lightweights](https://youtu.be/X7ppSw37spE)
 
 [Midweights](https://youtu.be/9RA0_DAjDNM)
 
 [Heavyweights](https://youtu.be/k_vD9HjK1UU)
-
 
 #### High distance
 
