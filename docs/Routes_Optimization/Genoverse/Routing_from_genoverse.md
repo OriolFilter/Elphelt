@@ -108,6 +108,18 @@ Spacing, hit count, height/weight makes you choose between IAD and **sj.**IAD, a
 
 But other than that it's a bit of trial and error/feeling.
 
+### Pickups
+
+- [5H Bridal](https://youtu.be/4ngjEWlQIYw)
+
+- [j.SPSHD](https://youtu.be/frkjq1WfKiw)
+
+- [8j.SD > j.Pull > j.Toss](https://youtu.be/71B7Ydprg9A)
+
+- [8j.SD > j.Pull > AD j.Toss](https://youtu.be/OIse6yLGr90)
+
+- [Gutscrush version (finicky)](https://youtu.be/lNDwi1gy1A8)
+
 #### Roundstart 5H > Genoverse
 
 On this specific scenario sj.IAD is required for Lightweights and Midweights.
