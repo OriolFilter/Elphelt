@@ -4,9 +4,9 @@ Playlist: https://www.youtube.com/watch?v=N006I0x03wM&list=PL6ZUzEhM_rdB19y3nJJo
 
 ## 6H > Bridal (ender)
 
-+ Very simple
+!!! Success "Very simple"
 
-You can cancel 6H into berry or shotgun.
+    You can cancel 6H into berry or shotgun.
 
 No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-bridal-pickup) for reference).
 
@@ -20,10 +20,9 @@ No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-
 
     If you want to do 6H with dash momentum, if the combo is too long the opponent might be able to tech before the 6H hits them.
 
-
 ## 6H > Bridal > Pickup
 
-- Can be a bit tricky.
+!!! Warning "Can be a bit tricky"
 
 !!! Note "Bridal is height dependant"
 
@@ -45,11 +44,11 @@ No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-
 
 ## 6H > Genoverse
 
-- Finisher/gutscrush.
+!!! Success "Burst-safe Finisher"
 
-If the 6H is spaced and the opponent is high, it will be burst-safe.
+    If the 6H is spaced and the opponent is high, it will be burst-safe.
 
-When they burst the 6H, Genoverse will whiff (on certain situations can still catch them), and you can punish the burst before they land.
+    When they burst the 6H, Genoverse will whiff (on certain situations can still catch them), and you can punish the burst before they land.
 
 https://youtu.be/0PI-_NQTF1M
 
