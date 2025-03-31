@@ -6,7 +6,10 @@ Playlist: https://www.youtube.com/watch?v=N006I0x03wM&list=PL6ZUzEhM_rdB19y3nJJo
 
 !!! Success "Very simple"
 
-    You can cancel 6H into berry or shotgun.
+Cancel into:
+
+- Pull berry.
+- Shotgun.
 
 No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-bridal-pickup) for reference).
 
