@@ -56,16 +56,6 @@ https://youtu.be/0PI-_NQTF1M
 
 ## 66 j.9KSH
 
-The j.K is not burstsafe.
-
-After j.S hits and j.H are burstsafe.
-
-[Lightweights](https://youtu.be/D_YUPAlSDiM)
-
-[Midweights](https://youtu.be/Our4U9iRc-Y)
-
-[Heavyweights](https://youtu.be/2LetmAthhIk)
-
 
 !!! Warning "Regarding burst-safe"
 
@@ -76,6 +66,13 @@ After j.S hits and j.H are burstsafe.
     To create a height difference between Elphelt and the opponentl, do j.K when she's close to start falling.
 
     **If this is not done, only j.H might be burstsafe.**
+
+
+[Lightweights](https://youtu.be/D_YUPAlSDiM)
+
+[Midweights](https://youtu.be/Our4U9iRc-Y)
+
+[Heavyweights](https://youtu.be/2LetmAthhIk)
 
 !!! Note "Potemkin"
 
