@@ -46,7 +46,7 @@ https://youtu.be/apF50AZI8_c
 
 Leads to a **midscreen** SG.H safe-jump.
 
-> 2P > c.S > f.S > 2H > 2D > SG.H
+> 2P > c.S > f.S > 2H(1) > 2D > SG.H
 
 https://youtu.be/ja3_KmBXPZ8
 
@@ -57,6 +57,8 @@ https://youtu.be/ja3_KmBXPZ8
     In those scenarios just use Bridal or 2D.
 
     https://youtu.be/vcMi3DSWpj8
+
+!!! note "2H(2) is possible but less consistent"
 
 ### 2D ender
 
