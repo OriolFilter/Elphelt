@@ -114,10 +114,10 @@ https://youtu.be/WwFwnuwBwFk
 
 ## Bridal
 
-**Bridal looses**
+**Bridal loses**
 
 ## Genoverse
 
-Can be used, but since Riot Stamp clearly looses to some buttons, not recommended.
+Can be used, but since Riot Stamp clearly loses to some buttons, not recommended.
 
 Technically can be used to beat Riot Stamp > RC Blitz, but if the opponent decides to burn 75% meter for you to press a button, who are we to stop them from doing that.
