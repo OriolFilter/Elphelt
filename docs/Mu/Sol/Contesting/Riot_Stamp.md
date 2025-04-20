@@ -37,11 +37,13 @@ CH 5H will cause a hard knockdown, so we can go for:
 
 - `5H > SG Stance`
 
-- `5H*4` for knockdown and `5H*5` for no knockdown. 
-
 https://youtu.be/2WClhXFF18s
 
 !!! success "Good and simple when there is some time to react"
+
+!!! note "5H*5 for more damage?"
+
+    Meanwhile `5H*5` is possible to use to deal a bit more of damage, it's negligible with Bridal. `5H*4` will do a knockdown, but deal the same damage as bridal and the knockdown will bw rose.
 
 ### 5H Trade
 
