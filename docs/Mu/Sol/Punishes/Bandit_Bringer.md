@@ -4,13 +4,11 @@
 
 !!! warning "IB required"
 
-    If IB is not used one cannot punish Sol Bandit Bringer.
-
 On ground **IB** sol is -5 in a **crouching state**, meaning that we can:
 
-- Ground throw (simple)
+- Ground throw (simpler)
 
-- 2P (tight)
+- 2P (harder)
 
 ## Ground throw
 
@@ -18,7 +16,7 @@ On ground **IB** sol is -5 in a **crouching state**, meaning that we can:
 
 - Does 55 damage
 
-- With RC it leads to the respective throw combos.
+- With RC it leads to the respective throw RC combos.
 
 !!! warning "Distance Specific"
 
