@@ -64,6 +64,8 @@ When close to Sol, the 2H pickup is more reliable.
 
 https://youtu.be/Gx0dx_O1AkU
 
+!!! error "2H is better"
+
 ## 2H
 
 If done **too early** will trade with Sol, but can be picked up with c.S
