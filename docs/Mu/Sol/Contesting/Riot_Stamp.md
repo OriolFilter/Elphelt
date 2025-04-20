@@ -88,7 +88,9 @@ https://youtu.be/p8Rk81XH4fI
 
 https://youtu.be/km4aQJ_8sYQ
 
-!!! note "A bit risky"
+!!! Warning "A bit risky"
+
+    In comparison to other options like f.S or 2H, 6H carries more risk.
 
 ### 6H Trade
 
