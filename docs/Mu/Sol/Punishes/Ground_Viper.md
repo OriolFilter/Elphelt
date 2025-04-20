@@ -65,6 +65,8 @@ After tossing `berry > f.S`, cancel into `2H > Pull` followed up on her `2H > Pu
 
 https://youtu.be/Z-dybLijREw
 
+!!! Warning "Concept"
+
 ## w Shotgun
 
 ### Remove shotgun into non-shotgun punish
@@ -109,7 +111,13 @@ Simple but you need to time SG.S with Sol touching the ground or being close to 
 
 https://youtu.be/u4OdvjZjrPg
 
+### Pull SG.D(1) 4Toss concept
 
+> Pull Berry > SG.D(1) > 4Toss > Delay SG.S > [SG.H] or Bridal > Explosion > Pickup  
 
+https://youtu.be/9VNJDDHDDVA
 
+!!! Warning "Concept"
+
+    This one specifically is extra finiky due to having to delay the [SG.H] or Bridal so the opopnent is right above the tossed berry.
 
