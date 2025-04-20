@@ -36,9 +36,9 @@ https://youtu.be/oSHCOS8ZqYw
 
 If we are **very** close, enough for `2S > 2D` to chain, Elphelt can do the `IAD j.Pull j.S Safejump` midscreen.
 
-> 2P > c.S > S > 2D > Bridal
+> 2P > c.S > 2S > 2D > Bridal
 
-Which allows for an IAD j.Pull j.S Safejump from midscreen
+Allows for an IAD j.Pull j.S Safejump from midscreen
 
 https://youtu.be/apF50AZI8_c
 
