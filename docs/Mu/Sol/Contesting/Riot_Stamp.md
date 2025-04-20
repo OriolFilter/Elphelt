@@ -94,6 +94,8 @@ https://youtu.be/km4aQJ_8sYQ
 
 ### 6H Trade
 
+Pick up with `2H`. 
+
 https://youtu.be/2OOJgiQlu5Q
 
 ## SG.S
