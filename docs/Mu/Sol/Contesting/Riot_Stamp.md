@@ -11,11 +11,15 @@ Do either `5P > 5H*5` or `5P > 5H > Bridal`. The latter requires Sol to not be v
 
 https://youtu.be/UsLpQqy735A
 
+!!! success "Safe and simple, with small reward"
+
 ## f.S
 
 If Sol is close enough, you can do `CH f.S > 2H > Pull`, but that requires Sol to be uncomfortably close
 
 https://youtu.be/bQSbV2Pmy-U
+
+!!! success "Good and simple"
 
 ### f.S Trade
 
@@ -33,15 +37,22 @@ CH 5H will cause a hard knockdown, so we can go for:
 
 - `5H > SG Stance`
 
+- `5H*4` for knockdown and `5H*5` for no knockdown. 
+
 https://youtu.be/2WClhXFF18s
+
+!!! success "Good and simple when there is some time to react"
 
 ### 5H Trade
 
 On trade, you cannot take nothing out of it, although still does the hard knockdown.
 
+
 ## 2P
 
 https://youtu.be/6LmZNf-J5jo
+
+!!! Warning "Doable but 2H would be better"
 
 ## 2S
 
@@ -59,15 +70,21 @@ If done **too late** will hit Sol when reaching the ground.
 
 https://youtu.be/SCZd3gjMFK8
 
+!!! success "Low risk with good reward"
+
 ## 6P
 
 If you are very late with the 6P Sol will hit the ground and will be able to throw you.
 
 https://youtu.be/p8Rk81XH4fI
 
+!!! success "Very safe"
+
 ## 6H
 
 https://youtu.be/km4aQJ_8sYQ
+
+!!! note "A bit risky"
 
 ### 6H Trade
 
@@ -79,11 +96,15 @@ SG.S has little margin of not trading with Sol.
 
 https://youtu.be/e_bLCJ0IGXY
 
+!!! error "SG.H is much safer"
+
 ## SG.H / [SG.H]
 
 Just shoot the Sol before he reaches you.
 
 https://youtu.be/WwFwnuwBwFk
+
+!!! success "Good and Simple"
 
 ## Bridal
 
