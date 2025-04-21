@@ -2,14 +2,16 @@ Playlist: https://www.youtube.com/watch?v=N006I0x03wM&list=PL6ZUzEhM_rdB19y3nJJo
 
 # 6H
 
+Cancel into:
+
+- Bridal
+- Pull berry
+- Shotgun
+
 ## 6H > Bridal (ender)
 
 !!! Success "Very simple"
 
-Cancel into:
-
-- Pull berry.
-- Shotgun.
 
 No video will be provided for this (use the video in [6H > Bridal > Pickup](#6h-bridal-pickup) for reference).
 
