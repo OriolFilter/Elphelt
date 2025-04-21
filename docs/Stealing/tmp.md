@@ -73,3 +73,10 @@ how is the
 Runup jump toss (meaty berry toss) > 5K
 
 https://youtu.be/xPDaxCEDpMU
+
+
+
+### yanagi
+
+
+https://x.com/yanagiJPN/status/1118457471029223425

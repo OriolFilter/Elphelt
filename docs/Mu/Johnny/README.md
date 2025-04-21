@@ -43,7 +43,7 @@ Kidiot words:
 https://docs.google.com/document/d/1-V4ZL3FIAj159qioV5mSk3-HDU1FlndSnWrB0pFpDAE/edit?usp=sharing
 
 
-### Yousagi twitter
+### yanagi twitter
 
 2D seems to deal pnicely vs Johnny reversal.
 
