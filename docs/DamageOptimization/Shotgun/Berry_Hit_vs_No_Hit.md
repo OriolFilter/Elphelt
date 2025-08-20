@@ -2,7 +2,8 @@
 
 Which is the impact/damage overall reduction?
 
-The following `SG.D` combo made [185 damage without the berry hit](https://youtu.be/NwHo9cRwiws) vs [174 **with** the berry hit](https://youtu.be/tPFZmveH_Qg) on sol at 100% HP.
+- [**185** damage **without** the berry hit](https://youtu.be/NwHo9cRwiws)
+- [**174** damage **with** the berry hit](https://youtu.be/tPFZmveH_Qg)
 
 !!! into "Combo used to test:"
 
