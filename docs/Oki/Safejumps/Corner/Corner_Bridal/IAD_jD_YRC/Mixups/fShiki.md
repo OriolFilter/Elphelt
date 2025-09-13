@@ -70,3 +70,9 @@ Todo/Toexplore
 After j.Toss (if blocked), landing > 6H is a true blockstring.
 
 After j.Toss (if blocked), landing > 6H > Bridal is a true blockstring that leaves us substantially plus. (need to check the numbers)
+
+## TODO
+
+It is possible to do IAD j.Pull j.D YRC |> IAD j.KSPS |> toss.
+
+https://youtu.be/dHRVR-FjNHU?t=26394
