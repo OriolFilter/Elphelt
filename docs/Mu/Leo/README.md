@@ -1,5 +1,13 @@
 # Leo
 
+## Counter measures doc(s)
+
+www.dustloop.com/w/GGXRD-R2/Leo_Whitefang/Resources#Documents
+
+- [Normals](https://lite.evernote.com/note/7e53ba64-cbdd-4ace-b24d-b3d1f67b8093)
+- [Specials](https://lite.evernote.com/note/a6dc3213-901e-40c6-9dc9-0185e71d18d9)
+- [Stance](https://lite.evernote.com/note/6e7a37a3-51b3-4712-a987-ee217a69b321)
+- [Necessary materia](https://lite.evernote.com/note/227c175b-340e-4437-baa9-1a02d428bf32)
 
 ## Discord txt
 
