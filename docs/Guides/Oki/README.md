@@ -5,18 +5,17 @@ Bridal overall, **as a general rule of thumb** gives a mediocre oki (as long met
 
 Your options mostly are (**without j.D YRC/meter involved**):
 
-- Pull toss > button (what you mentioned)
-- Pull  > button  -> you won't get a true blockstring due to spacing (midscreen)
+- Pul > toss
+- Pull > button  -> you won't get a true blockstring due to spacing (midscreen)
 - Pull > toss > button  -> the berry into button could be gapless but that's about it, if they block you don't have more gapless shenanigans, also means that most likely you thrown berry early so you are quite spaced/limited options
 - Run-up > button  (no berry) -> basic thing with no sauce
 - j.S Safejump -> standard, simple, Safejump, you can still go for late AD for mixup etc
 
-Not only the **mixup options are mediocre**, **also the reward** out of it.
+Not only the **mixup options are mediocre**, **also the reward**.
 
-There is the possibility of doing the IAD j.Pull from bridal in mid screen, but it's a bit advanced, since you need to know if you are to close or too far etc, if you are too close you will iad j.pull over the opponent. Usually adding 2D before bridal works to create that spacing.
+There is the possibility of doing the IAD j.Pull from bridal in midscreen, but it's a bit advanced, since you need to know if you are to close or too far etc, if you are too close you will iad j.pull over the opponent. Usually adding 2D before bridal works to create that spacing.
 
-[[Video]](https://discord.com/channels/121387821977042945/121388142941962241/1547711994860146818) # TODO replace
-
+[Video](/Oki/Safejumps/Midscreen/Midscreen_Bridal/)
 
 ## 2D > Shotgun.H
 
@@ -26,39 +25,40 @@ If you are close enough to the opponent, you can do 2D > Shotgun.H to force a kn
 
 ## 2D
 
-This is the real deal. Not only you get more options as oki, **the reward is infinitely better**.
+This is the real deal.
 
-Opponent doesn't fall far, means you don't need to worry about the spacing that much.
+You get more options as oki with better reward.
 
-You have a gazillion of frames to pull berry, so your worry for hitting berry meaty is gone.
+Opponent doesn't land as far, so distance isn't generally an issue.
 
-You will have berry in the ground (and not far from you), so if you open them, just shoot the berry!  Ofc there are various pickups from there etc. 
+Since we have berry (so it's safer for us), and the reward is better), it makes more threatening for the opponent taking risks. 
 
-The options are there:
+### 2D > j.S > safejump/mixups
 
-### 2D > j.S safejump/mixups
+> **No Berry**
 
-- 2D j.S safejump/late AD   -> I think Yanagi had a video or it was lost or it was didact, might need to either record, or ask
-
+- 2D j.S late AD mix -> I think Yanagi had a video, or it was lost, or it was didact, might need to either record, or ask. Cannot find it.
 
 ### 2D > Pull > meaty Toss 
 
-- 2D oki pull toss 5k 2d toss sg.h etc
+> Hitting the opponent with the berry on wakeup.
+
+- [Toss > 6P](https://youtu.be/3EaSrEJu_5U). Overhead.
+
 - 2D oki pull toss 6p sg.h   # TODO -> needs rerecording and add reversal interaction
 
-### 2D > j.S
+### 2D > Pull > Safejump
 
-- 2D pull 2K/5K > 2D  -> Not a safejump, low option
+- [Meaty j.S (Standing characters)](https://youtu.be/WrBBpbf2AWs). This works only in wide/fat characters, such as Ky.
 
-### 2D > Pull > j.S Safejump
+- [Crouching combo](https://youtu.be/4rJgEn0WWc4)
 
-- 2D oki pull toss 5k 2d toss sg.h etc
+- [j.S > 2D](https://youtu.be/QWpkRn2CMm4). On paper, works both if they get hit by j.S or 2D.
 
-- 2D oki pull toss 6p sg.h  -> needs rerecording and add reversal interaction
+- [Emptyjump 2K/5K > 2D](https://youtu.be/En7PhObOvoc). Not safe to reversals or wakeup throw. 2K is slightly faster than 5K, therefore gives less room to being thrown/mashed. Instead of dash > neutraljump you can do straight up j9 since time is scarse.
+
+- Late Airdash (looses to reversals/mashing) # TODO
 
 ### 2D > j.Pull
 
-I don't know how much it matters/affects the timing of the berry.
-
-
-# TODO
+I don't know how much it matters/affects the timing of the berry other than being relevant to fShiki setups.
