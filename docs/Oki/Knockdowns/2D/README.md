@@ -38,6 +38,8 @@
 
 I don't know how much it matters/affects the timing of the berry other than being relevant to fShiki setups.
 
+Same with superjump etc, still leads to highlow, now can toss AD toss (I think), etc.
+
 ## Corner
 
 ### TODO
