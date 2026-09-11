@@ -1,5 +1,8 @@
-
 # 2D
+
+!!! Info "SG.He Converions"
+
+    For conversions from SG.He (SG.H > berry explosion) check this. 
 
 ## Midscreen
 
