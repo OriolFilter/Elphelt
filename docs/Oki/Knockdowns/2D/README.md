@@ -13,9 +13,11 @@
 
 > Hitting the opponent with the berry on wakeup.
 
-- [Toss > 6P](https://youtu.be/3EaSrEJu_5U). Overhead. # TODO -> needs rerecording and add reversal interaction
+- [Toss > 6P](https://youtu.be/3EaSrEJu_5U). Overhead. In mid-screen, usually won't be gapless, or if its gapless, depending on the reversal you might have put yourself in the hit range. Usually it's fine if there is a gap if that means you get to go through the reversal.
 
-- [Toss > 2K/5K/2D](#TODO). Single/Double/Triple low.
+- [Toss > 2K/5K/2D](https://youtu.be/RS54l4pgfvg). Single/Double/Triple low. Not Reversal Safe
+
+- [Toss > Spaced 2D](https://youtu.be/FuLuQokjBhA). Reversal safe.
 
 ### 2D > Pull > Safejump
 
