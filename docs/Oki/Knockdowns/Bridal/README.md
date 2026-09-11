@@ -4,13 +4,13 @@
 
 Your options mostly are (**without j.D YRC/meter involved**):
 
-- Pul > toss
+- Pull > toss
 
 - Pull > button -> you won't get a true blockstring due to spacing (midscreen)
 
 - Pull > toss > button -> the berry into button could be gapless but that's about it, if they block you don't have more gapless shenanigans, also means that most likely you thrown berry early so you are quite spaced/limited options
 
-- Run-up > button  (no berry) -> basic thing with no sauce
+- (pull >) Run-up > button  -> Basic thing with no sauce. If you pulled berry it limits your options even more/oppo will be expecting a toss. Some chars can punish you for that.
 
 - j.S Safejump -> standard, simple, Safejump, you can still go for late AD for mixup etc
 
