@@ -2,7 +2,7 @@
 
 !!! Info "SG.He Converions"
 
-    For conversions from SG.He (SG.H > berry explosion) check this. 
+    For conversions from SG.He (SG.H > berry explosion) check [this](https://oriol.elphe.lt/ComboStructure/Shotgun/SGh_Shoot_Berry/). 
 
 ## Midscreen
 
